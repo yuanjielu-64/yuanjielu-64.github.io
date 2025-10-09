@@ -22,7 +22,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <a href="#topic-motion-planning" onClick="return publicationByTopicSpecific(this)" data-topic="motion-planning">Motion Planning</a> /
         <a href="#topic-learning-based-navigation" onClick="return publicationByTopicSpecific(this)" data-topic="learning-based-navigation">Learning-based Navigation</a> /
         <a href="#topic-benchmarks-datasets" onClick="return publicationByTopicSpecific(this)" data-topic="benchmarks-datasets">Benchmarks & Datasets</a> /
-        <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="machine-learning">Bioinformatics</a>
+        <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="machine-learning">machine-learning</a>
         <br />
     </p>
     <div id="pub-card-container" class="activated hide">
