@@ -80,20 +80,20 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1303–1310, 2021
         | <a href="https://ieeexplore.ieee.org/document/9669692">paper</a>
       </div>
-      <div class="pub-card" data-topic="traffic-forecasting" data-year="2024" data-selected="true">
+       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
+        <strong>Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</strong><br>
+        <em><b>Y. Lu</b>, E. Plaku</em><br>
+        arXiv preprint <a href="https://arxiv.org/abs/2503.20530" target="_blank">arXiv:2503.20530</a>, 2025
+      </div>
+      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
         <strong>Traffic Flow Forecasting with Maintenance Downtime via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
         <em><b>Y. Lu</b>, P. Kamranfar, D. Lattanzi, A. Shehu</em><br>
         arXiv preprint <a href="https://arxiv.org/abs/2110.01535" target="_blank">arXiv:2110.01535</a>, 2024
       </div>
-      <div class="pub-card" data-topic="traffic-forecasting" data-year="2024" data-selected="true">
+      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
         <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting</strong><br>
         <em><b>Y. Lu</b>, A. Shehu, D. Lattanzi</em><br>
         arXiv preprint <a href="https://arxiv.org/abs/2407.11407" target="_blank">arXiv:2407.11407</a>, 2024
-      </div>
-      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
-        <strong>Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</strong><br>
-        <em><b>Y. Lu</b>, E. Plaku</em><br>
-        arXiv preprint <a href="https://arxiv.org/abs/2503.20530" target="_blank">arXiv:2503.20530</a>, 2025
       </div>
     </div>
   </div>
