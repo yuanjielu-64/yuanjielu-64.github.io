@@ -41,7 +41,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
         <em><b>Y. Lu</b>, et al.</em><br>
-        IEEE International Conference on Robotics and Automation (ICRA) 2025, Competition Track (BARN Challenge), 2025
+        IEEE International Conference on Robotics and Automation (ICRA) 2025, Competition Track 2025
         | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf">paper</a>
       </div>
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
