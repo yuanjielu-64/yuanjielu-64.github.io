@@ -34,34 +34,6 @@ Research & Work Experience
 * **Summer Research Assistant**, May 2020 - Aug 2020 
   * Virginia Department of Transportation & George Mason University
     
-Research Projects
-======
-* **Adaptive Dynamics Planning (ADP)**, Submitted to ICRA 2026  
-  * Dual-system integration of classical and RL-based planners for adaptive navigation dynamics modeling  
-
-* **Decremental Dynamics Planning (DDP)**, IROS 2025  
-  * Hierarchical dynamic reconfiguration framework for efficient robot navigation  
-
-* **Multi-Goal Motion Memory**, ICRA 2025  
-  * Memory-augmented motion planning using CNN-based trajectory predictor  
-
-* **Reward Training Wheels**, IROS 2025  
-  * Adaptive auxiliary reward shaping for reinforcement learning  
-
-Publications
-======
-* *Adaptive Dynamics Planning for Robot Navigation.* **IEEE ICRA 2026 (under review)**  
-* *Autonomous Ground Navigation in Highly Constrained Spaces.* **IEEE ICRA 2025** (BARN Challenge Track)  
-* *Decremental Dynamics Planning for Robot Navigation.* **IEEE IROS 2025**  
-* *Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning.* **IEEE IROS 2025**  
-* *Multi-Goal Motion Memory for Robot Navigation.* **IEEE ICRA 2025**
-
-Research Support
-======
-* **Sep 2025:** ICRA 2025 paper *“Autonomous Ground Navigation in Highly Constrained Spaces”* supported by Clearpath Robotics and MIX  
-* **May 2025:** IROS 2025 papers *“Decremental Dynamics Planning”* and *“Reward Training Wheels”* supported by NSF and ARO  
-* **Jan 2025:** ICRA 2025 paper *“Multi-goal Motion Memory for Robot Navigation”* supported by NSF  
-
 Skills
 ======
 * **Programming:** C++, Python, Java  
@@ -74,8 +46,3 @@ Service and Leadership
 * Reviewer: ICRA, IROS, RA-L (2024-2025) 
 * Team Lead, GMU BARN Challenge 2025 Team  
 
-Contact
-======
-* **Email:** yakouhelo96@outlook.com  
-* **GitHub:** [github.com/yuanjielu-64](https://github.com/yuanjielu-64)  
-* **Location:** Vienna, VA, USA
