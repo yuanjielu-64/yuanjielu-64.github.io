@@ -30,7 +30,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
         <em><b>Y. Lu</b>, L. Wang, T. Xu, X. Xiao</em><br>
         under review at IEEE International Conference on Robotics and Automation (ICRA), 2026
-        <!-- | <a href="https://arxiv.org/pdf/2510.05330">paper</a> -->
+        | <a href="https://arxiv.org/pdf/2510.05330">paper</a>
       </div>
       
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
