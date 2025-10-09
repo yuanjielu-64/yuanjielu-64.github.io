@@ -12,22 +12,17 @@ I aim to build **intelligent navigation systems** that enable robots to operate 
 ---
 
 ## 🔬 Research Themes
-
 ### **Deep Learning & Reinforcement Learning for Autonomous Robot Navigation**
 Developing learning-based approaches for robot perception, planning, and control that enable adaptive navigation in dynamic environments.
-
 ### **AI-driven Decision-Making for Robot Motion Planning and Control**
 Leveraging AI methods to enhance decision-making across motion planning and control.
-
 ### **LLMs and VLMs for Low-Level Decision-Making in Robot Navigation**
-Investigating how LLMs and VLMs can be used for **direct low-level decision-making** in robot navigation. Rather than limiting foundation models to high-level reasoning, the goal is to explore their potential to generate immediate motion commands and reactive control actions.
+Investigating how LLMs and VLMs can be used for **direct low-level decision-making** in robot navigation.
 
 ---
 
 ### **Future Work: Legged & Humanoid Navigation**
-
 My future research focuses on **navigation** (path planning and spatial reasoning) for legged robots, including **locomotion** (gait generation and motor control).
-
 **Next challenges:**
 - Quadruped climbing and navigation on non-planar terrain
 - Humanoid robots: climbing obstacles and dynamic balance
