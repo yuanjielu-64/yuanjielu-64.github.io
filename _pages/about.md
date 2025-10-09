@@ -30,7 +30,8 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
 *Combining classical motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in constrained environments*
 
-![ADP Demo](/images/ICRA2026_0.gif)
+![ADP Demo](/images/ICRA2026_0.gif) 
+![ADP Demo](/images/ICRA2026_1.gif)
 
 **Highlights:**
 - 99% success rate and 1st place on BARN Challenge benchmark
