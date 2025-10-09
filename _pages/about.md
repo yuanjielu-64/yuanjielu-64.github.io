@@ -12,7 +12,7 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 ## Research Interests
   * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
   * ***AI-driven Decision-Making for Robot Motion Planning and Control*** 
-  * ***Large Language Models for Robotics Reasoning***
+  * ***LLMs and VLMs for Low-Level Decision-Making in Robot Navigation***
 
 ## Recent Projects
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
