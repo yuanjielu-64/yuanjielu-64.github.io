@@ -37,7 +37,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
         <em><b>Y. Lu</b>, T. Xu, L. Wang, N. Hawes, X. Xiao</em><br>
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, accepted, 2025
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://arxiv.org/pdf/2503.20521">paper</a>
       </div>
       
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
