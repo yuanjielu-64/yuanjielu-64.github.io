@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
-googlescholar: https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en
+googlescholar: [https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en](https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en)
 ---
 
 <html>
