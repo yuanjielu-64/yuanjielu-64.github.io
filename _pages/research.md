@@ -7,20 +7,20 @@ author_profile: true
 
 # What I Do
 
-I aim to build **intelligent navigation systems** that enable robots to operate autonomously in complex, unstructured environments—from disaster zones to dynamic indoor spaces.
+I aim to build **intelligent navigation systems** that enable robots to operate autonomously in complex, unstructured environments.
 
 ---
 
 ## 🔬 Research Themes
 
-### **Deep Learning & Reinforcement Learning for Robot Navigation**
-Using RL and deep learning to enhance different components of the navigation stack—from perception and planning to control—creating more robust and adaptive autonomous systems.
+### **Deep Learning & Reinforcement Learning for Autonomous Robot Navigation**
+Developing learning-based approaches for robot perception, planning, and control that enable adaptive navigation in dynamic environments.
 
-### **AI-driven Decision-Making for Motion Planning and Control**
+### **AI-driven Decision-Making for Robot Motion Planning and Control**
 Leveraging AI methods to enhance decision-making across motion planning and control.
 
 ### **LLMs and VLMs for Low-Level Decision-Making in Robot Navigation**
-Investigating how LLMs and VLMs can be used for **direct low-level decision-making** in robot navigation. Rather than limiting foundation models to high-level reasoning, I explore their potential to generate immediate motion commands and reactive control actions.
+Investigating how LLMs and VLMs can be used for **direct low-level decision-making** in robot navigation. Rather than limiting foundation models to high-level reasoning, the goal is to explore their potential to generate immediate motion commands and reactive control actions.
 
 ---
 
