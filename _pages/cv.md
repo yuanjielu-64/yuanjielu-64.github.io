@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[📄 **Download Full CV (PDF)**]( {{ base_path }}/assets/files/Yuanjie_Lu_CV.pdf ){: .btn .btn--primary target="_blank"}
+[📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
 
 Education
 ======
