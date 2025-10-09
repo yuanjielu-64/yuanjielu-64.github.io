@@ -16,18 +16,15 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
   * ***Machine Learning for Motion Planning***: Combining ML algorithms with traditional planners to improve planning efficiency and path quality
 
 ## Recent Projects
-
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
 *Combining classical motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in constrained environments*
 
 <img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
 
-
 **Highlights:**
 - 99% success rate and 1st place on BARN Challenge benchmark
 - 30% reduction in traversal time compared to fixed-schedule baselines
 - Paper submitted to IEEE ICRA 2026 | [Project Website](link)
-
 ---
 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
@@ -42,7 +39,6 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 - Tested on Unitree Go2 with wireless ROS2 communication
 
 ## News
-
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
 * **[Sep 2025]** Paper "Autonomous Ground Navigation in Highly Constrained Spaces" published in IEEE ICRA 2025 (BARN Challenge Competition Track)
 * **[Sep 2025]** Our paper "Adaptive Dynamics Planning for Robot Navigation" submitted to IEEE ICRA 2026
