@@ -80,7 +80,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1303–1310, 2021
         <!-- | <a href="#">paper</a> -->
       </div>
-  
+    </div>
   </div>
 </div>
 
