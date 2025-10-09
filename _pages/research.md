@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# What I Do
+## 🌟 What I Do
 
 I aim to build **intelligent navigation systems** that enable robots to operate autonomously in complex, unstructured environments.
 
@@ -21,7 +21,7 @@ Investigating how LLMs and VLMs can be used for **direct low-level decision-maki
 
 ---
 
-### **Future Work: Legged & Humanoid Navigation**
+## 🚀 Future Work: Legged & Humanoid Navigation
 My future research focuses on **navigation** for legged robots, including **locomotion** (gait generation and motor control).
 **Next challenges:**
 - Quadruped climbing and navigation on non-planar terrain
