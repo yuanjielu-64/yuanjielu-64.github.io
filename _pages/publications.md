@@ -42,43 +42,43 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
         <em><b>Y. Lu</b>, et al.</em><br>
         IEEE International Conference on Robotics and Automation (ICRA) 2025, Competition Track (BARN Challenge), 2025
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf">paper</a>
       </div>
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
         <strong>Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</strong><br>
         <em>L. Wang, T. Xu, <b>Y. Lu</b>, X. Xiao</em><br>
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, accepted, 2025
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://arxiv.org/pdf/2503.15724">paper</a>
       </div>
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="false">
         <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
         <em>T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <b>Y. Lu</b>, X. Xiao</em><br>
         IEEE Robotics and Automation Letters (RA-L), 2025
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://arxiv.org/pdf/2502.11426">paper</a>
       </div>
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2024" data-selected="true">
         <strong>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</strong><br>
         <em>D. Das, <b>Y. Lu</b>, E. Plaku, X. Xiao</em><br>
         IEEE International Conference on Robotics and Automation (ICRA), pp. 16467–16474, 2024
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://arxiv.org/pdf/2310.06198">paper</a>
       </div>
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2023" data-selected="true">
         <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
         <em><b>Y. Lu</b>, E. Plaku</em><br>
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 850–857, 2023
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://ieeexplore.ieee.org/document/10341945">paper</a>
       </div>
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2022" data-selected="true">
         <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
         <em>H. D. Bui, <b>Y. Lu</b>, E. Plaku</em><br>
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4486–4491, 2022
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://ieeexplore.ieee.org/document/9981753">paper</a>
       </div>
       <div class="pub-card" data-topic="bioinformatics" data-year="2021" data-selected="false">
         <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
         <em>Y. Du, Y. Wang, F. Alam, <b>Y. Lu</b>, X. Guo, L. Zhao, A. Shehu</em><br>
         IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1303–1310, 2021
-        <!-- | <a href="#">paper</a> -->
+        | <a href="https://ieeexplore.ieee.org/document/9669692">paper</a>
       </div>
     </div>
   </div>
