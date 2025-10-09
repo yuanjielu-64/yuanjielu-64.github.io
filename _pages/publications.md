@@ -26,7 +26,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <br />
     </p>
     <div id="pub-card-container" class="activated hide">
-      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2026" data-selected="true">
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
         <em><b>Y. Lu</b>, L. Wang, T. Xu, X. Xiao</em><br>
         under review at IEEE International Conference on Robotics and Automation (ICRA), 2026
@@ -38,7 +38,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         IEEE International Conference on Robotics and Automation (ICRA) 2025, Competition Track (BARN Challenge), 2025
         <!-- | <a href="#">paper</a> -->
       </div>
-      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
+      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
         <em><b>Y. Lu</b>, T. Xu, L. Wang, N. Hawes, X. Xiao</em><br>
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, accepted, 2025
