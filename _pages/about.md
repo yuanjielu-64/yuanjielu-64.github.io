@@ -20,22 +20,14 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 
 <img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
 
-**Highlights:**
-- 99% success rate and 1st place on BARN Challenge benchmark
-- 30% reduction in traversal time compared to fixed-schedule baselines
-
 ---
 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
-*Quadruped navigation in disaster and unstructured environments with vision-LiDAR fusion*
+*Autonomous Navigation for Legged Robots in Complex Environments*
 
   <img src="/images/jhu1.gif" width="330">  <img src="/images/jhu4.gif" width="330">
   <img src="/images/jhu3.gif" width="330">  <img src="/images/jhu5.gif" width="330">
 
-**Highlights:**
-- Real-time obstacle detection at 15 Hz with YOLO-based visual detection
-- PPO-based adaptive policy for waypoint tracking and terrain-aware navigation
-- Tested on Unitree Go2 with wireless ROS2 communication
 
 ## News
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
