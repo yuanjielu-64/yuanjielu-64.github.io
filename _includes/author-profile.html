@@ -6,8 +6,6 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <img src="{{ author.avatar }}" alt="{{ author.name }}" style="border-radius:50%;width:180px;height:180px;object-fit:cover;">
-
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
