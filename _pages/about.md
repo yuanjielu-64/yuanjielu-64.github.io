@@ -30,8 +30,9 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
 *Combining classical motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in constrained environments*
 
-![ADP Demo](/images/ICRA2026_0.gif) 
 ![ADP Demo](/images/ICRA2026_1.gif)
+![ADP Demo](/images/ICRA2026_0.gif) 
+
 
 **Highlights:**
 - 99% success rate and 1st place on BARN Challenge benchmark
@@ -43,7 +44,7 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
 *Quadruped navigation in disaster and unstructured environments with vision-LiDAR fusion*
 
-![JHU Quadruped Demo](path/to/jhu.gif)
+![JHU Quadruped Demo](/images/jhu1.gif)
 
 **Highlights:**
 - Real-time obstacle detection at 15 Hz with YOLO-based visual detection
