@@ -44,10 +44,10 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
 *Quadruped navigation in disaster and unstructured environments with vision-LiDAR fusion*
 
-![JHU Quadruped Demo](/images/jhu1.gif)
-![JHU Quadruped Demo](/images/jhu4.gif)
-![JHU Quadruped Demo](/images/jhu3.gif)
-![JHU Quadruped Demo](/images/jhu5.gif)
+<img src="/images/jhu1.gif" width="300">
+<img src="/images/jhu4.gif" width="300">
+<img src="/images/jhu3.gif" width="300">
+<img src="/images/jhu5.gif" width="300">
 
 **Highlights:**
 - Real-time obstacle detection at 15 Hz with YOLO-based visual detection
