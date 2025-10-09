@@ -45,6 +45,9 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 *Quadruped navigation in disaster and unstructured environments with vision-LiDAR fusion*
 
 ![JHU Quadruped Demo](/images/jhu1.gif)
+![JHU Quadruped Demo](/images/jhu4.gif)
+![JHU Quadruped Demo](/images/jhu3.gif)
+![JHU Quadruped Demo](/images/jhu5.gif)
 
 **Highlights:**
 - Real-time obstacle detection at 15 Hz with YOLO-based visual detection
