@@ -22,11 +22,10 @@ Investigating how LLMs and VLMs can be used for **direct low-level decision-maki
 ---
 
 ### **Future Work: Legged & Humanoid Navigation**
-My future research focuses on **navigation** (path planning and spatial reasoning) for legged robots, including **locomotion** (gait generation and motor control).
+My future research focuses on **navigation** for legged robots, including **locomotion** (gait generation and motor control).
 **Next challenges:**
 - Quadruped climbing and navigation on non-planar terrain
 - Humanoid robots: climbing obstacles and dynamic balance
-- Integrating vision-based foothold selection with motion control
 
 ---
 
