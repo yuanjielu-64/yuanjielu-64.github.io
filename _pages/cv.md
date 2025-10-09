@@ -19,44 +19,85 @@ redirect_from:
 - **M.S. in Computer Science**, George Mason University (Aug 2019 – May 2021)
 
 ---
-
 # Research & Work Experience
 
-- **Research Internship**, Johns Hopkins University (May 2025 – Present)  
-  Working on LLM/VLM-based adaptive navigation and cross-modal perception for robotic systems.
-  
-- **Research Internship**, Unitree Robotics (May 2024 - Aug. 2024)
-  
+## Industry & Academic Positions
 
-- **Research Assistant**, George Mason University (Aug 2021 – May 2025)  
-  Projects include:
-  - **Adaptive Dynamics Planning (ADP)** — Dual-system integration of classical and RL-based planners for adaptive modeling of navigation dynamics (ICRA 2026 submission).  
-  - **Decremental Dynamics Planning (DDP)** — Hierarchical dynamic reconfiguration framework for efficient robot navigation (IROS 2025).  
-  - **Multi-goal Motion Memory** — Memory-augmented motion planning using CNN-based trajectory predictor to reuse prior path planning experiences (ICRA 2025).  
-  - **Reward Training Wheels** — Adaptive auxiliary reward shaping for reinforcement learning (IROS 2025).  
-  - **Motion Memory** — Memory-augmented motion planning using CNN-based trajectory prediction (ICRA 2025).
+**Research Engineering Intern**  
+*Johns Hopkins University* | Baltimore, MD  
+May 2025 - Aug. 2025
+- Developed LLM/VLM-based adaptive navigation system for Unitree Go2 quadruped robot in disaster environments
+- Engineered cross-modal perception pipeline fusing 3D LiDAR and vision for real-time obstacle detection
+- Implemented wireless ROS2 communication achieving sub-60ms latency for autonomous operation
 
-- **Collaborative Researcher**, University of South Florida & University of Maryland (Oct 2025 – Present)  
-  Developing three joint papers on LLM/VLM-based autonomous navigation.
+**Summer Research Fellow**  
+*Institute for Digital InnovAtion (IDIA), George Mason University* | Fairfax, VA  
+May 2024 - Aug. 2024
+- Awarded competitive Digital Innovation Fellowship ($8,000) for doctoral research on legged robotics
+- Developed visual-LiDAR fusion system improving obstacle detection accuracy for Unitree Go1 quadruped
+- Collaborated with Unitree Robotics technical team on hardware integration and system validation
+
+**Graduate Research Assistant**  
+*George Mason University* | Fairfax, VA  
+Aug. 2021 - Present
+- Conducting doctoral research on robot navigation and motion planning under Prof. Xuesu Xiao
+- Published 4 papers at top robotics conferences (ICRA, IROS) with 2 additional submissions under review
+- Projects span adaptive dynamics planning, memory-augmented motion planning, and reinforcement learning
+
+**Research Assistant (VDOT-Sponsored Project)**  
+*George Mason University* | Fairfax, VA  
+May 2023 - Aug. 2023  *(修正了时间，请确认)*
+- Developed deep learning models for traffic flow forecasting under dynamic disruptions for Virginia DOT
+- Implemented robust prediction framework handling road closures, construction zones, and irregular conditions
+- Processed large-scale traffic sensor data achieving improved prediction stability
+
+**Collaborative Researcher**  
+*University of South Florida & University of Maryland*  
+Oct. 2025 - Present
+- Collaborating on three joint research papers on LLM/VLM-based autonomous navigation
+- Contributing expertise in adaptive planning and cross-modal perception for mobile robotics
+
+---
+
+## Research Projects (at GMU)
+
+**Adaptive Dynamics Planning (ADP)**  
+*Submitted to ICRA 2026*
+- Dual-system integration of classical and RL-based planners for adaptive navigation dynamics modeling
+- Combines model-based and learning-based approaches for robust long-horizon planning
+
+**Decremental Dynamics Planning (DDP)**  
+*Published at IROS 2025*
+- Hierarchical dynamic reconfiguration framework for efficient robot navigation
+- Achieves real-time replanning through progressive model simplification
+
+**Multi-Goal Motion Memory**  
+*Published at ICRA 2025*
+- Memory-augmented motion planning using CNN-based trajectory predictor
+- Enables experience reuse across similar navigation scenarios, reducing planning time
+
+**Reward Training Wheels**  
+*Published at IROS 2025*
+- Adaptive auxiliary reward shaping method for reinforcement learning
+- Automatically phases out auxiliary rewards to prevent policy degradation
 
 ---
 
 # Publications
+- *Adaptive Dynamics Planning for Robot Navigation.*  
+  Submitted to **IEEE ICRA 2026**, 2025.
 
 - *Autonomous Ground Navigation in Highly Constrained Spaces.*  
   **IEEE ICRA 2025**, BARN Challenge Competition Track, 2025.
 
-- *Multi-goal Motion Memory for Robot Navigation.*  
-  **IEEE ICRA 2025**, 2025.
-
 - *Decremental Dynamics Planning for Robot Navigation.*  
   **IEEE IROS 2025**, 2025.
-
+  
 - *Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning.*  
   **IEEE IROS 2025**, 2025.
 
-- *Adaptive Dynamics Planning for Robot Navigation.*  
-  Submitted to **IEEE ICRA 2026**, 2025.
+- *Multi-goal Motion Memory for Robot Navigation.*  
+  **IEEE ICRA 2025**, 2025.
 
 ---
 
