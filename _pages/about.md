@@ -23,7 +23,7 @@ I am a PhD candidate in Computer Science at George Mason University, advised by 
 **Highlights:**
 - 99% success rate and 1st place on BARN Challenge benchmark
 - 30% reduction in traversal time compared to fixed-schedule baselines
-- Paper submitted to IEEE ICRA 2026 | [Project Website](link)
+- Paper submitted to IEEE ICRA 2026 
 ---
 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
