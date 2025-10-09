@@ -230,7 +230,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+    
+footer:
+  custom: false
 
 # These settings control how pages and collections are included in the site
 defaults:
