@@ -23,7 +23,7 @@ repository               : "yuanjielu-64/yuanjielu-64.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/yuanjie_lu.png"
+  avatar           : "yuanjie_lu.png"
   name             : "Yuanjie Lu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, George Mason University"
