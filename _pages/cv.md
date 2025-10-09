@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Computer Science**, George Mason University, Fairfax, VA, USA (Aug 2021 – Present)
   * Advisor: [Prof. Xuesu Xiao](https://cs.gmu.edu/~xiao/)
-  * Research Focus: Machine Learning and Reinforcement Learning for Autonomous Robot Navigation; AI-driven Decision-Making for Motion Planning and Control
+  * Research Focus: Deep Learning and Reinforcement Learning for Autonomous Robot Navigation; AI-driven Decision-Making for Motion Planning and Control
 
 * **M.S. in Computer Science**, George Mason University (Aug 2019 – May 2021)
 
