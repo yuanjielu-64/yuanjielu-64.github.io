@@ -22,7 +22,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <a href="#topic-motion-planning" onClick="return publicationByTopicSpecific(this)" data-topic="motion-planning">Motion Planning</a> /
         <a href="#topic-learning-based-navigation" onClick="return publicationByTopicSpecific(this)" data-topic="learning-based-navigation">Learning-based Navigation</a> /
         <a href="#topic-benchmarks-datasets" onClick="return publicationByTopicSpecific(this)" data-topic="benchmarks-datasets">Benchmarks & Datasets</a> /
-        <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="bioinformatics">Bioinformatics</a>
+        <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="machine-learning">Bioinformatics</a>
         <br />
     </p>
     <div id="pub-card-container" class="activated hide">
@@ -74,11 +74,29 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4486–4491, 2022
         | <a href="https://ieeexplore.ieee.org/document/9981753">paper</a>
       </div>
-      <div class="pub-card" data-topic="bioinformatics" data-year="2021" data-selected="true">
+      <div class="pub-card" data-topic="machine-learning" data-year="2021" data-selected="true">
         <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
         <em>Y. Du, Y. Wang, F. Alam, <b>Y. Lu</b>, X. Guo, L. Zhao, A. Shehu</em><br>
         IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1303–1310, 2021
         | <a href="https://ieeexplore.ieee.org/document/9669692">paper</a>
+      </div>
+      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
+        <strong>Traffic Flow Forecasting with Maintenance Downtime via Multi-Channel Attention-based Spatio-Temporal Graph Convolutional Networks</strong><br>
+        <em><b>Y. Lu</b>, et al.</em><br>
+        arXiv preprint, 2024 | 
+        <a href="https://arxiv.org/abs/2409.xxxxx" target="_blank">paper</a>
+      </div>
+      <div class="pub-card" data-topic="motion-planning" data-year="2024" data-selected="true">
+        <strong>Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</strong><br>
+        <em><b>Y. Lu</b>, et al.</em><br>
+        arXiv preprint, 2024 | 
+        <a href="https://arxiv.org/abs/2408.xxxxx" target="_blank">paper</a>
+      </div>
+      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
+        <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting</strong><br>
+        <em><b>Y. Lu</b>, et al.</em><br>
+        arXiv preprint, 2024 | 
+        <a href="https://arxiv.org/abs/2407.xxxxx" target="_blank">paper</a>
       </div>
     </div>
   </div>
