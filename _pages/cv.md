@@ -31,7 +31,7 @@ Research & Work Experience
 * **Summer Research Fellow**, May 2024 – Aug 2024  
   * Unitree Robotics & Institute for Digital Innovation (IDIA)  
  
-* **Graduate Research Assistant (VDOT-Sponsored Project)**, May 2020 - Aug 2020 
+* **Summer Research Assistant**, May 2020 - Aug 2020 
   * Virginia Department of Transportation & George Mason University
     
 Research Projects
