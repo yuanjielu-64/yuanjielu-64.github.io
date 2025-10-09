@@ -14,7 +14,7 @@ redirect_from:
 # Education
 - **Ph.D. in Computer Science**, George Mason University, Fairfax, VA, USA (Aug 2021 – Present)  
   Advisor: Prof. Xuesu Xiao  
-  Research Focus: Machine Learning and Reinforcement Learning for Autonomous Robot Navigation
+  Research Focus: Machine Learning and Reinforcement Learning for Autonomous Robot Navigation; AI-driven Decision-Making for Motion Planning and Control
 
 - **M.S. in Computer Science**, George Mason University (Aug 2019 – May 2021)
 
@@ -22,16 +22,19 @@ redirect_from:
 
 # Research & Work Experience
 
-- **Research Engineer**, Johns Hopkins University (May 2025 – Present)  
+- **Research Internship**, Johns Hopkins University (May 2025 – Present)  
   Working on LLM/VLM-based adaptive navigation and cross-modal perception for robotic systems.
+  
+- **Research Internship**, Unitree Robotics (May 2024 - Aug. 2024)
+  
 
 - **Research Assistant**, George Mason University (Aug 2021 – May 2025)  
   Projects include:
   - **Adaptive Dynamics Planning (ADP)** — Dual-system integration of classical and RL-based planners for adaptive modeling of navigation dynamics (ICRA 2026 submission).  
   - **Decremental Dynamics Planning (DDP)** — Hierarchical dynamic reconfiguration framework for efficient robot navigation (IROS 2025).  
-  - **Multi-goal Motion Memory** — Memory-augmented motion planning using CNN-based trajectory prediction (ICRA 2025).  
+  - **Multi-goal Motion Memory** — Memory-augmented motion planning using CNN-based trajectory predictor to reuse prior path planning experiences (ICRA 2025).  
   - **Reward Training Wheels** — Adaptive auxiliary reward shaping for reinforcement learning (IROS 2025).  
-  - **BARN Challenge** — 2nd Place, ICRA 2025 Competition Track.
+  - **Motion Memory** — Memory-augmented motion planning using CNN-based trajectory prediction (ICRA 2025).
 
 - **Collaborative Researcher**, University of South Florida & University of Maryland (Oct 2025 – Present)  
   Developing three joint papers on LLM/VLM-based autonomous navigation.
