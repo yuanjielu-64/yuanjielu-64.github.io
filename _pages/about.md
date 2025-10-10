@@ -27,7 +27,7 @@ Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, 
 [📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
 
 ## Recent Projects
-### Adaptive Dynamics Planning (ADP) for Robot Navigation
+### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
 *Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
 
 <img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
