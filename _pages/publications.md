@@ -208,6 +208,19 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   height: 100%;
   object-fit: cover;
 }
+/* 垂直堆叠多个 GIF 或 PNG */
+.media-wrapper.vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  aspect-ratio: auto;   /* 自动根据内容撑开高度 */
+}
+.media-wrapper.vertical img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
 #pub-card-container .pub-media .badge {
   position: absolute;
   top: 10px;
