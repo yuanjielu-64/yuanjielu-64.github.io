@@ -105,6 +105,24 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
+      <!-- ========== ICRA 2025 ========== -->
+      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">ICRA 2024</div>
+            <img src="/images/" alt="Motion Memory teaser">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Multi-goal motion memory</strong><br>
+          <em class="meta">Y. Lu, D. Das,  E. Plaku, X. Xiao — ICRA 2025</em>
+          <span>
+            Experience reuse via CNN-based path priors to speed up planning.
+            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
+          </span>
+        </div>
+      </div>
+    
       <!-- ========== ICRA 2024 ========== -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2024" data-selected="true">
         <div class="pub-media">
