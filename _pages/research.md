@@ -52,7 +52,7 @@ I design and use multiple simulation platforms for both classical planning and l
 |:-------------|:------:|:------------|
 | **Gazebo** | <img src="/images/gazebo.png" width="300"/> | Classic ROS-based simulator for wheeled robots, supporting costmaps, sensor fusion, and realistic physics. |
 | **Isaac Gym** | <img src="/images/isaac_gym.png" width="300"/> | GPU-accelerated simulation for large-scale reinforcement learning and policy optimization. |
-| **Isaac Sim** | <img src="/images/isaac_sim.png" width="300"/> | High-fidelity NVIDIA Omniverse simulator for perception, dynamics, and multi-robot coordination. |
-| **Custom Terrains** | <img src="/images/custom_env.png" width="300"/> | Procedurally generated terrains for testing locomotion, stability, and adaptive control. |
+| **Isaac Sim** | <img src="/images/isaacsim.png" width="300"/> | High-fidelity NVIDIA Omniverse simulator for perception, dynamics, and multi-robot coordination. |
+| **Custom Terrains** | <img src="/images/terrian.png" width="300"/> | Procedurally generated terrains for testing locomotion, stability, and adaptive control. |
 
 
