@@ -6,8 +6,6 @@ author_profile: true
 googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 ---
 
-## Publications
-
 **More videos are shown in [Projects](/projects/).**
 
 <html>
@@ -22,9 +20,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">ICRA 2026</div>
-            <img src="/images/adp.png" alt="Adaptive Dynamics Planning teaser 1">
             <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
-            <img src="/images/ICRA2026_2.gif" alt="Adaptive Dynamics Planning teaser 3">
           </div>
         </div>
         <div class="pub-info">
@@ -42,9 +38,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">ICRA 2025</div>
-            <img src="/images/a1.png" alt="Adaptive Dynamics Planning teaser 1">
             <img src="/images/a2.png" alt="Adaptive Dynamics Planning teaser 2">
-            <img src="/images/a3.png" alt="Adaptive Dynamics Planning teaser 3">
           </div>
         </div>
         <div class="pub-info">
