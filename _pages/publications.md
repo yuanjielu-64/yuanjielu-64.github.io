@@ -128,7 +128,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">ICRA 2024</div>
-            <img src="/images/pubs/motion-memory.gif" alt="Motion Memory teaser">
+            <img src="/images/motion_memory.gif" alt="Motion Memory teaser">
           </div>
         </div>
         <div class="pub-info">
