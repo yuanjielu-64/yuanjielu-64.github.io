@@ -20,9 +20,9 @@ Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, 
 Together, these collaborations bridge data-driven modeling, motion planning, learning-based navigation, and foundation model integration toward adaptive autonomous navigation systems.
 
 ## Research Interests
-  * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
-  * ***AI-driven Decision-Making for Robot Motion Planning and Control*** 
-  * ***LLMs and VLMs for Low-Level Decision-Making in Robot Navigation***
+  * Deep Learning & Reinforcement Learning for Autonomous Robot Navigation*
+  * AI-driven Decision-Making for Robot Motion Planning and Control* 
+  * LLMs and VLMs for Low-Level Decision-Making in Robot Navigation*
 
 ## Recent Projects
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
