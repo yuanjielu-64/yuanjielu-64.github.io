@@ -40,6 +40,17 @@ These collaborations bridge **data-driven modeling**, **motion planning**, **lea
   <img src="/images/jhu1.gif" width="330">  <img src="/images/jhu4.gif" width="330">
   <img src="/images/jhu3.gif" width="330">  <img src="/images/jhu5.gif" width="330">
 
+### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
+*Autonomous Navigation for Legged Robots in Complex Environments*
+
+  <img src="/images/jhu1.gif" width="330">  <img src="/images/jhu4.gif" width="330">
+  <img src="/images/jhu3.gif" width="330">  <img src="/images/jhu5.gif" width="330">
+
+### Adaptive Locomotion for Quadruped Robots in Unstructured Terrain (Summer 2024 @ Unitree)
+*Reinforcement Learning-based balance and mobility control for legged robots traversing rocky environments*
+
+  <img src="/images/IROS2025.gif" width="330"> <img src="/images/IROS20251.gif" width="330">
+  
 
 ## News
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
