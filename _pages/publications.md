@@ -6,6 +6,55 @@ author_profile: true
 googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 ---
 
+### Conference Papers
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VecKM_flow.png' alt="sym" width="108%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Dehao Yuan, Levi Burner, `Jiayi Wu`, Minghui Liu, Jingxi Chen, Yiannis Aloimonos, Cornelia Fermüller. ***Learning Normal Flow Directly From Event Neighborhoods***. *ICCV 2025*  
+[[Arxiv]](https://arxiv.org/abs/2412.11284) [[Code]](https://github.com/dhyuan99/VecKM_flow) [[Video demo]](https://www.cs.umd.edu/~dhyuan/assets/videos/demo.mov)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/Event3DGS.gif' alt="sym" width="108%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xiong, Tianyi\*, `Wu, Jiayi`\*, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, and Christopher Metzler. ***Event3DGS: Event-based 3D Gaussian Splatting for High-speed Robot Egomotion***. *CoRL 2024*  
+[[Project Page]](https://tyxiong23.github.io/event3dgs) [[Paper]](https://openreview.net/forum?id=EyEE7547vy) [[Video demo]](https://youtu.be/QXbrx1n6h5g)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/MARVIS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Wu, Jiayi`\*, Lin, Xiaomin\*, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
+[[Arxiv]](https://arxiv.org/abs/2403.09850) [[Poster]](/pdf/MARVIS_S3AM_Summit_Poster_Jiayi Wu.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI 2023 (Best Paper Award)*  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. ***UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots***. *ICRA 2023*  
+[[Project Page]](https://robopi.ece.ufl.edu/udepth.html) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10161471) [[Video demo]](https://youtu.be/lNK90c5ofVQ) [[Code]](https://github.com/uf-robopi/UDepth)
+
+</div>
+</div>
+
+-	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS 2023* 
+
+
+
+
 <html>
 <body>
 
