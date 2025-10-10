@@ -28,7 +28,7 @@ These collaborations bridge **data-driven modeling**, **motion planning**, **lea
 
 ## Recent Projects
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
-*Combining classical motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in constrained environments*
+*Combining motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in constrained environments*
 
 <img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
 
