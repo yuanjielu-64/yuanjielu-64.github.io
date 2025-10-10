@@ -40,9 +40,11 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <!-- ========== IROS 2025 ========== -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <div class="pub-media">
-          <div class="media-wrapper">
-            <div class="badge">IROS 2025</div>
-            <img src="/images/pubs/ddp.png" alt="Decremental Dynamics Planning teaser">
+          <div class="multi-images">
+            <div class="badge">ICRA 2025</div>
+            <img src="/images/a1.png" alt="Adaptive Dynamics Planning teaser 1">
+            <img src="/images/a2.png" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/a3.png" alt="Adaptive Dynamics Planning teaser 3">
           </div>
         </div>
         <div class="pub-info">
