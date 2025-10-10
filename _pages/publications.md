@@ -13,16 +13,16 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 
 <div class="content-container">
   <div id="pub-container">
+    <div id="pub-card-container" class="activated">
 
-    <div id="pub-card-container" class="activated hide">
-
-      <!-- ICRA 2026 -->
+      <!-- ========== ICRA 2026 (multi-image example) ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
-          <div class="media-wrapper vertical">
+          <div class="multi-images">
             <div class="badge">ICRA 2026</div>
-            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser">
-            <img src="/images/ICRA2026_0.gif" alt="Adaptive Dynamics Planning teaser">
+            <img src="/images/ICRA2026_0.gif" alt="Adaptive Dynamics Planning teaser 1">
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/ICRA2026_2.gif" alt="Adaptive Dynamics Planning teaser 3">
           </div>
         </div>
         <div class="pub-info">
@@ -35,7 +35,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- IROS 2025 -->
+      <!-- ========== IROS 2025 ========== -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -53,7 +53,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ICRA 2025 (BARN) -->
+      <!-- ========== ICRA 2025 (BARN Challenge) ========== -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -63,7 +63,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
-          <em class="meta">Y. Lu, et al. — ICRA 2025 (Competition Track)</em>
+          <em class="meta">Y. Lu et al. — ICRA 2025 (Competition Track)</em>
           <span>
             Report and analysis from large-scale constrained-space navigation benchmarking.
             | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a>
@@ -71,7 +71,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- IROS 2025 Reward Training Wheels -->
+      <!-- ========== IROS 2025 Reward Training Wheels ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -89,7 +89,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- RA-L 2025 -->
+      <!-- ========== RA-L 2025 ========== -->
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -99,7 +99,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
-          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</em>
+          <em class="meta">T. Xu, C. Pan, M. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</em>
           <span>
             Benchmark for vertical mobility across heterogeneous terrain profiles.
             | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a>
@@ -107,7 +107,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ICRA 2024 -->
+      <!-- ========== ICRA 2024 ========== -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2024" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -125,25 +125,25 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- IROS 2023 -->
+      <!-- ========== IROS 2023 ========== -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2023" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">IROS 2023</div>
-            <img src="/images/pubs/mgmpd_2023.png" alt="Multi-goal with dynamics teaser">
+            <img src="/images/pubs/mgmpd_2023.png" alt="Multi-goal motion planning teaser">
           </div>
         </div>
         <div class="pub-info">
           <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
-          <em class="meta">Y. Lu, E. Plaku — IROS 2023, pp. 850–857</em>
+          <em class="meta">Y. Lu, E. Plaku — IROS 2023</em>
           <span>
-            Single-goal predictors as priors to accelerate multi-goal planning with dynamics constraints.
+            Single-goal predictors as priors to accelerate multi-goal planning with dynamics.
             | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a>
           </span>
         </div>
       </div>
 
-      <!-- IROS 2022 -->
+      <!-- ========== IROS 2022 ========== -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2022" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -153,7 +153,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
-          <em class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022, pp. 4486–4491</em>
+          <em class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022</em>
           <span>
             Runtime predictions informing sampling-based planning under dynamics.
             | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>
@@ -161,17 +161,17 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- BIBM 2021 -->
+      <!-- ========== BIBM 2021 ========== -->
       <div class="pub-card" data-topic="machine-learning" data-year="2021" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">BIBM 2021</div>
-            <img src="/images/pubs/chem_gen_2021.png" alt="Controllable molecule generation teaser">
+            <img src="/images/pubs/chem_gen_2021.png" alt="Molecule generation teaser">
           </div>
         </div>
         <div class="pub-info">
           <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
-          <em class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — BIBM 2021, pp. 1303–1310</em>
+          <em class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — BIBM 2021</em>
           <span>
             Controllable molecule generation via latent-variable models.
             | <a href="https://ieeexplore.ieee.org/document/9669692" target="_blank">paper</a>
@@ -183,6 +183,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   </div>
 </div>
 
+<!-- ========== CSS SECTION ========== -->
 <style>
 #pub-card-container .pub-card {
   display: flex;
@@ -195,36 +196,31 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   flex: 0 0 360px;
   max-width: 100%;
 }
-#pub-card-container .pub-media .media-wrapper {
+#pub-card-container .media-wrapper,
+.multi-images {
   position: relative;
   width: 100%;
-  aspect-ratio: 16/9;
-  overflow: hidden;
   border-radius: 6px;
+  overflow: hidden;
   background: #f7f7f7;
 }
-#pub-card-container .pub-media .media-wrapper img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-/* 垂直堆叠多个 GIF 或 PNG */
-.media-wrapper.vertical {
+/* ✅ Multi-image vertical stack */
+.multi-images {
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  aspect-ratio: auto;
-  overflow: visible
-  background: none
+  gap: 8px;
+  overflow: visible;
+  background: none;
 }
-.media-wrapper.vertical img {
+.multi-images img {
   width: 100%;
   height: auto;
+  border-radius: 6px;
   object-fit: contain;
-  object-fit: cover;
-  display: block
+  display: block;
 }
-#pub-card-container .pub-media .badge {
+#pub-card-container .pub-media .badge,
+.multi-images .badge {
   position: absolute;
   top: 10px;
   left: 10px;
@@ -255,7 +251,9 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   #pub-card-container .pub-media {
     width: 100%;
     flex: none;
-    aspect-ratio: 16 / 9;
   }
 }
 </style>
+
+</body>
+</html>
