@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, with a focus on **motion planning**, **learning-based navigation**, and **integrating foundation models**. He aims to create unified, adaptive navigation frameworks that allow robots to operate reliably in complex, real-world environments.
+Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, with a focus on **motion planning**, **learning-based navigation**, and **integrating foundation models**. He aims to create unified, adaptive navigation frameworks that allow robots to navigate reliably in complex, real-world environments.
 
 ## 🤝 Collaborations
 
 His research journey has progressed from machine learning and deep learning for autonomous systems, through motion planning algorithms in robotics, to real-world robot navigation and foundation model-driven autonomy.
 
-He first worked with [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/) and [Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz) at George Mason University (GMU) on data-driven anomaly forecasting for autonomous systems. He then collaborated with the Virginia Department of Transportation (VDOT) on graph neural networks for traffic flow forecasting under non-recurring disruptions such as work zones and lane closures.
+He first worked with [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/) and [Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz) at George Mason University (GMU) on data-driven anomaly forecasting for autonomous systems. He then collaborated with the [Virginia Transportation Research Council (VTRC)](https://vtrc.virginia.gov/about/) on graph neural networks for traffic flow forecasting under non-recurring disruptions such as work zones and lane closures.
 
 Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, where he studied motion planning algorithms that integrate learning with classical planners, building on foundations in dynamic programming and search-based methods. He later collaborated with [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) at Oxford University on robot dynamics and adaptive control, [Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at Johns Hopkins University on quadruped navigation, and [Dr. Xiaomin Lin](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
