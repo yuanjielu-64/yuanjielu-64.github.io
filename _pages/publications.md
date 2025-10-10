@@ -8,6 +8,8 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 
 ## Publications
 
+**More videos are shown in [Projects](/projects/).**
+
 <html>
 <body>
 
