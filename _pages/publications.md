@@ -213,13 +213,16 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   display: flex;
   flex-direction: column;
   gap: 6px;
-  aspect-ratio: auto;   /* 自动根据内容撑开高度 */
+  aspect-ratio: auto;
+  overflow: visible
+  background: none
 }
 .media-wrapper.vertical img {
   width: 100%;
   height: auto;
-  border-radius: 6px;
+  object-fit: contain;
   object-fit: cover;
+  display: block
 }
 #pub-card-container .pub-media .badge {
   position: absolute;
