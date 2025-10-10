@@ -38,7 +38,7 @@ I work with diverse robot platforms to validate algorithms in both simulation an
 | **Unitree Go1** | <img src="/images/go1.png" width="180"/> | Quadruped | Visual–LiDAR fusion, RL locomotion |
 | **Unitree Go2** | <img src="/images/go2.png" width="180"/> | Quadruped | VLM navigation, cross-modal perception |
 | **Unitree G1** | <img src="/images/G1.png" width="180"/> | Humanoid | LLM-guided policy learning |
-| **Clearpath Jackal** | <img src="/images/jackal.png" width="180"/> | Wheeled UGV | Real-world navigation testing |
+| **Clearpath Jackal** | <img src="/images/jackal1.png" width="180"/> | Wheeled UGV | Real-world navigation testing |
 | **Clearpath Husky** | <img src="/images/husky.png" width="180"/> | Wheeled UGV | Outdoor mapping, multi-sensor fusion |
 
 
