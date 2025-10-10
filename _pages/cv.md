@@ -41,8 +41,4 @@ Skills
 * **Robotics:** ROS (ROS1/ROS2), Gazebo, Isaac Sim/Lab, OpenAI Gym
 * **Other:** Singularity/Apptainer, HPC (Slurm), Docker, Git  
 
-Service and Leadership
-======
-* Reviewer: ICRA, IROS, RA-L (2024-2025) 
-* Team Lead, GMU BARN Challenge 2025 Team  
 
