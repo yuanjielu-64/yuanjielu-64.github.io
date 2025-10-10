@@ -74,7 +74,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">IROS 2025</div>
-            <img src="/images/pubs/rtw.png" alt="Reward Training Wheels teaser">
+            <img src="/images/Reward_Training.gif" alt="Reward Training Wheels teaser">
           </div>
         </div>
         <div class="pub-info">
