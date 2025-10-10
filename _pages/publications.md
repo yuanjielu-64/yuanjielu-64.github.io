@@ -92,7 +92,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">RA-L 2025</div>
-            <img src="/images/pubs/verti-bench.png" alt="Verti-bench teaser">
+            <img src="/images/Verti-Bench.gif" alt="Verti-bench teaser">
           </div>
         </div>
         <div class="pub-info">
