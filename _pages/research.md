@@ -54,5 +54,5 @@ I design and use multiple simulation platforms for both classical planning and l
 | **Isaac Gym** | <img src="/images/isaacgym.png" width="300"/> | GPU-accelerated simulation for large-scale reinforcement learning and policy optimization. |
 | **Isaac Sim** | <img src="/images/isaacsim.png" width="300"/> | High-fidelity NVIDIA Omniverse simulator for perception, dynamics, and multi-robot coordination. |
 | **Custom Terrains** | <img src="/images/terrian.png" width="300"/> | Procedurally generated terrains for testing locomotion, stability, and adaptive control. |
-
+| **Self-design Simulation** | <img src="/images/simulation.png" width="300"/> | self-design simulation using C++ for motion planning or multi-goal motion planning. |
 
