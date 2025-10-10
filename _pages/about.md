@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, emphasizing motion planning, learning-based control, and the integration of foundation models. Drawing from classical approaches including dynamic programming and sampling-based planning, his work advances toward adaptive frameworks that unify perception, planning, and control for autonomous navigation systems.
+Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, emphasizing motion planning, learning-based control, and the integration of foundation models. By unifying perception, planning, and control under adaptive frameworks, his work advances the development and deployment of autonomous navigation systems.
 
 ## 🤝 Collaborations
 
-Grounded in classical optimization and dynamic programming, his research journey has progressed from **machine learning and deep learning for autonomous systems** through **motion planning algorithms in robotics** to **real-world robot navigation** and **foundation model-driven autonomy**.
+His research journey has progressed from **machine learning and deep learning for autonomous systems** through **motion planning algorithms in robotics** to **real-world robot navigation** and **foundation model-driven autonomy**.
 
 He worked with [**Dr. Amarda Shehu**](https://cs.gmu.edu/~ashehu/) and [**Dr. David Lattanzi**](https://volgenau.gmu.edu/profiles/dlattanz) at GMU on **data-driven anomaly forecasting for autonomous systems**. He then collaborated with [**Dr. Michael D. Fontaine**](https://vtrc.virginia.gov/about/vtrc-staff/michaelfontaine/) and [**Katie McCann**](https://www.linkedin.com/in/katie-mccann-felton-pe-0856762a/) at VDOT on **graph neural networks for traffic flow forecasting** under non-recurring disruptions.
 
@@ -19,7 +19,7 @@ Subsequently, he joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s l
 
 Currently, he pursues doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU, where he integrates adaptive dynamics models into navigation systems through **deep learning and reinforcement learning** approaches to address limitations of traditional navigation systems. During this time, he has also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on robot dynamics and adaptive control, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on quadruped navigation, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
-These collaborations bridge **data-driven modeling**, **motion planning**, **learning-based navigation**, and **foundation model integration**, advancing from classical dynamic programming foundations toward adaptive, learning-driven autonomous systems.
+These collaborations bridge **data-driven modeling**, **motion planning**, **learning-based navigation**, and **foundation model integration**.
 
 ## Research Interests
   * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
