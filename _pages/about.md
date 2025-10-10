@@ -17,7 +17,7 @@ He worked with [**Dr. Amarda Shehu**](https://cs.gmu.edu/~ashehu/) and [**Dr. Da
 
 Subsequently, he joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s lab studying **motion planning algorithms** that integrate learning with classical planners.
 
-Currently, he pursues doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU on **adaptive dynamics planning and learning-based navigation**. During this time, he has also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on **robot dynamics and adaptive control**, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on **quadruped navigation**, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on **LLM/VLM-driven robot navigation**.
+Currently, he pursues doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU, where he integrates adaptive dynamics models into navigation systems through learning-based approaches to address limitations of traditional navigation methods. During this time, he has also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on robot dynamics and adaptive control, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on quadruped navigation, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
 These collaborations bridge **data-driven modeling**, **motion planning**, and **foundation-model-based navigation**.
 
