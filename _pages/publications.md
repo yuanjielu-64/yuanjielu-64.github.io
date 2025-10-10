@@ -259,6 +259,30 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       aspect-ratio: 16 / 9;
     }
   }
+
+  /* --- 新增: venue 徽章样式（不修改原结构，仅叠加显示） --- */
+  #pub-card-container .pub-card .pub-media .venue-badge {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1;
+    border-radius: 12px;
+    background: #222;       /* 深色底 */
+    color: #fff;            /* 白字 */
+    opacity: 0.92;
+    pointer-events: none;   /* 不拦截点击 */
+    white-space: nowrap;
+  }
+
+  /* 可选：不同会议轻度配色（保持克制） */
+  #pub-card-container .pub-card[data-venue^="ICRA"] .venue-badge { background: #0f6; color: #111; }
+  #pub-card-container .pub-card[data-venue^="IROS"] .venue-badge { background: #6cf; color: #111; }
+  #pub-card-container .pub-card[data-venue^="RA-L"] .venue-badge { background: #fc6; color: #111; }
+  #pub-card-container .pub-card[data-venue^="arXiv"] .venue-badge { background: #e55; color: #fff; }
+  #pub-card-container .pub-card[data-venue*="Competition"] .venue-badge { background: #a78bfa; color:#111; }
 </style>
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
@@ -349,6 +373,62 @@ $(function() {
     }
     $("#publication-by-selected").click();
     $("#pub-card-container").removeClass("hide");
+});
+
+/* -------- 新增：Venue 解析与徽章渲染（不改动原条目结构，仅追加节点） -------- */
+function parseVenueFromMeta(metaText) {
+    var t = (metaText || "").replace(/\s+/g, " ").trim();
+
+    // 精确优先（含年份或赛道等）
+    var rules = [
+        { re: /\bICRA\s*2026\b/i, venue: "ICRA 2026" },
+        { re: /\bICRA\s*2025\b.*Competition Track\b/i, venue: "ICRA 2025 Competition" },
+        { re: /\bICRA\s*2025\b/i, venue: "ICRA 2025" },
+        { re: /\bIROS\s*2025\b/i, venue: "IROS 2025" },
+        { re: /\bIROS\s*2023\b/i, venue: "IROS 2023" },
+        { re: /\bIROS\s*2022\b/i, venue: "IROS 2022" },
+        { re: /\bIEEE\s*RA-?L\b.*2025\b/i, venue: "RA-L 2025" },
+        { re: /\bBIBM\s*2021\b/i, venue: "BIBM 2021" },
+        { re: /\barXiv\b/i, venue: "arXiv" }
+    ];
+    for (var i = 0; i < rules.length; i++) {
+        if (rules[i].re.test(t)) return rules[i].venue;
+    }
+
+    // 回退：常见会议缩写 + 年份
+    var m = t.match(/\b(ICRA|IROS|RA-?L|BIBM|arXiv)\b/i);
+    if (m) {
+        var base = m[0].toUpperCase().replace("RA-L", "RA-L");
+        var y = t.match(/\b(20\d{2})\b/);
+        return y ? (base + " " + y[1]) : base;
+    }
+    return null;
+}
+
+function renderVenueBadges() {
+    $("#pub-card-container .pub-card").each(function () {
+        var $card = $(this);
+        if ($card.find(".venue-badge").length) return;  // 防重复
+
+        var metaText = $card.find(".meta").text();
+        var venue = parseVenueFromMeta(metaText);
+        if (!venue) return;
+
+        // 写入 data-venue 便于样式控制
+        $card.attr("data-venue", venue);
+
+        // 徽章叠加到左侧媒体图容器
+        var $media = $card.find(".pub-media");
+        if ($media.length) {
+            var $badge = $('<span class="venue-badge"></span>').text(venue);
+            $media.append($badge);
+        }
+    });
+}
+
+// 独立 ready，避免改动你原来的初始化逻辑
+$(function () {
+    renderVenueBadges();
 });
 </script>
 </body>
