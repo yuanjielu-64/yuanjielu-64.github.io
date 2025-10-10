@@ -56,7 +56,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">ICRA 2025</div>
-            <img src="/images/DDP.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/DDP1.gif" alt="Adaptive Dynamics Planning teaser 2">
           </div>
         </div>
         <div class="pub-info">
