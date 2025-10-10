@@ -11,13 +11,13 @@ Yuanjie Lu is a PhD student in Computer Science at George Mason University, work
 
 ## 🤝 Collaborations
 
-My research journey has progressed from **machine learning and deep learning for autonomous systems** through **motion planning algorithms in robotics** to **real-world robot navigation** and **foundation model-driven autonomy**.
+His research journey has progressed from **machine learning and deep learning for autonomous systems** through **motion planning algorithms in robotics** to **real-world robot navigation** and **foundation model-driven autonomy**.
 
-I worked with [**Dr. Amarda Shehu**](https://cs.gmu.edu/~ashehu/) and [**Dr. David Lattanzi**](https://volgenau.gmu.edu/profiles/dlattanz) at GMU on **data-driven anomaly forecasting for autonomous systems**. I then collaborated with [**Dr. Michael D. Fontaine**](https://vtrc.virginia.gov/about/vtrc-staff/michaelfontaine/) and [**Katie McCann**](https://www.linkedin.com/in/katie-mccann-felton-pe-0856762a/) at VDOT on **graph neural networks for traffic flow forecasting** under non-recurring disruptions.
+He worked with [**Dr. Amarda Shehu**](https://cs.gmu.edu/~ashehu/) and [**Dr. David Lattanzi**](https://volgenau.gmu.edu/profiles/dlattanz) at GMU on **data-driven anomaly forecasting for autonomous systems**. He then collaborated with [**Dr. Michael D. Fontaine**](https://vtrc.virginia.gov/about/vtrc-staff/michaelfontaine/) and [**Katie McCann**](https://www.linkedin.com/in/katie-mccann-felton-pe-0856762a/) at VDOT on **graph neural networks for traffic flow forecasting** under non-recurring disruptions.
 
-Subsequently, I joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s lab studying **motion planning algorithms** that integrate learning with classical planners.
+Subsequently, he joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s lab studying **motion planning algorithms** that integrate learning with classical planners.
 
-Currently, I pursue doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU on **adaptive dynamics planning and learning-based navigation**. During this time, I have also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on **robot dynamics and adaptive control**, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on **quadruped navigation**, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on **LLM/VLM-driven robot navigation**.
+Currently, he pursues doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU on **adaptive dynamics planning and learning-based navigation**. During this time, he has also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on **robot dynamics and adaptive control**, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on **quadruped navigation**, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on **LLM/VLM-driven robot navigation**.
 
 These collaborations bridge **data-driven modeling**, **motion planning**, and **foundation-model-based navigation**.
 
