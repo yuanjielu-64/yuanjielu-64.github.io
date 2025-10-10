@@ -11,7 +11,7 @@ Yuanjie Lu is a PhD student in Computer Science at George Mason University, work
 
 ## 🤝 Collaborations
 
-My research has been shaped by collaborations across robotics, AI, and data-driven modeling.
+My research journey has progressed from **machine learning and deep learning for autonomous systems** through **motion planning algorithms in robotics** to **real-world robot navigation** and **foundation model-driven autonomy**.
 
 I worked with [**Dr. Amarda Shehu**](https://cs.gmu.edu/~ashehu/) and [**Dr. David Lattanzi**](https://volgenau.gmu.edu/profiles/dlattanz) at GMU on **data-driven anomaly forecasting for autonomous systems**. I then collaborated with [**Dr. Michael D. Fontaine**](https://vtrc.virginia.gov/about/vtrc-staff/michaelfontaine/) and [**Katie McCann**](https://www.linkedin.com/in/katie-mccann-felton-pe-0856762a/) at VDOT on **graph neural networks for traffic flow forecasting** under non-recurring disruptions.
 
