@@ -33,30 +33,12 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ========== IROS 2025 ========== -->
-      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <div class="pub-media">
-          <div class="multi-images">
-            <div class="badge">ICRA 2025</div>
-            <img src="/images/a2.png" alt="Adaptive Dynamics Planning teaser 2">
-          </div>
-        </div>
-        <div class="pub-info">
-          <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
-          <em class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</em>
-          <span>
-            Hierarchical dynamic reconfiguration enabling real-time replanning.
-            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
-          </span>
-        </div>
-      </div>
-
       <!-- ========== ICRA 2025 (BARN Challenge) ========== -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">ICRA 2025</div>
-            <img src="/images/pubs/barn.gif" alt="BARN challenge teaser">
+            <img src="/images/a2.png" alt="BARN challenge teaser">
           </div>
         </div>
         <div class="pub-info">
@@ -69,6 +51,24 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
+      <!-- ========== IROS 2025 ========== -->
+      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
+        <div class="pub-media">
+          <div class="multi-images">
+            <div class="badge">ICRA 2025</div>
+            <img src="/images/DDP.gif" alt="Adaptive Dynamics Planning teaser 2">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</em>
+          <span>
+            Hierarchical dynamic reconfiguration enabling real-time replanning.
+            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
+          </span>
+        </div>
+      </div>
+    
       <!-- ========== IROS 2025 Reward Training Wheels ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
         <div class="pub-media">
