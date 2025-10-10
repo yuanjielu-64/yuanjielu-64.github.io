@@ -19,7 +19,7 @@ Subsequently, he joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s l
 
 Currently, he pursues doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU, where he integrates adaptive dynamics models into navigation systems through **deep learning and reinforcement learning** approaches to address limitations of traditional navigation systems. During this time, he has also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on robot dynamics and adaptive control, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on quadruped navigation, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
-These collaborations bridge **data-driven modeling**, **motion planning**, and **foundation-model-based navigation**.
+These collaborations bridge **data-driven modeling**, **motion planning**, **learning-based navigation**, and **foundation model integration**.
 
 ## Research Interests
   * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
