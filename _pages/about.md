@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me "
+title: "Short Bio "
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,6 +23,10 @@ Together, these collaborations bridge data-driven modeling, motion planning, lea
   * Deep Learning & Reinforcement Learning for Autonomous Robot Navigation*
   * AI-driven Decision-Making for Robot Motion Planning and Control* 
   * LLMs and VLMs for Low-Level Decision-Making in Robot Navigation*
+
+{% include base_path %}
+
+[📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
 
 ## Recent Projects
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
