@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, focusing on motion planning, learning-based control, and foundation model integration. He aims to create unified, adaptive navigation frameworks that allow robots to operate reliably in complex, real-world environments.
+Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, with a focus on **motion planning**, **learning-based navigation**, and **integrating foundation models**. He aims to create unified, adaptive navigation frameworks that allow robots to operate reliably in complex, real-world environments.
 
 ## 🤝 Collaborations
 
@@ -17,7 +17,7 @@ He first worked with [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/) and [Dr. Da
 
 Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, where he studied motion planning algorithms that integrate learning with classical planners, building on foundations in dynamic programming and search-based methods. He later collaborated with [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) at Oxford University on robot dynamics and adaptive control, [Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at Johns Hopkins University on quadruped navigation, and [Dr. Xiaomin Lin](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
-Together, these collaborations bridge data-driven modeling, motion planning, learning-based navigation, and foundation model integration toward adaptive autonomous navigation systems.
+Together, these collaborations bridge **data-driven modeling**, **motion planning**, **learning-based navigation**, and **foundation model integration** toward adaptive autonomous navigation systems.
 
 ## Research Interests
   * Deep Learning & Reinforcement Learning for Autonomous Robot Navigation*
