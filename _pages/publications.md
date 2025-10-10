@@ -21,7 +21,8 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">ICRA 2026</div>
-            <img src="/images/pubs/adp.gif" alt="Adaptive Dynamics Planning teaser">
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser">
+            <img src="/images/ICRA2026_0.gif" alt="Adaptive Dynamics Planning teaser">
           </div>
         </div>
         <div class="pub-info">
