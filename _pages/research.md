@@ -31,15 +31,16 @@ My future research focuses on **navigation** for legged robots, including **loco
 
 ## 🤖 Hardware Platforms
 
-I work with diverse robot platforms to validate algorithms in simulation and reality:
+I work with diverse robot platforms to validate algorithms in both simulation and real-world environments.
 
-| Robot | Type | Use Case |
-|-------|------|----------|
-| **Unitree Go2** | Quadruped | VLM navigation, cross-modal perception |
-| **Unitree Go1** | Quadruped | Visual-LiDAR fusion, RL locomotion |
-| **Unitree G1** | Humanoid | LLM-guided policy learning |
-| **Clearpath Jackal** | Wheeled UGV | Real-world navigation testing |
-| **Clearpath Husky** | Wheeled UGV | Outdoor mapping, multi-sensor fusion |
+| Robot | Image | Type | Use Case |
+|:------|:------:|:------|:----------|
+| **Unitree Go2** | <img src="/images/robots/go2.jpg" width="180"/> | Quadruped | VLM navigation, cross-modal perception |
+| **Unitree Go1** | <img src="/images/robots/go1.jpg" width="180"/> | Quadruped | Visual–LiDAR fusion, RL locomotion |
+| **Unitree G1** | <img src="/images/robots/g1.jpg" width="180"/> | Humanoid | LLM-guided policy learning |
+| **Clearpath Jackal** | <img src="/images/robots/jackal.jpg" width="180"/> | Wheeled UGV | Real-world navigation testing |
+| **Clearpath Husky** | <img src="/images/robots/husky.jpg" width="180"/> | Wheeled UGV | Outdoor mapping, multi-sensor fusion |
+
 
 ---
 
