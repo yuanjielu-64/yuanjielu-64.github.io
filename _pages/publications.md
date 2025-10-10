@@ -19,7 +19,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <!-- ICRA 2026 -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
-          <div class="media-wrapper">
+          <div class="media-wrapper vertical">
             <div class="badge">ICRA 2026</div>
             <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser">
             <img src="/images/ICRA2026_0.gif" alt="Adaptive Dynamics Planning teaser">
