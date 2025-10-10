@@ -25,87 +25,245 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="machine-learning">machine-learning</a>
         <br />
     </p>
+
     <div id="pub-card-container" class="activated hide">
+
+      <!-- ICRA 2026 (under review) -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
-        <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
-        <em><b>Y. Lu</b>, L. Wang, T. Xu, X. Xiao</em><br>
-        under review at IEEE International Conference on Robotics and Automation (ICRA), 2026
-        | <a href="https://arxiv.org/pdf/2510.05330">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/adp.gif" alt="Adaptive Dynamics Planning teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta">Y. Lu, L. Wang, T. Xu, X. Xiao — under review at ICRA 2026</em>
+          <span>
+            Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- IROS 2025 (accepted) -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
-        <em><b>Y. Lu</b>, T. Xu, L. Wang, N. Hawes, X. Xiao</em><br>
-        IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, accepted, 2025
-        | <a href="https://arxiv.org/pdf/2503.20521">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/ddp.png" alt="Decremental Dynamics Planning teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</em>
+          <span>
+            Hierarchical dynamic reconfiguration enabling real-time replanning.
+            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- ICRA 2025 Competition Track (BARN) -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
-        <em><b>Y. Lu</b>, et al.</em><br>
-        IEEE International Conference on Robotics and Automation (ICRA) 2025, Competition Track 2025
-        | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/barn.gif" alt="BARN challenge teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
+          <em class="meta">Y. Lu, et al. — ICRA 2025 (Competition Track)</em>
+          <span>
+            Report and analysis from large-scale constrained-space navigation benchmarking.
+            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- IROS 2025 (accepted) -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
-        <strong>Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</strong><br>
-        <em>L. Wang, T. Xu, <b>Y. Lu</b>, X. Xiao</em><br>
-        IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, accepted, 2025
-        | <a href="https://arxiv.org/pdf/2503.15724">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/rtw.png" alt="Reward Training Wheels teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</strong><br>
+          <em class="meta">L. Wang, T. Xu, Y. Lu, X. Xiao — IROS 2025 (accepted)</em>
+          <span>
+            Adaptive auxiliary reward shaping that phases out to avoid policy degradation.
+            | <a href="https://arxiv.org/pdf/2503.15724" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- RA-L 2025 -->
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="true">
-        <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
-        <em>T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <b>Y. Lu</b>, X. Xiao</em><br>
-        IEEE Robotics and Automation Letters (RA-L), 2025
-        | <a href="https://arxiv.org/pdf/2502.11426">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/verti-bench.png" alt="Verti-bench teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
+          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</em>
+          <span>
+            Benchmark for vertical mobility across heterogeneous terrain profiles.
+            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- ICRA 2024 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2024" data-selected="true">
-        <strong>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</strong><br>
-        <em>D. Das, <b>Y. Lu</b>, E. Plaku, X. Xiao</em><br>
-        IEEE International Conference on Robotics and Automation (ICRA), pp. 16467–16474, 2024
-        | <a href="https://arxiv.org/pdf/2310.06198">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/motion-memory.gif" alt="Motion Memory teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</strong><br>
+          <em class="meta">D. Das, Y. Lu, E. Plaku, X. Xiao — ICRA 2024</em>
+          <span>
+            Experience reuse via CNN-based path priors to speed up planning.
+            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- IROS 2023 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2023" data-selected="true">
-        <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
-        <em><b>Y. Lu</b>, E. Plaku</em><br>
-        IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 850–857, 2023
-        | <a href="https://ieeexplore.ieee.org/document/10341945">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/mgmpd_2023.png" alt="Multi-goal with dynamics teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
+          <em class="meta">Y. Lu, E. Plaku — IROS 2023, pp. 850–857</em>
+          <span>
+            Single-goal predictors as priors to accelerate multi-goal planning with dynamics constraints.
+            | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- IROS 2022 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2022" data-selected="true">
-        <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
-        <em>H. D. Bui, <b>Y. Lu</b>, E. Plaku</em><br>
-        IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4486–4491, 2022
-        | <a href="https://ieeexplore.ieee.org/document/9981753">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/runtime_pred_2022.png" alt="Runtime prediction teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
+          <em class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022, pp. 4486–4491</em>
+          <span>
+            Runtime predictions informing sampling-based planning under dynamics.
+            | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- BIBM 2021 -->
       <div class="pub-card" data-topic="machine-learning" data-year="2021" data-selected="true">
-        <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
-        <em>Y. Du, Y. Wang, F. Alam, <b>Y. Lu</b>, X. Guo, L. Zhao, A. Shehu</em><br>
-        IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1303–1310, 2021
-        | <a href="https://ieeexplore.ieee.org/document/9669692">paper</a>
+        <div class="pub-media">
+          <img src="/images/pubs/chem_gen_2021.png" alt="Controllable molecule generation teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
+          <em class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — BIBM 2021, pp. 1303–1310</em>
+          <span>
+            Controllable molecule generation via latent-variable models.
+            | <a href="https://ieeexplore.ieee.org/document/9669692" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
-       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
-        <strong>Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</strong><br>
-        <em><b>Y. Lu</b>, E. Plaku</em><br>
-        arXiv preprint <a href="https://arxiv.org/abs/2503.20530" target="_blank">arXiv:2503.20530</a>, 2025
+
+      <!-- arXiv 2025 -->
+      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
+        <div class="pub-media">
+          <img src="/images/pubs/mgmpd_2025.png" alt="Multi-goal motion planning arXiv teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</strong><br>
+          <em class="meta">Y. Lu, E. Plaku — arXiv preprint, 2025</em>
+          <span>
+            Hybrid ML + sampling-based pipeline for dynamic multi-goal navigation.
+            | <a href="https://arxiv.org/abs/2503.20530" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- arXiv 2024 (traffic 1) -->
       <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
-        <strong>Traffic Flow Forecasting with Maintenance Downtime via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
-        <em><b>Y. Lu</b>, P. Kamranfar, D. Lattanzi, A. Shehu</em><br>
-        arXiv preprint <a href="https://arxiv.org/abs/2110.01535" target="_blank">arXiv:2110.01535</a>, 2024
+        <div class="pub-media">
+          <img src="/images/pubs/traffic_mcastgcn.png" alt="Traffic forecasting with maintenance downtime teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Traffic Flow Forecasting with Maintenance Downtime via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
+          <em class="meta">Y. Lu, P. Kamranfar, D. Lattanzi, A. Shehu — arXiv preprint, 2024</em>
+          <span>
+            Multi-channel attention-based ST-GCN for traffic forecasting under downtime.
+            | <a href="https://arxiv.org/abs/2110.01535" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
+      <!-- arXiv 2024 (traffic 2) -->
       <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
-        <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting</strong><br>
-        <em><b>Y. Lu</b>, A. Shehu, D. Lattanzi</em><br>
-        arXiv preprint <a href="https://arxiv.org/abs/2407.11407" target="_blank">arXiv:2407.11407</a>, 2024
+        <div class="pub-media">
+          <img src="/images/pubs/traffic_workzone.png" alt="Accounting for work zone disruptions teaser">
+        </div>
+        <div class="pub-info">
+          <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting</strong><br>
+          <em class="meta">Y. Lu, A. Shehu, D. Lattanzi — arXiv preprint, 2024</em>
+          <span>
+            Incorporating non-recurring disruptions (work zones, lane closures) into traffic forecasting.
+            | <a href="https://arxiv.org/abs/2407.11407" target="_blank">paper</a>
+          </span>
+        </div>
       </div>
+
     </div>
   </div>
 </div>
 
+<!-- Layout CSS for left-media / right-info -->
+<style>
+  #pub-card-container .pub-card {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 14px 0;
+    border-bottom: 1px solid #eee;
+  }
+  #pub-card-container .pub-card .pub-media {
+    flex: 0 0 360px;          /* 根据页面宽度可调 320~420 */
+    max-width: 100%;
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 6px;
+    background: #f7f7f7;
+  }
+  #pub-card-container .pub-card .pub-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;        /* 尽量铺满；若想完整显示改为 contain */
+    display: block;
+  }
+  #pub-card-container .pub-card .pub-info {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  #pub-card-container .pub-card .pub-info strong {
+    font-size: 1.02rem;
+  }
+  #pub-card-container .pub-card .meta {
+    color: #666;
+    font-style: italic;
+    margin: 2px 0 6px 0;
+    display: block;
+  }
+  @media (max-width: 768px) {
+    #pub-card-container .pub-card {
+      flex-direction: column;
+    }
+    #pub-card-container .pub-card .pub-media {
+      width: 100%;
+      flex: none;
+      aspect-ratio: 16 / 9;
+    }
+  }
+</style>
+
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
 <script type="text/javascript">
 function isInViewport(element) {
-    console.log(element);
-    console.log($(element).length);
-    console.log($(element).css("display"));
-    console.log($(element).offset());
     var elementTop = $(element).offset().top;
     var elementBottom = elementTop + $(element).outerHeight();
     var viewportTop = $(window).scrollTop();
@@ -114,11 +272,8 @@ function isInViewport(element) {
 }
 var allPublications = null;
 function publicationBySelected() {
-    console.log("publicationBySelected called");
     var a = $("#publication-by-selected");
-    if (a.hasClass("activated")) {
-        return ;
-    }
+    if (a.hasClass("activated")) return;
     $("#pub-container .subtitle a").removeClass("activated");
     $("#pub-container .subtitle-aux a").removeClass("activated");
     a.addClass("activated");
@@ -132,9 +287,7 @@ function publicationBySelected() {
 }
 function publicationByDate() {
     var a = $("#publication-by-date");
-    if (a.hasClass("activated")) {
-        return ;
-    }
+    if (a.hasClass("activated")) return;
     $("#pub-container .subtitle a").removeClass("activated");
     $("#pub-container .subtitle-aux a").removeClass("activated");
     a.addClass("activated");
@@ -149,21 +302,16 @@ function publicationByDate() {
 }
 function publicationByTopicInner() {
     var a = $("#publication-by-topic");
-    if (a.hasClass("activated")) {
-        return ;
-    }
+    if (a.hasClass("activated")) return;
     $("#pub-container .subtitle a").removeClass("activated");
     a.addClass("activated");
     $("#pub-card-container").html("");
-    console.log(allTopics);
     for (var topicId in allTopics) {
-        console.log(topicId);
         var topic = allTopics[topicId].name;
         var topicTitle = allTopics[topicId].title;
         $("#pub-card-container").append($("<h2 id='topic-" + topic + "'>" + topicTitle + "</h2>"));
         for (var pubId = 0; pubId < allPublications.length; pubId++) {
             var pub = $(allPublications[pubId]);
-            console.log(pub);
             if (pub.data("topic").indexOf(topic) != -1) {
                 $("#pub-card-container").append(pub).append("<br>");
             }
@@ -171,14 +319,11 @@ function publicationByTopicInner() {
     }
 }
 function publicationByTopicSpecificInner(a) {
-    if ($(a).hasClass("activated")) {
-        return false;
-    }
+    if ($(a).hasClass("activated")) return false;
     $("#pub-container .subtitle-aux a").removeClass("activated");
     $(a).addClass("activated");
 }
 function publicationByTopic() {
-    console.log("publicationByTopic called");
     publicationByTopicInner();
     publicationByTopicSpecificInner($("#pub-container .subtitle-aux a:first"));
     return true;
@@ -186,108 +331,16 @@ function publicationByTopic() {
 function publicationByTopicSpecific(a) {
     publicationByTopicInner();
     publicationByTopicSpecificInner(a);
-    console.log(a);
-    console.log(a.hash);
     var hash = a.hash;
     $(hash).prop('id', hash.substr(1) + '-noscroll');
     window.location.hash = hash;
     $(hash + '-noscroll').prop('id', hash.substr(1));
     if (!isInViewport(hash)) {
-        $('html, body').animate({
-            scrollTop: $(hash).offset().top
-        }, 1000, function(){
-        });
+        $('html, body').animate({ scrollTop: $(hash).offset().top }, 1000, function(){});
     }
     return false;
 }
 $(function() {
-    getRealSize = function(bgImg) {
-        var img = new Image();
-        img.src = bgImg.attr("src");
-        var width = img.width,
-            height = img.height;
-        return {
-            width: width,
-            height: height
-        }
-    };
-    getRealWindowSize = function() {
-        var winWidth = null,
-            winHeight = null;
-        if (window.innerWidth) winWidth = window.innerWidth;
-        else if ((document.body) && (document.body.clientWidth)) winWidth = document.body.clientWidth;
-        if (window.innerHeight) winHeight = window.innerHeight;
-        else if ((document.body) && (document.body.clientHeight)) winHeight = document.body.clientHeight;
-        if (document.documentElement && document.documentElement.clientHeight && document.documentElement.clientWidth) {
-            winHeight = document.documentElement.clientHeight;
-            winWidth = document.documentElement.clientWidth
-        }
-        return {
-            width: winWidth,
-            height: winHeight
-        }
-    };
-    fullBg = function() {
-        var bgImg = $("#background");
-        var mainContainer = $("#main");
-        var firstFire = null;
-        if (bgImg.length == 0) {
-            return ;
-        }
-        function resizeImg() {
-            var realSize = getRealSize(bgImg);
-            var imgWidth = realSize.width;
-            var imgHeight = realSize.height;
-            if (imgWidth == 0 || imgHeight == 0) {
-                setTimeout(function() {
-                    resizeImg();
-                }, 200);
-            }
-            console.log(realSize);
-            var realWinSize = getRealWindowSize();
-            var winWidth = realWinSize.width;
-            var winHeight = realWinSize.height;
-            var widthRatio = winWidth / imgWidth;
-            var heightRatio = winHeight / imgHeight;
-            console.log(realWinSize);
-            if (widthRatio > heightRatio) {
-                bgImg.width(imgWidth * widthRatio + 'px').height(imgHeight * widthRatio + 'px').css({'top':
-                    -(imgHeight * widthRatio - winHeight) / 10 * 5 + 'px', 'left': '0'})
-            } else {
-                bgImg.width(imgWidth * heightRatio + 'px').height(imgHeight * heightRatio + 'px').css({'left':
-                    -(imgWidth * heightRatio - winWidth) / 10 * 3 + 'px', 'top': '0'})
-            }
-        }
-        resizeImg();
-        window.onresize = function() {
-            if (firstFire === null) {
-                firstFire = setTimeout(function() {
-                    resizeImg();
-                    firstFire = null
-                }, 100)
-            }
-        }
-    };
-    targetColor = $("#main-content-container .name").css("color");
-    animatedLink = function(speed) {
-        $("#main-content-container .col-link li").hover(function() {
-            $(this).find('.icon').animate({
-                color: targetColor,
-                borderColor: targetColor
-            }, speed);
-            $(this).find('.caption').animate({
-                color: targetColor
-            })
-        }, function() {
-            $(this).find('.icon').animate({
-                borderColor: '#cccccc',
-                color: '#cccccc'
-            }, speed);
-            $(this).find('.caption').animate({
-                color: '#cccccc'
-            })
-        })
-    };
     allPublications = $("#pub-card-container .pub-card");
     allTopicsLink = $("#pub-container .subtitle-aux a");
     allTopics = [];
