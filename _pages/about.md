@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). I am also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research focuses on enabling autonomous robots to navigate reliably in complex, unstructured environments through novel motion planning algorithms and learning-based approaches.
+Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, emphasizing motion planning, learning-based control, and the integration of foundation models. By unifying perception, planning, and control under adaptive frameworks, his work advances reliable autonomy in unstructured real-world environments.
 
 ## 🤝 Collaborations
 
@@ -20,7 +20,6 @@ Subsequently, I joined [**Dr. Erion Plaku**](https://erionplaku.github.io/)'s la
 Currently, I pursue doctoral research with [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) at GMU on **adaptive dynamics planning and learning-based navigation**. During this time, I have also collaborated with [**Prof. Nick Hawes**](https://www.robots.ox.ac.uk/~nickh/) at Oxford on **robot dynamics and adaptive control**, [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at JHU on **quadruped navigation**, and [**Dr. Xiaomin Lin**](https://xiaominlin.github.io/) on **LLM/VLM-driven robot navigation**.
 
 These collaborations bridge **data-driven modeling**, **motion planning**, and **foundation-model-based navigation**.
-
 
 ## Research Interests
   * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
