@@ -6,225 +6,187 @@ author_profile: true
 googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 ---
 
+<html>
+<body>
+
 <div class="content-container">
   <div id="pub-container">
-    <h1 class="subtitle">Publications</h1>
+    <h1 class="subtitle">Publications
+    (
+        <a id="publication-by-selected" href="javascript:;" onClick="publicationBySelected();">show selected</a> /
+        <a id="publication-by-date" href="javascript:;" onClick="publicationByDate();">show all by date</a> /
+        <a id="publication-by-topic" href="javascript:;" onClick="publicationByTopic();">show all by topic</a>
+    )
+    </h1>
+    <p class="subtitle-aux"><b>Topics:</b>
+        <a href="#topic-motion-planning" onClick="return publicationByTopicSpecific(this)" data-topic="motion-planning">Motion Planning</a> /
+        <a href="#topic-learning-based-navigation" onClick="return publicationByTopicSpecific(this)" data-topic="learning-based-navigation">Learning-based Navigation</a> /
+        <a href="#topic-benchmarks-datasets" onClick="return publicationByTopicSpecific(this)" data-topic="benchmarks-datasets">Benchmarks & Datasets</a> /
+        <a href="#topic-bioinformatics" onClick="return publicationByTopicSpecific(this)" data-topic="machine-learning">Machine Learning</a>
+        <br />
+    </p>
 
-    <div id="pub-card-container">
+    <div id="pub-card-container" class="activated hide">
 
       <!-- ICRA 2026 -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">ICRA 2026</div>
-              <img src="/images/pubs/adp.gif" alt="Adaptive Dynamics Planning">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">ICRA 2026</div>
+            <img src="/images/pubs/adp.gif" alt="Adaptive Dynamics Planning teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Adaptive Dynamics Planning for Robot Navigation</div>
-            <div class="meta">Y. Lu, L. Wang, T. Xu, X. Xiao — under review at IEEE ICRA 2026</div>
-            <p>This work integrates adaptive dynamics modeling with deep-learning-based planners to achieve efficient and robust navigation in constrained environments.</p>
-            <p><a href="https://arxiv.org/pdf/2510.05330" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta">Y. Lu, L. Wang, T. Xu, X. Xiao — under review at ICRA 2026</em>
+          <span>
+            Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
       <!-- IROS 2025 -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">IROS 2025</div>
-              <img src="/images/pubs/ddp.png" alt="Decremental Dynamics Planning">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">IROS 2025</div>
+            <img src="/images/pubs/ddp.png" alt="Decremental Dynamics Planning teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Decremental Dynamics Planning for Robot Navigation</div>
-            <div class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</div>
-            <p>This paper presents a hierarchical dynamic reconfiguration method enabling efficient re-planning for real-time navigation.</p>
-            <p><a href="https://arxiv.org/pdf/2503.20521" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</em>
+          <span>
+            Hierarchical dynamic reconfiguration enabling real-time replanning.
+            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
-      <!-- ICRA 2025 (BARN Challenge) -->
+      <!-- ICRA 2025 (BARN) -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">ICRA 2025 (BARN)</div>
-              <img src="/images/pubs/barn.gif" alt="BARN Challenge">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">ICRA 2025</div>
+            <img src="/images/pubs/barn.gif" alt="BARN challenge teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</div>
-            <div class="meta">Y. Lu, et al. — ICRA 2025, Competition Track</div>
-            <p>Comprehensive analysis and insights from large-scale constrained-space navigation benchmarks.</p>
-            <p><a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
+          <em class="meta">Y. Lu, et al. — ICRA 2025 (Competition Track)</em>
+          <span>
+            Report and analysis from large-scale constrained-space navigation benchmarking.
+            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
       <!-- IROS 2025 Reward Training Wheels -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2025" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">IROS 2025</div>
-              <img src="/images/pubs/rtw.png" alt="Reward Training Wheels">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">IROS 2025</div>
+            <img src="/images/pubs/rtw.png" alt="Reward Training Wheels teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</div>
-            <div class="meta">L. Wang, T. Xu, Y. Lu, X. Xiao — IROS 2025 (accepted)</div>
-            <p>This work proposes adaptive auxiliary rewards that automatically fade during training to improve learning stability.</p>
-            <p><a href="https://arxiv.org/pdf/2503.15724" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</strong><br>
+          <em class="meta">L. Wang, T. Xu, Y. Lu, X. Xiao — IROS 2025 (accepted)</em>
+          <span>
+            Adaptive auxiliary reward shaping that phases out to avoid policy degradation.
+            | <a href="https://arxiv.org/pdf/2503.15724" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
-      <!-- Verti-bench RA-L 2025 -->
+      <!-- RA-L 2025 -->
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">RA-L 2025</div>
-              <img src="/images/pubs/verti-bench.png" alt="Verti-bench Benchmark">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">RA-L 2025</div>
+            <img src="/images/pubs/verti-bench.png" alt="Verti-bench teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</div>
-            <div class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</div>
-            <p>A general and scalable off-road mobility benchmark covering diverse terrain conditions for robotic evaluation.</p>
-            <p><a href="https://arxiv.org/pdf/2502.11426" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
+          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</em>
+          <span>
+            Benchmark for vertical mobility across heterogeneous terrain profiles.
+            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
-      <!-- Motion Memory ICRA 2024 -->
+      <!-- ICRA 2024 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2024" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">ICRA 2024</div>
-              <img src="/images/pubs/motion-memory.gif" alt="Motion Memory">
-            </div>
-          </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</div>
-            <div class="meta">D. Das, Y. Lu, E. Plaku, X. Xiao — ICRA 2024, pp. 16467–16474</div>
-            <p>Introduces a memory-augmented planning approach that leverages past experiences for faster path generation.</p>
-            <p><a href="https://arxiv.org/pdf/2310.06198" target="_blank">[Paper]</a></p>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">ICRA 2024</div>
+            <img src="/images/pubs/motion-memory.gif" alt="Motion Memory teaser">
           </div>
         </div>
-      </div>
-
-      <!-- Multi-goal Motion Planning arXiv 2025 -->
-      <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">arXiv 2025</div>
-              <img src="/images/pubs/mgmpd_2025.png" alt="Multi-Goal Planning">
-            </div>
-          </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics</div>
-            <div class="meta">Y. Lu, E. Plaku — arXiv preprint, 2025</div>
-            <p>Combines learned priors with sampling-based search to accelerate multi-goal motion planning under dynamics constraints.</p>
-            <p><a href="https://arxiv.org/abs/2503.20530" target="_blank">[Paper]</a></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Traffic Flow Forecasting with Maintenance Downtime -->
-      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">arXiv 2024</div>
-              <img src="/images/pubs/traffic_mcastgcn.png" alt="Traffic Forecasting">
-            </div>
-          </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Traffic Flow Forecasting with Maintenance Downtime via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</div>
-            <div class="meta">Y. Lu, P. Kamranfar, D. Lattanzi, A. Shehu — arXiv preprint, 2024</div>
-            <p>Develops a spatio-temporal graph neural network with multi-channel attention for robust traffic prediction under maintenance downtime.</p>
-            <p><a href="https://arxiv.org/abs/2110.01535" target="_blank">[Paper]</a></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Work Zone Disruptions -->
-      <div class="pub-card" data-topic="machine-learning" data-year="2024" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">arXiv 2024</div>
-              <img src="/images/pubs/traffic_workzone.png" alt="Work Zone Forecasting">
-            </div>
-          </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Accounting for Work Zone Disruptions in Traffic Flow Forecasting</div>
-            <div class="meta">Y. Lu, A. Shehu, D. Lattanzi — arXiv preprint, 2024</div>
-            <p>Addresses non-recurring traffic disruptions such as work zones and lane closures using graph neural networks.</p>
-            <p><a href="https://arxiv.org/abs/2407.11407" target="_blank">[Paper]</a></p>
-          </div>
+        <div class="pub-info">
+          <strong>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</strong><br>
+          <em class="meta">D. Das, Y. Lu, E. Plaku, X. Xiao — ICRA 2024</em>
+          <span>
+            Experience reuse via CNN-based path priors to speed up planning.
+            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
       <!-- IROS 2023 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2023" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">IROS 2023</div>
-              <img src="/images/pubs/mgmpd_2023.png" alt="IROS 2023">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">IROS 2023</div>
+            <img src="/images/pubs/mgmpd_2023.png" alt="Multi-goal with dynamics teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</div>
-            <div class="meta">Y. Lu, E. Plaku — IROS 2023, pp. 850–857</div>
-            <p>Improves multi-goal planning by transferring knowledge from single-goal predictions to dynamic planning contexts.</p>
-            <p><a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
+          <em class="meta">Y. Lu, E. Plaku — IROS 2023, pp. 850–857</em>
+          <span>
+            Single-goal predictors as priors to accelerate multi-goal planning with dynamics constraints.
+            | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
       <!-- IROS 2022 -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2022" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">IROS 2022</div>
-              <img src="/images/pubs/runtime_pred_2022.png" alt="IROS 2022">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">IROS 2022</div>
+            <img src="/images/pubs/runtime_pred_2022.png" alt="Runtime prediction teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</div>
-            <div class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022, pp. 4486–4491</div>
-            <p>Introduces runtime prediction to guide sampling-based planners under dynamic constraints.</p>
-            <p><a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
+          <em class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022, pp. 4486–4491</em>
+          <span>
+            Runtime predictions informing sampling-based planning under dynamics.
+            | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
       <!-- BIBM 2021 -->
       <div class="pub-card" data-topic="machine-learning" data-year="2021" data-selected="true">
-        <div class="paper-box">
-          <div class="paper-box-image">
-            <div>
-              <div class="badge">BIBM 2021</div>
-              <img src="/images/pubs/chem_gen_2021.png" alt="Molecule Generation">
-            </div>
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">BIBM 2021</div>
+            <img src="/images/pubs/chem_gen_2021.png" alt="Controllable molecule generation teaser">
           </div>
-          <div class="paper-box-text" markdown="1">
-            <div class="title">Deep Latent-variable Models for Controllable Molecule Generation</div>
-            <div class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — IEEE BIBM 2021, pp. 1303–1310</div>
-            <p>Presents deep latent-variable models enabling controllable molecular design in biomedical applications.</p>
-            <p><a href="https://ieeexplore.ieee.org/document/9669692" target="_blank">[Paper]</a></p>
-          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
+          <em class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — BIBM 2021, pp. 1303–1310</em>
+          <span>
+            Controllable molecule generation via latent-variable models.
+            | <a href="https://ieeexplore.ieee.org/document/9669692" target="_blank">paper</a>
+          </span>
         </div>
       </div>
 
@@ -233,30 +195,31 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 </div>
 
 <style>
-.paper-box {
+#pub-card-container .pub-card {
   display: flex;
   gap: 16px;
   align-items: flex-start;
-  padding: 16px 0;
-  border-bottom: 1px solid #e5e5e5;
+  padding: 14px 0;
+  border-bottom: 1px solid #eee;
 }
-.paper-box-image {
-  flex: 0 0 340px;
+#pub-card-container .pub-media {
+  flex: 0 0 360px;
+  max-width: 100%;
 }
-.paper-box-image > div {
+#pub-card-container .pub-media .media-wrapper {
   position: relative;
   width: 100%;
   aspect-ratio: 16/9;
   overflow: hidden;
-  border-radius: 8px;
-  background: #f5f5f5;
+  border-radius: 6px;
+  background: #f7f7f7;
 }
-.paper-box-image img {
+#pub-card-container .pub-media .media-wrapper img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.badge {
+#pub-card-container .pub-media .badge {
   position: absolute;
   top: 10px;
   left: 10px;
@@ -267,11 +230,27 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   border-radius: 6px;
   opacity: 0.9;
 }
-.paper-box-text { flex: 1; }
-.paper-box-text .title { font-size: 1.05rem; font-weight: 600; }
-.paper-box-text .meta { color: #666; font-style: italic; margin-bottom: 8px; }
+#pub-card-container .pub-info {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+#pub-card-container .pub-info strong {
+  font-size: 1.02rem;
+}
+#pub-card-container .meta {
+  color: #666;
+  font-style: italic;
+  margin: 2px 0 6px 0;
+  display: block;
+}
 @media (max-width: 768px) {
-  .paper-box { flex-direction: column; }
-  .paper-box-image { width: 100%; }
+  #pub-card-container .pub-card {
+    flex-direction: column;
+  }
+  #pub-card-container .pub-media {
+    width: 100%;
+    flex: none;
+    aspect-ratio: 16 / 9;
+  }
 }
 </style>
