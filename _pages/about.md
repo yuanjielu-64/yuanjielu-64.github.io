@@ -9,6 +9,24 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at George Mason University, advised by Prof. Xuesu Xiao. My research focuses on enabling autonomous robots to navigate reliably in complex, unstructured environments through novel motion planning algorithms and learning-based approaches.
 
+## 🤝 Collaborations
+
+My research journey has been shaped by broad collaborations across robotics, artificial intelligence, and data-driven modeling.
+
+I began working with **Dr. Amarda Shehu** and **Dr. David Lattanzi** on **data-driven modeling and anomaly forecasting for autonomous systems**, where we investigated how learning-based representations can capture structural and behavioral deviations in dynamic environments.
+
+Following this work, I collaborated with **Dr. Michael D. Fontaine, P.E., Ph.D.** and **Katie McCann, P.E.** from the **Virginia Department of Transportation (VDOT)** to design **graph neural network architectures** for large-scale traffic flow forecasting under non-recurring disruptions such as lane closures and work zones.
+
+Later, I joined **Dr. Erion Plaku**’s group to study **motion planning algorithms** that integrate machine learning with classical search and sampling-based planners, enabling robots to plan and react efficiently in dynamic environments.
+
+Building on these experiences, I began working with **Prof. Xuesu Xiao**, under whose supervision I currently pursue my doctoral research on **adaptive dynamics planning and learning-based navigation**.  
+During this time, I also collaborated with **Dr. Tinoosh Mohsenin** at **Johns Hopkins University** on **quadruped robot navigation**, developing real-time cross-modal perception and control systems for the **Unitree Go2** platform.
+
+More recently, I have collaborated with **Prof. Nick Hawes** (University of Oxford) on **robot dynamics modeling and adaptive control**, and with **Dr. Xiaomin Lin** on **LLM/VLM-driven navigation and embodied intelligence**, exploring how foundation models can enhance robot perception and low-level decision-making.
+
+Together, these collaborations form a continuous research trajectory that bridges **data-driven modeling**, **motion planning**, and **foundation-model-based autonomous navigation**.
+
+
 ## Research Interests
   * ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
   * ***AI-driven Decision-Making for Robot Motion Planning and Control*** 
