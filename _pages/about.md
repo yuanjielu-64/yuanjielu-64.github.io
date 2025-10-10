@@ -28,7 +28,7 @@ These collaborations bridge **data-driven modeling**, **motion planning**, **lea
 
 ## Recent Projects
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation
-*Combining motion planning with TD3-based reinforcement learning for real-time dynamics adaptation in mapless, constrained environments*
+*Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
 
 <img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
 
@@ -40,14 +40,8 @@ These collaborations bridge **data-driven modeling**, **motion planning**, **lea
   <img src="/images/jhu1.gif" width="330">  <img src="/images/jhu4.gif" width="330">
   <img src="/images/jhu3.gif" width="330">  <img src="/images/jhu5.gif" width="330">
 
-### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
-*Autonomous Navigation for Legged Robots in Complex Environments*
-
-  <img src="/images/jhu1.gif" width="330">  <img src="/images/jhu4.gif" width="330">
-  <img src="/images/jhu3.gif" width="330">  <img src="/images/jhu5.gif" width="330">
-
 ### Adaptive Locomotion for Quadruped Robots in Unstructured Terrain (Summer 2024 @ Unitree)
-*Reinforcement Learning-based balance and mobility control for legged robots traversing rocky environments*
+*Reinforcement Learning-Based Balance and Mobility Control for Legged Robots Traversing Rocky Terrain and Stairs*
 
   <img src="/images/IROS2025.gif" width="330"> <img src="/images/IROS20251.gif" width="330">
   
