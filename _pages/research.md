@@ -35,7 +35,7 @@ I work with diverse robot platforms to validate algorithms in both simulation an
 
 | Robot | Image | Type | Use Case |
 |:------|:------:|:------|:----------|
-| **Unitree Go2** | <img src="/images/robots/go2.jpg" width="180"/> | Quadruped | VLM navigation, cross-modal perception |
+| **Unitree Go2** | <img src="/images/go2.png" width="180"/> | Quadruped | VLM navigation, cross-modal perception |
 | **Unitree Go1** | <img src="/images/robots/go1.jpg" width="180"/> | Quadruped | Visual–LiDAR fusion, RL locomotion |
 | **Unitree G1** | <img src="/images/robots/g1.jpg" width="180"/> | Humanoid | LLM-guided policy learning |
 | **Clearpath Jackal** | <img src="/images/robots/jackal.jpg" width="180"/> | Wheeled UGV | Real-world navigation testing |
