@@ -57,4 +57,4 @@ Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, 
 * **[May 2025]** Started Research Engineer position at Johns Hopkins University
 * **[Mar 2025]** Our work is supported by National Science Foundation (NSF), Army Research Office (ARO) and Air Force Research Laboratory (AFRL)
 * **[Jan 2025]** Paper "Multi-goal Motion Memory for Robot Navigation" accepted to IEEE ICRA 2025
-* **[Nov 2024]** Won 2nd place in the 2025 BARN Challenge
+
