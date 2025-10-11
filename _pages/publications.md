@@ -164,7 +164,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">IROS 2022</div>
-            <img src="/images/lu1.gif" alt="Runtime prediction teaser">
+            <img src="/images/lu2.gif" alt="Runtime prediction teaser">
           </div>
         </div>
         <div class="pub-info">
