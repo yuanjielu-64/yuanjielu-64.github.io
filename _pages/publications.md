@@ -28,7 +28,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — under review at IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
           <span>
             Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
-            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?v=Iay-VswWvMM" target="_blank">video</a>
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> 
           </span>
         </div>
       </div>
