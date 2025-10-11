@@ -43,7 +43,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
-          <em class="meta">Y. Lu et al. — ICRA 2025 (Competition Track)</em>
+          <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE International Conference on Robotics and Automation (ICRA), 2025 (Competition Track)</em>
           <span>
             Report and analysis from large-scale constrained-space navigation benchmarking.
             | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a>
@@ -55,13 +55,13 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="multi-images">
-            <div class="badge">ICRA 2025</div>
+            <div class="badge">IROS 2025</div>
             <img src="/images/DDP1.gif" alt="Adaptive Dynamics Planning teaser 2">
           </div>
         </div>
         <div class="pub-info">
           <strong>Decremental Dynamics Planning for Robot Navigation</strong><br>
-          <em class="meta">Y. Lu, T. Xu, L. Wang, N. Hawes, X. Xiao — IROS 2025 (accepted)</em>
+          <em class="meta"><strong>Y. Lu</strong>, T. Xu, L. Wang, N. Hawes, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</em>
           <span>
             Hierarchical dynamic reconfiguration enabling real-time replanning.
             | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
@@ -79,7 +79,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning</strong><br>
-          <em class="meta">L. Wang, T. Xu, Y. Lu, X. Xiao — IROS 2025 (accepted)</em>
+          <em class="meta">L. Wang, T. Xu, <strong>Y. Lu</strong>, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</em>
           <span>
             Adaptive auxiliary reward shaping that phases out to avoid policy degradation.
             | <a href="https://arxiv.org/pdf/2503.15724" target="_blank">paper</a>
@@ -96,8 +96,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           </div>
         </div>
         <div class="pub-info">
-          <strong>Verti-bench: A General and Scalable Off-road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
-          <em class="meta">T. Xu, C. Pan, M. Rao, A. Datar, A. Pokhrel, Y. Lu, X. Xiao — IEEE RA-L, 2025</em>
+          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <strong>Y. Lu</strong>, X. Xiao — IEEE Robotics and Automation Letters (RA-L), 2025</em>
           <span>
             Benchmark for vertical mobility across heterogeneous terrain profiles.
             | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a>
@@ -115,7 +114,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Multi-goal motion memory</strong><br>
-          <em class="meta">Y. Lu, D. Das,  E. Plaku, X. Xiao — ICRA 2025</em>
+          <em class="meta"><strong>Y. Lu</strong>, D. Das, E. Plaku, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2025</em>
           <span>
             Experience reuse via CNN-based path priors to speed up planning.
             | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
@@ -133,7 +132,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Motion Memory: Leveraging Past Experiences to Accelerate Future Motion Planning</strong><br>
-          <em class="meta">D. Das, Y. Lu, E. Plaku, X. Xiao — ICRA 2024</em>
+          <em class="meta">D. Das, <strong>Y. Lu</strong>, E. Plaku, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2024</em>
           <span>
             Experience reuse via CNN-based path priors to speed up planning.
             | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
@@ -151,7 +150,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Leveraging Single-goal Predictions to Improve the Efficiency of Multi-goal Motion Planning with Dynamics</strong><br>
-          <em class="meta">Y. Lu, E. Plaku — IROS 2023</em>
+          <em class="meta"><strong>Y. Lu</strong>, E. Plaku — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023</em>
           <span>
             Single-goal predictors as priors to accelerate multi-goal planning with dynamics.
             | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a>
@@ -169,7 +168,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Improving the Efficiency of Sampling-based Motion Planners via Runtime Predictions for Motion-planning Problems with Dynamics</strong><br>
-          <em class="meta">H. D. Bui, Y. Lu, E. Plaku — IROS 2022</em>
+          <em class="meta">H. D. Bui, <strong>Y. Lu</strong>, E. Plaku — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022</em>
           <span>
             Runtime predictions informing sampling-based planning under dynamics.
             | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>
@@ -187,7 +186,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Deep Latent-variable Models for Controllable Molecule Generation</strong><br>
-          <em class="meta">Y. Du, Y. Wang, F. Alam, Y. Lu, X. Guo, L. Zhao, A. Shehu — BIBM 2021</em>
+          <em class="meta">Y. Du, Y. Wang, F. Alam, <strong>Y. Lu</strong>, X. Guo, L. Zhao, A. Shehu — IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021</em>
           <span>
             Controllable molecule generation via latent-variable models.
             | <a href="https://ieeexplore.ieee.org/document/9669692" target="_blank">paper</a>
