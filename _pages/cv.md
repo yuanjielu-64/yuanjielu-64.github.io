@@ -41,4 +41,14 @@ Skills
 * **Robotics:** ROS (ROS1/ROS2), Gazebo, Isaac Sim/Lab, OpenAI Gym
 * **Other:** Singularity/Apptainer, HPC (Slurm), Docker, Git  
 
+## Reviewer
+
+* 2024/2025 IEEE International Conference on Robotics and Automation (ICRA)
+* 2024/2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* 2024/2025 IEEE Robotics and Automation Letters (RAL)
+
+## Leadership
+
+Team Lead, GMU BARN Challenge 2025 Team
+
 
