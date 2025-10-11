@@ -36,7 +36,6 @@ author_profile: true
     <div class="student-info">
       <strong>Rithvik Jonna</strong><br>
       M.S. student, Johns Hopkins University<br>
-      <em>Research:</em> Terrain analysis and off-road navigation benchmarking.
     </div>
   </div>
 
