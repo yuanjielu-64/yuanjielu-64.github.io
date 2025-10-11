@@ -6,8 +6,6 @@ author_profile: true
 googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
 ---
 
-**More videos are shown in [Projects](/projects/).**
-
 <html>
 <body>
 
