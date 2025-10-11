@@ -25,7 +25,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
-          <em class="meta">Y. Lu, L. Wang, T. Xu, X. Xiao — under review at ICRA 2026</em>
+          <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — under review at IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
           <span>
             Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
             | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a>
