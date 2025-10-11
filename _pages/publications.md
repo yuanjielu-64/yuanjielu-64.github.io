@@ -182,7 +182,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">BIBM 2021</div>
-            <img src="/images/pubs/chem_gen_2021.png" alt="Molecule generation teaser">
+            <img src="/images/BIBM.png" alt="Molecule generation teaser">
           </div>
         </div>
         <div class="pub-info">
