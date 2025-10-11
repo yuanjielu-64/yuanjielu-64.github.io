@@ -146,7 +146,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">IROS 2023</div>
-            <img src="/images/pubs/mgmpd_2023.png" alt="Multi-goal motion planning teaser">
+            <img src="/images/lu.gif" alt="Multi-goal motion planning teaser">
           </div>
         </div>
         <div class="pub-info">
@@ -164,7 +164,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">IROS 2022</div>
-            <img src="/images/pubs/runtime_pred_2022.png" alt="Runtime prediction teaser">
+            <img src="/images/lu1.gif" alt="Runtime prediction teaser">
           </div>
         </div>
         <div class="pub-info">
