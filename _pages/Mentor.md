@@ -40,26 +40,7 @@ author_profile: true
     </div>
   </div>
 
-    <!-- ===== Student 3 ===== -->
-  <div class="student-card">
-    <img src="/images/Rithvik.png" alt="Student 3 photo">
-    <div class="student-info">
-      <strong>Rithvik Jonna</strong><br>
-      M.S. student, Johns Hopkins University<br>
-      <em>Research:</em> Terrain analysis and off-road navigation benchmarking.
-    </div>
-  </div>
 
-    <!-- ===== Student 3 ===== -->
-  <div class="student-card">
-    <img src="/images/Rithvik.png" alt="Student 3 photo">
-    <div class="student-info">
-      <strong>Rithvik Jonna</strong><br>
-      M.S. student, Johns Hopkins University<br>
-      <em>Research:</em> Terrain analysis and off-road navigation benchmarking.
-    </div>
-  </div>
-</div>
 
 </body>
 </html>
