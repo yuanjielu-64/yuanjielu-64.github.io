@@ -94,7 +94,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="media-wrapper">
             <div class="badge">ICRA 2025</div>
-            <img src="/images/a2.png" alt="BARN challenge teaser">
+            <img src="/images/a4.png" alt="BARN challenge teaser">
           </div>
         </div>
         <div class="pub-info">
