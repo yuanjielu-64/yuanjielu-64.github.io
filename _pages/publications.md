@@ -111,7 +111,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
-            <div class="badge">ICRA 2024</div>
+            <div class="badge">ICRA 2025</div>
             <img src="/images/multi-goal.gif" alt="Motion Memory teaser">
           </div>
         </div>
