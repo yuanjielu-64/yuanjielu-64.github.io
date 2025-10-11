@@ -14,21 +14,19 @@ author_profile: true
 
   <!-- ===== Student 1 ===== -->
   <div class="student-card">
-    <img src="/images/students/student1.jpg" alt="Student 1 photo">
+    <img src="/images/Mingyang_Mao.jpg" alt="Student 1 photo">
     <div class="student-info">
-      <strong>Li Wang</strong><br>
-      Ph.D. Student, George Mason University<br>
-      <em>Research:</em> Learning-based motion planning and adaptive dynamics modeling.
+      <strong>Mingyang Mao</strong><br>
+      Ph.D. Student, University of South Florida<br>
     </div>
   </div>
 
   <!-- ===== Student 2 ===== -->
   <div class="student-card">
-    <img src="/images/students/student2.jpg" alt="Student 2 photo">
+    <img src="/images/Boxun-2-225x300.jpg" alt="Student 2 photo">
     <div class="student-info">
-      <strong>Tao Xu</strong><br>
-      M.S. Student, George Mason University<br>
-      <em>Research:</em> Reinforcement learning for autonomous navigation in constrained environments.
+      <strong>Boxun Hu</strong><br>
+      Ph.D. Student, Johns Hopkins University<br>
     </div>
   </div>
 
