@@ -33,23 +33,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ========== ICRA 2025 (BARN Challenge) ========== -->
-      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
-        <div class="pub-media">
-          <div class="media-wrapper">
-            <div class="badge">ICRA 2025</div>
-            <img src="/images/a2.png" alt="BARN challenge teaser">
-          </div>
-        </div>
-        <div class="pub-info">
-          <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
-          <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE International Conference on Robotics and Automation (ICRA), 2025 (Competition Track)</em>
-          <span>
-            Report and analysis from large-scale constrained-space navigation benchmarking.
-            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a> | <a href="https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html" target="_blank">website</a>
-          </span>
-        </div>
-      </div>
+
 
       <!-- ========== IROS 2025 ========== -->
       <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
@@ -105,6 +89,24 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
+      <!-- ========== ICRA 2025 (BARN Challenge) ========== -->
+      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
+        <div class="pub-media">
+          <div class="media-wrapper">
+            <div class="badge">ICRA 2025</div>
+            <img src="/images/a2.png" alt="BARN challenge teaser">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
+          <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE International Conference on Robotics and Automation (ICRA), 2025 (Competition Track)</em>
+          <span>
+            Report and analysis from large-scale constrained-space navigation benchmarking.
+            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a> | <a href="https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html" target="_blank">website</a>
+          </span>
+        </div>
+      </div>
+      
       <!-- ========== ICRA 2025 ========== -->
       <div class="pub-card" data-topic="motion-planning,learning-based-navigation" data-year="2025" data-selected="true">
         <div class="pub-media">
