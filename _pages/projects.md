@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Locomotion for Humanoid robots (Sep 2025 @ JHU)
+### Locomotion for Humanoid robots (Current)
 *Locomotion of the humanoid robot G1*
 
 <img src="/images/human.gif" width="330">
