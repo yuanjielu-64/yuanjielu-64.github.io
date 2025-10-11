@@ -7,7 +7,10 @@ author_profile: true
 
 ### Locomotion for Humanoid robots (Sep 2025 @ JHU)
 *Locomotion of the humanoid robot G1*
+
 <img src="/images/human.gif" width="330">
+
+---
 
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
 *Autonomous Navigation for Legged Robots in Complex Environments*
@@ -22,5 +25,5 @@ author_profile: true
 
   <img src="/images/IROS2025.gif" width="330">  <img src="/images/IROS20251.gif" width="330">
 
-
+---
 
