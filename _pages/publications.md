@@ -28,7 +28,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — under review at IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
           <span>
             Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
-            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?v=Iay-VswWvMM" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -46,7 +46,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE International Conference on Robotics and Automation (ICRA), 2025 (Competition Track)</em>
           <span>
             Report and analysis from large-scale constrained-space navigation benchmarking.
-            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a>
+            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a> | <a href="https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html" target="_blank">website</a>
           </span>
         </div>
       </div>
@@ -64,7 +64,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, T. Xu, L. Wang, N. Hawes, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</em>
           <span>
             Hierarchical dynamic reconfiguration enabling real-time replanning.
-            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2503.20521" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?si=_PQy7Wp0XZbcXzjr&v=Iay-VswWvMM&feature=youtu.be" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -82,7 +82,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta">L. Wang, T. Xu, <strong>Y. Lu</strong>, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</em>
           <span>
             Adaptive auxiliary reward shaping that phases out to avoid policy degradation.
-            | <a href="https://arxiv.org/pdf/2503.15724" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2503.15724" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?si=ktHEtPFo72SY5Cj8&v=O5_sZwu2Pn4&feature=youtu.be" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -96,10 +96,11 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           </div>
         </div>
         <div class="pub-info">
+          <strong>Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
           <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <strong>Y. Lu</strong>, X. Xiao — IEEE Robotics and Automation Letters (RA-L), 2025</em>
           <span>
             Benchmark for vertical mobility across heterogeneous terrain profiles.
-            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a> <a href="https://www.youtube.com/watch?v=O9VlMg3tnvo" target="_blank">video</a>
           </span>
         </div>
       </div>
