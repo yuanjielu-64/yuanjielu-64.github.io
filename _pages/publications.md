@@ -100,7 +100,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <strong>Y. Lu</strong>, X. Xiao — IEEE Robotics and Automation Letters (RA-L), 2025</em>
           <span>
             Benchmark for vertical mobility across heterogeneous terrain profiles.
-            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a> <a href="https://www.youtube.com/watch?v=O9VlMg3tnvo" target="_blank">video</a>
+            | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?v=O9VlMg3tnvo" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -118,7 +118,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, D. Das, E. Plaku, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2025</em>
           <span>
             Experience reuse via CNN-based path priors to speed up planning.
-            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?si=QAfNl870hlmm9JNS&v=X8CgzmBarF4&feature=youtu.be" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -136,7 +136,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta">D. Das, <strong>Y. Lu</strong>, E. Plaku, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2024</em>
           <span>
             Experience reuse via CNN-based path priors to speed up planning.
-            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a>
+            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?v=jIXWw5R4w2E" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -154,7 +154,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, E. Plaku — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023</em>
           <span>
             Single-goal predictors as priors to accelerate multi-goal planning with dynamics.
-            | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a>
+            | <a href="https://ieeexplore.ieee.org/document/10341945" target="_blank">paper</a> | <a href="https://www.youtube.com/playlist?list=PLk6QXnPWDbMvA6igAcRC4BvkFBsv7C_zy" target="_blank">video</a>
           </span>
         </div>
       </div>
@@ -172,7 +172,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta">H. D. Bui, <strong>Y. Lu</strong>, E. Plaku — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022</em>
           <span>
             Runtime predictions informing sampling-based planning under dynamics.
-            | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>
+            | <a href="https://ieeexplore.ieee.org/document/9981753" target="_blank">paper</a>  | <a href="https://www.youtube.com/playlist?list=PLFiAOJHCKZ4bFRF-106oBrE_WUdqzj-PC" target="_blank">video</a>
           </span>
         </div>
       </div>
