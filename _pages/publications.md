@@ -118,7 +118,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           <em class="meta"><strong>Y. Lu</strong>, D. Das, E. Plaku, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2025</em>
           <span>
             Experience reuse via CNN-based path priors to speed up planning.
-            | <a href="https://arxiv.org/pdf/2310.06198" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?si=QAfNl870hlmm9JNS&v=X8CgzmBarF4&feature=youtu.be" target="_blank">video</a>
+            | <a href="https://arxiv.org/abs/2407.11399" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?si=QAfNl870hlmm9JNS&v=X8CgzmBarF4&feature=youtu.be" target="_blank">video</a>
           </span>
         </div>
       </div>
