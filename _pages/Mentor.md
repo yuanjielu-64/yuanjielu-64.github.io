@@ -32,7 +32,7 @@ author_profile: true
 
   <!-- ===== Student 3 ===== -->
   <div class="student-card">
-    <img src="/images/students/student3.jpg" alt="Student 3 photo">
+    <img src="/images/Rithvik.png" alt="Student 3 photo">
     <div class="student-info">
       <strong>Rithvik Jonna</strong><br>
       M.S. student, Johns Hopkins University<br>
