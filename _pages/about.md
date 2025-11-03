@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research centers on autonomous navigation and decision-making for robots, with a focus on **motion planning**, **learning-based navigation**, and **integrating foundation models**. He aims to create unified, adaptive navigation frameworks that allow robots to navigate reliably in complex, real-world environments.
+Yuanjie Lu is a PhD student in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research lies at the intersection of foundation models and reinforcement 
+learning for autonomous decision-making. He develops **LLM/VLM-based reasoning systems**, **deep RL algorithms**, and **learning-based planning methods**. His work focuses on creating intelligent systems that can adapt to novel environments through learned representations and hierarchical decision-making. He is actively seeking research scientist and ML engineer positions in industry, with interests in foundation models, reinforcement learning, and AI systems.
 
 ## Collaborations
 
