@@ -12,21 +12,26 @@ I aim to build **intelligent navigation systems** that enable robots to operate 
 ---
 
 ## 🔬 Research Themes
-* ***Deep Learning & Reinforcement Learning for Autonomous Robot Navigation***
-Developing learning-based approaches for robot perception, planning, and control that enable adaptive navigation in dynamic environments.
-* ***AI-driven Decision-Making for Robot Motion Planning and Control***
-Leveraging AI methods to enhance decision-making across motion planning and control.
-* ***LLMs and VLMs for Low-Level Decision-Making in Robot Navigation***
-Investigating how LLMs and VLMs can be used for **direct low-level decision-making** in robot navigation.
+
+* ***Foundation Models for Intelligent Decision-Making***  
+Developing LLM and VLM-based systems for adaptive reasoning and planning. Focusing on prompt engineering, fine-tuning with domain-specific data, and real-time inference optimization for sequential decision-making tasks.
+
+* ***Deep Reinforcement Learning for Adaptive Control***  
+Designing model-free and hierarchical RL algorithms for continuous control problems. Investigating policy learning, reward shaping, and sim-to-real transfer methods for deployment in complex, dynamic environments.
+
+* ***Learning-based Motion Planning***  
+Creating neural planning methods that leverage learned representations for efficient path generation. Developing learned heuristics, memory-augmented frameworks, and hybrid approaches combining classical and learning-based techniques.
 
 ---
 
-## 🚀 Future Work: Legged & Humanoid Navigation
-My future research focuses on **navigation** for legged robots, including **locomotion** (gait generation and motor control).
+## 🚀 Future Directions
 
-**Next challenges:**
-- Quadruped climbing and navigation on non-planar terrain
-- Humanoid robots: climbing obstacles and dynamic balance
+My future research aims to advance **foundation models and reinforcement learning** for more complex decision-making scenarios.
+
+**Key directions:**
+- Scaling LLM/VLM reasoning to longer horizons and multi-agent systems
+- Sample-efficient RL for high-dimensional continuous control tasks
+- Bridging the gap between learned policies and real-world deployment
 
 ---
 
