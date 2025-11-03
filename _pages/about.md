@@ -19,9 +19,9 @@ He first worked with [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/) and [Dr. Da
 Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, where he studied motion planning algorithms that integrate learning with classical planners, building on foundations in dynamic programming and search-based methods. He later collaborated with [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) at Oxford University on robot dynamics and adaptive control, [Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/) at Johns Hopkins University on quadruped navigation, and [Dr. Xiaomin Lin](https://xiaominlin.github.io/) on LLM/VLM-driven robot navigation.
 
 ## Research Interests
-  * Deep Learning & Reinforcement Learning for Autonomous Robot Navigation
-  * AI-driven Decision-Making for Robot Motion Planning and Control
-  * LLMs and VLMs for Low-Level Decision-Making in Robot Navigation
+  * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive parameter learning
+  * Deep Reinforcement Learning: Policy learning, hierarchical control, and sim-to-real transfer
+  * Neural Motion Planning: Learning-based methods for efficient planning and control in dynamic environments
 
 {% include base_path %}
 
