@@ -50,6 +50,9 @@ Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, 
   
 
 ## News
+* **[Feb 2026]** Paper "Adaptive Dynamics Planning for Robot Navigation" accepted to IEEE ICRA 2026
+* **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
+* **[Feb 2026]** Completed a paper on large language model–based adaptive parameter tuning for robot navigation
 * **[Dec 2025]** Built a custom dynamics-model-based navigation system with full ROS1/ROS2 compatibility, supporting modular design and planner adaptation.
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
 * **[Sep 2025]** Paper "Autonomous Ground Navigation in Highly Constrained Spaces" published in IEEE ICRA 2025 (BARN Challenge Competition Track)
