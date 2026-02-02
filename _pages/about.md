@@ -30,7 +30,8 @@ Subsequently, he joined [Dr. Erion Plaku](https://erionplaku.github.io/)'s lab, 
 ## Recent Publications & Projects
 
 ### Adaptive Planner Parameter Learning from Vision-Language Models (IROS 2026)
-This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment. 
+*This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
+
 
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
 *Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
