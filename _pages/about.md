@@ -30,17 +30,17 @@ His research journey has progressed from machine learning and deep learning for 
 
 <img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
 
-### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality (IROS 2026)
 *Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
 
   <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
-
----
 
 ### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
 *a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
 
   <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
+
+---
 
 ### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
 *Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
