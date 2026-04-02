@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mentor"
+title: "Mentors & Mentees"
 permalink: /mentor/
 author_profile: true
 ---
