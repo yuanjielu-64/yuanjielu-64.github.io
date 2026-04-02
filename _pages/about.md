@@ -37,7 +37,7 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
-### CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
+### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
 *a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
 
   <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
