@@ -13,6 +13,60 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   <div id="pub-container">
     <div id="pub-card-container" class="activated">
 
+      <!-- ========== IROS 2026 (multi-image example) ========== -->
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
+        <div class="pub-media">
+          <div class="multi-images">
+            <div class="badge">IROS 2026</div>
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model</strong><br>
+          <em class="meta"><strong>Y. Lu</strong>, B. Wang, Z. Wu, Y. Li, X. Lin, C. Mao, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
+          <span>
+            Leverages a vision-language-action model to predict navigation planner parameters rather than actions directly.
+            | <a href="https://arxiv.org/abs/2603.08862" target="_blank">paper</a> 
+          </span>
+        </div>
+      </div>
+
+          <!-- ========== IROS 2026 (multi-image example) ========== -->
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
+        <div class="pub-media">
+          <div class="multi-images">
+            <div class="badge">ICRA 2026</div>
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
+          <span>
+            Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> 
+          </span>
+        </div>
+      </div>
+
+            <!-- ========== IROS 2026 (multi-image example) ========== -->
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
+        <div class="pub-media">
+          <div class="multi-images">
+            <div class="badge">ICRA 2026</div>
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
+          <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
+          <span>
+            Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
+            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> 
+          </span>
+        </div>
+      </div>
+    
       <!-- ========== ICRA 2026 (multi-image example) ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
