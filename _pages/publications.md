@@ -35,16 +35,16 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
           <div class="multi-images">
-            <div class="badge">ICRA 2026</div>
-            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <div class="badge">IROS 2026</div>
+            <img src="/images/MTC3.gif" alt="Adaptive Dynamics Planning teaser 2">
           </div>
         </div>
         <div class="pub-info">
-          <strong>Adaptive Dynamics Planning for Robot Navigation</strong><br>
-          <em class="meta"><strong>Y. Lu</strong>, M. Mao, T. Xu, L. Wang, X. Lin, X. Xiao — IEEE International Conference on Robotics and Automation (ICRA), 2026</em>
+          <strong>Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality</strong><br>
+          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
           <span>
-            Integrates adaptive dynamics modeling with learning-based local planners for efficient navigation in constrained environments.
-            | <a href="https://arxiv.org/pdf/2510.05330" target="_blank">paper</a> 
+            Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation.
+            | <a href="https://arxiv.org/abs/2603.05993" target="_blank">paper</a> 
           </span>
         </div>
       </div>
