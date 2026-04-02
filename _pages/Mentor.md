@@ -35,7 +35,7 @@ author_profile: true
     <img src="/images/erion_plaku.png" alt="Erion Plaku photo">
     <div class="student-info">
       <strong>Erion Plaku</strong><br>
-      Professor, George Mason University<br>
+      Professor, U.S. National Science Foundation<br>
     </div>
   </div>
 
@@ -44,7 +44,7 @@ author_profile: true
     <img src="/images/xuesu_xiao.jpg" alt="Xuesu Xiao photo">
     <div class="student-info">
       <strong>Xuesu Xiao</strong><br>
-      Professor, George Mason University<br>
+      Assistant Professor, George Mason University<br>
     </div>
   </div>
 
@@ -71,7 +71,7 @@ author_profile: true
     <img src="/images/xiaomin.jpg" alt="Xiaomin Lin photo">
     <div class="student-info">
       <strong>Xiaomin Lin</strong><br>
-      Research Scientist<br>
+      Assistant Professor, University of South Florida <br>
     </div>
   </div>
 
@@ -80,7 +80,7 @@ author_profile: true
     <img src="/images/chengzhimao.png" alt="Chengzhi Mao photo">
     <div class="student-info">
       <strong>Chengzhi Mao</strong><br>
-      Professor, Rutgers University<br>
+      Assistant Professor, Rutgers University<br>
     </div>
   </div>
 
