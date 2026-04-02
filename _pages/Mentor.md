@@ -32,7 +32,7 @@ author_profile: true
 
   <!-- ===== Erion Plaku ===== -->
   <div class="student-card">
-    <img src="/images/erion_plaku.jpg" alt="Erion Plaku photo">
+    <img src="/images/erion_plaku.png" alt="Erion Plaku photo">
     <div class="student-info">
       <strong>Erion Plaku</strong><br>
       Professor, George Mason University<br>
@@ -59,7 +59,7 @@ author_profile: true
 
   <!-- ===== Tinoosh Mohsenin ===== -->
   <div class="student-card">
-    <img src="/images/tinoosh_mohsenin.jpg" alt="Tinoosh Mohsenin photo">
+    <img src="/images/tinoosh_mohsenin.png" alt="Tinoosh Mohsenin photo">
     <div class="student-info">
       <strong>Tinoosh Mohsenin</strong><br>
       Professor, Johns Hopkins University<br>
@@ -68,7 +68,7 @@ author_profile: true
 
   <!-- ===== Xiaomin Lin ===== -->
   <div class="student-card">
-    <img src="/images/xiaomin_lin.jpg" alt="Xiaomin Lin photo">
+    <img src="/images/xiaomin.jpg" alt="Xiaomin Lin photo">
     <div class="student-info">
       <strong>Xiaomin Lin</strong><br>
       Research Scientist<br>
@@ -77,7 +77,7 @@ author_profile: true
 
   <!-- ===== Chengzhi Mao ===== -->
   <div class="student-card">
-    <img src="/images/chengzhi_mao.jpg" alt="Chengzhi Mao photo">
+    <img src="/images/chengzhimao.png" alt="Chengzhi Mao photo">
     <div class="student-info">
       <strong>Chengzhi Mao</strong><br>
       Professor, Rutgers University<br>
