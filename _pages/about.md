@@ -25,8 +25,11 @@ His research journey has progressed from machine learning and deep learning for 
 
 ## Recent Publications & Projects
 
-### Adaptive Planner Parameter Learning from Vision-Language Models (IROS 2026)
+### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
 *This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
+
+<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/applv1.gif" width="330">
+<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/applv2.gif" width="330">
 
 ### Domain-Aware Reasoning for Autonomous Underwater Monitoring (IROS 2026)
 
