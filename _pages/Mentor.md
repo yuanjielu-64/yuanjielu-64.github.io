@@ -5,7 +5,7 @@ permalink: /mentor/
 author_profile: true
 ---
 
-## 👨‍🏫 Mentors
+## 👨‍🏫 Mentors & Collaborators
 
 <html>
 <body>
