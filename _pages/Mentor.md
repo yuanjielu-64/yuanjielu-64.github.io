@@ -123,10 +123,16 @@ author_profile: true
     </div>
   </div>
 
+  <!-- ===== Student 3 ===== -->
+  <div class="student-card">
+    <img src="/images/Peiyuan_zhao.jpeg" alt="Student 3 photo">
+    <div class="student-info">
+      <strong>Peiyuan Zhao</strong><br>
+      B.S. student, Northeastern University<br>
+    </div>
+  </div>
 
 
-</body>
-</html>
 
 <style>
 /* ===== Gallery Layout ===== */
