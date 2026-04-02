@@ -127,13 +127,13 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
-            <div class="badge">RA-L 2025</div>
+            <div class="badge">RSS 2025</div>
             <img src="/images/Verti-Bench.gif" alt="Verti-bench teaser">
           </div>
         </div>
         <div class="pub-info">
           <strong>Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain</strong><br>
-          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <strong>Y. Lu</strong>, X. Xiao — IEEE Robotics and Automation Letters (RA-L), 2025</em>
+          <em class="meta">T. Xu, C. Pan, M. B. Rao, A. Datar, A. Pokhrel, <strong>Y. Lu</strong>, X. Xiao — Robotics: Science and Systems, 2025</em>
           <span>
             Benchmark for vertical mobility across heterogeneous terrain profiles.
             | <a href="https://arxiv.org/pdf/2502.11426" target="_blank">paper</a> | <a href="https://www.youtube.com/watch?v=O9VlMg3tnvo" target="_blank">video</a>
