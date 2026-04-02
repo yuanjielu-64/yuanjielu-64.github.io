@@ -5,6 +5,90 @@ permalink: /mentor/
 author_profile: true
 ---
 
+## 👨‍🏫 Mentors
+
+<html>
+<body>
+
+<div class="student-gallery">
+
+  <!-- ===== Amarda Shehu ===== -->
+  <div class="student-card">
+    <img src="/images/amarda_shehu.jpg" alt="Amarda Shehu photo">
+    <div class="student-info">
+      <strong>Amarda Shehu</strong><br>
+      Professor, George Mason University<br>
+    </div>
+  </div>
+
+  <!-- ===== David Lattanzi ===== -->
+  <div class="student-card">
+    <img src="/images/david_lattanzi.jpg" alt="David Lattanzi photo">
+    <div class="student-info">
+      <strong>David Lattanzi</strong><br>
+      Professor, George Mason University<br>
+    </div>
+  </div>
+
+  <!-- ===== Erion Plaku ===== -->
+  <div class="student-card">
+    <img src="/images/erion_plaku.jpg" alt="Erion Plaku photo">
+    <div class="student-info">
+      <strong>Erion Plaku</strong><br>
+      Professor, George Mason University<br>
+    </div>
+  </div>
+
+  <!-- ===== Xuesu Xiao ===== -->
+  <div class="student-card">
+    <img src="/images/xuesu_xiao.jpg" alt="Xuesu Xiao photo">
+    <div class="student-info">
+      <strong>Xuesu Xiao</strong><br>
+      Professor, George Mason University<br>
+    </div>
+  </div>
+
+  <!-- ===== Nick Hawes ===== -->
+  <div class="student-card">
+    <img src="/images/nick_hawes.jpg" alt="Nick Hawes photo">
+    <div class="student-info">
+      <strong>Nick Hawes</strong><br>
+      Professor, University of Oxford<br>
+    </div>
+  </div>
+
+  <!-- ===== Tinoosh Mohsenin ===== -->
+  <div class="student-card">
+    <img src="/images/tinoosh_mohsenin.jpg" alt="Tinoosh Mohsenin photo">
+    <div class="student-info">
+      <strong>Tinoosh Mohsenin</strong><br>
+      Professor, Johns Hopkins University<br>
+    </div>
+  </div>
+
+  <!-- ===== Xiaomin Lin ===== -->
+  <div class="student-card">
+    <img src="/images/xiaomin_lin.jpg" alt="Xiaomin Lin photo">
+    <div class="student-info">
+      <strong>Xiaomin Lin</strong><br>
+      Research Scientist<br>
+    </div>
+  </div>
+
+  <!-- ===== Chengzhi Mao ===== -->
+  <div class="student-card">
+    <img src="/images/chengzhi_mao.jpg" alt="Chengzhi Mao photo">
+    <div class="student-info">
+      <strong>Chengzhi Mao</strong><br>
+      Professor, Rutgers University<br>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
+
 ## 👩‍🏫 Students Mentored
 
 <html>
