@@ -63,7 +63,7 @@ His research journey has progressed from machine learning and deep learning for 
   
 
 ## News
-* **[Mar 2026]** Three Papers are submitted to IEEE IROS 2026 (APPLV, MTC, and CORAL)
+* **[Mar 2026]** Three papers are submitted to IEEE IROS 2026 (APPLV, MTC, and CORAL)
 * **[Feb 2026]** Paper "Adaptive Dynamics Planning for Robot Navigation" accepted to IEEE ICRA 2026
 * **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
 * **[Feb 2026]** Completed a paper on large language model–based adaptive parameter tuning for robot navigation
