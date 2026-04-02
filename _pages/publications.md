@@ -18,7 +18,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">IROS 2026</div>
-            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/applv3.gif" alt="Adaptive Dynamics Planning teaser 2">
           </div>
         </div>
         <div class="pub-info">
