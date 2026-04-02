@@ -30,6 +30,13 @@ His research journey has progressed from machine learning and deep learning for 
 
 <img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
 
+### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+*Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
+
+  <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
+
+---
+
 ### Domain-Aware Reasoning for Autonomous Underwater Monitoring (IROS 2026)
 
 
@@ -47,6 +54,7 @@ His research journey has progressed from machine learning and deep learning for 
   <img src="/images/jhu3.gif" width="330"> <img src="/images/jhu5.gif" width="330">
 
 ---
+
 
 ### Adaptive Locomotion for Quadruped Robots in Unstructured Terrain (Summer 2024 @ Unitree)
 *Reinforcement Learning-Based Balance and Mobility Control for Legged Robots Traversing Rocky Terrain and Stairs*
