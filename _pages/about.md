@@ -13,14 +13,16 @@ Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, wo
 
 His research journey has progressed from machine learning and deep learning for autonomous systems, through motion planning algorithms in robotics, to real-world robot navigation and foundation model-driven autonomy.
 
-* **[Dr. Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/) and [Dr. Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/)**, Microsoft Research Asia (MSRA) — dynamics-aware navigation for quadruped robots
-* **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**, Rutgers University — deploying large language models in real-world robotic systems for autonomous navigation, with a focus on system-level integration and practical deployment challenges
-* **[Dr. Xiaomin Lin](https://xiaominlin.github.io/)** — LLM/VLM-driven robot navigation
-* **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**, Johns Hopkins University — quadruped navigation
-* **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**, Oxford University — robot dynamics and adaptive control
-* **[Dr. Erion Plaku](https://erionplaku.github.io/)**, George Mason University — motion planning algorithms that integrate learning with classical planners, building on foundations in dynamic programming and search-based methods
-* **[Virginia Transportation Research Council](https://vtrc.virginia.gov/about/)** — graph neural networks for traffic flow forecasting under non-recurring disruptions such as work zones and lane closures
-* **[Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**, George Mason University — data-driven anomaly forecasting for autonomous systems
+| Collaborator | Topic |
+|---|---|
+| **[Dr. Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/)** and **[Dr. Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/)**<br>*Microsoft Research Asia (MSRA)* | Dynamics-aware navigation for quadruped robots |
+| **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | LLMs for autonomous navigation in real-world robotic systems; system-level integration and deployment |
+| **[Dr. Xiaomin Lin](https://xiaominlin.github.io/)** | LLM/VLM-driven robot navigation |
+| **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
+| **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
+| **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*George Mason University* | Motion planning that integrates learning with classical planners |
+| **[Virginia Transportation Research Council](https://vtrc.virginia.gov/about/)** | Graph neural networks for traffic flow forecasting under work zones and lane closures |
+| **[Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**<br>*George Mason University* | Data-driven anomaly forecasting for autonomous systems |
 
 ## Research Interests
   * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive learning
