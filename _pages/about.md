@@ -17,7 +17,7 @@ His research journey has progressed from machine learning and deep learning for 
 |---|---|
 | **[Dr. Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/)** and **[Dr. Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/)**<br>*Microsoft Research Asia (MSRA)* | Dynamics-aware navigation for quadruped robots |
 | **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | LLMs for autonomous navigation in real-world robotic systems; system-level integration and deployment |
-| **[Dr. Xiaomin Lin](https://xiaominlin.github.io/)** | LLM/VLM-driven robot navigation |
+| **[Prof. Xiaomin Lin](https://xiaominlin.github.io/)**<br>*University of South Florida* | LLM/VLM-driven robot navigation |
 | **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
 | **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
 | **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*George Mason University* | Motion planning that integrates learning with classical planners |
