@@ -77,8 +77,8 @@ His research journey has progressed from machine learning and deep learning for 
 
 ## News
 * **[2026]** Our paper, ["Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations"](https://arxiv.org/abs/2609.21107), has been submitted to ICRA 2027.
-* **[Aug 2026]** I completed a three-month internship at Microsoft Research Asia (May–August 2026).
 * **[Aug 2026]** Our paper "CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments" accepted to OCEANS 2026
+* **[May 2026]** Started a three-month research internship at Microsoft Research Asia.
 * **[Mar 2026]** Three papers are submitted to IEEE IROS 2026 (APPLV, MTC, and CORAL)
 * **[Feb 2026]** Paper "Adaptive Dynamics Planning for Robot Navigation" accepted to IEEE ICRA 2026
 * **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
