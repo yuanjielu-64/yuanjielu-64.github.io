@@ -114,6 +114,13 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
   <div class="experience-item">
+    <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford.svg" alt="University of Oxford logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>University of Oxford — Graduate Teaching Assistant (Remote)</strong><br>
+      <span class="experience-date">Aug 2023–May 2024</span>
+    </div>
+  </div>
+  <div class="experience-item">
     <a class="experience-logo" href="https://vtrc.virginia.gov/" aria-label="Virginia Transportation Research Council"><img src="/images/experience_vdot.png" alt="Virginia Department of Transportation logo" width="160" loading="lazy"></a>
     <div class="experience-details">
       <strong>Virginia Transportation Research Council (VTRC)</strong><br>
