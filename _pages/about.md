@@ -76,6 +76,7 @@ His research journey has progressed from machine learning and deep learning for 
   
 
 ## News
+* **[Aug 2026]** Our paper "CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments" accepted to OCEANS 2026
 * **[Mar 2026]** Three papers are submitted to IEEE IROS 2026 (APPLV, MTC, and CORAL)
 * **[Feb 2026]** Paper "Adaptive Dynamics Planning for Robot Navigation" accepted to IEEE ICRA 2026
 * **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
