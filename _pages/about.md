@@ -69,20 +69,12 @@ His research journey has progressed from machine learning and deep learning for 
 ---
 
 
-### Adaptive Locomotion for Quadruped Robots in Unstructured Terrain (Summer 2024 @ Unitree)
-*Reinforcement Learning-Based Balance and Mobility Control for Legged Robots Traversing Rocky Terrain and Stairs*
-
-  <img src="/images/IROS2025.gif" width="330">  <img src="/images/IROS20251.gif" width="330">
-  
-
 ## News
 * **[Aug 2026]** Our paper ["CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments"](https://arxiv.org/pdf/2608.27793) accepted to OCEANS 2026
 * **[Jun 2026]** Our paper ["APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model"](https://arxiv.org/abs/2603.08862) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 * **[Jun 2026]** Our paper ["CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring"](https://arxiv.org/abs/2603.14786) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 * **[May 2026]** Started a three-month research internship at Microsoft Research Asia.
 * **[Feb 2026]** Paper ["Adaptive Dynamics Planning for Robot Navigation"](https://arxiv.org/abs/2510.05330) accepted to IEEE ICRA 2026
-* **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
-* **[Feb 2026]** Completed a paper on large language model–based adaptive parameter tuning for robot navigation
 * **[Dec 2025]** Built a custom dynamics-model-based navigation system with full ROS1/ROS2 compatibility, supporting modular design and planner adaptation.
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
 * **[Sep 2025]** Fourth BARN Challenge at ICRA 2025 report ["Autonomous Ground Navigation in Highly Constrained Spaces"](https://doi.org/10.1109/MRA.2025.3639795) (published in IEEE Robotics & Automation Magazine, 2026)

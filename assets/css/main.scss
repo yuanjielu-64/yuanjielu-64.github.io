@@ -41,10 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* Keep light-theme content white against the soft page background. */
-html:not([data-theme="dark"]) {
-  .page, .page__inner-wrap, .archive {
-    background-color: #fff;
-  }
-}
