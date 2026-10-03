@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, working in the [**Robotixx Lab**](https://robotixx.cs.gmu.edu/) under the supervision of [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/). He is also affiliated with [**The Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research lies at the intersection of foundation models, world models, and reinforcement learning for autonomous decision-making. He develops **LLM/VLM-based reasoning systems**, **world models** that capture robot dynamics, **deep RL algorithms**, and **learning-based planning methods**. His work focuses on creating intelligent systems that can adapt to novel environments through learned representations and hierarchical decision-making. He is actively seeking research scientist and ML engineer positions in industry, with interests in foundation models, world models, reinforcement learning, and AI systems.
+Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, advised by [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) in the [**RobotiXX Lab**](https://robotixx.cs.gmu.edu/). He is also affiliated with the [**Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research focuses on embodied AI and robot learning, with an emphasis on foundation models, world models, and deep reinforcement learning for autonomous navigation and control. He develops methods that integrate LLM/VLM-based reasoning, world models, and deep reinforcement learning for robot planning and control in complex environments. His research includes applications to wheeled and legged navigation, as well as humanoid locomotion. He is seeking industry positions as a Research Scientist or Machine Learning Engineer in embodied AI, robot learning, and foundation models.
 
 ## Collaborations
 
@@ -16,7 +16,7 @@ His research journey has progressed from machine learning and deep learning for 
 | Collaborator | Topic |
 |---|---|
 | **[Dr. Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/)** and **[Dr. Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/)**<br>*Microsoft Research Asia (MSRA)* | Dynamics-aware navigation for quadruped robots |
-| **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | LLMs for autonomous navigation in real-world robotic systems; system-level integration and deployment |
+| **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | Reliable multimodal reasoning and trustworthy foundation models |
 | **[Prof. Xiaomin Lin](https://xiaominlin.github.io/)**<br>*University of South Florida* | LLM/VLM-driven robot navigation |
 | **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
 | **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
