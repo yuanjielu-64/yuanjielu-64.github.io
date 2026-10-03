@@ -76,9 +76,9 @@ His research journey has progressed from machine learning and deep learning for 
   
 
 ## News
+* **[Aug 2026]** Our paper ["CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments"](https://arxiv.org/pdf/2608.27793) accepted to OCEANS 2026
 * **[Jun 2026]** Our paper ["APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model"](https://arxiv.org/abs/2603.08862) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
 * **[Jun 2026]** Our paper ["CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring"](https://arxiv.org/abs/2603.14786) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.
-* **[Aug 2026]** Our paper ["CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments"](https://arxiv.org/pdf/2608.27793) accepted to OCEANS 2026
 * **[May 2026]** Started a three-month research internship at Microsoft Research Asia.
 * **[Feb 2026]** Paper ["Adaptive Dynamics Planning for Robot Navigation"](https://arxiv.org/abs/2510.05330) accepted to IEEE ICRA 2026
 * **[Feb 2026]** Completed a separate project on underwater robot navigation with extensive experimental evaluation
