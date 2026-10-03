@@ -13,6 +13,21 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   <div id="pub-container">
     <div id="pub-card-container" class="activated">
 
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
+        <div class="pub-info">
+          <strong>CAVE-NAV</strong><br>
+          <em class="meta">Accepted to OCEANS, 2026</em>
+        </div>
+      </div>
+
+      <div class="pub-card" data-topic="traffic-forecasting" data-year="2026" data-selected="true">
+        <div class="pub-info">
+          <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
+          <em class="meta"><strong>Y. Lu</strong>, S. Zhu, A. Shehu, D. Lattanzi — IET Intelligent Transport Systems, 2026</em>
+          <span><a href="https://doi.org/10.1049/itr2.70248" target="_blank">paper</a></span>
+        </div>
+      </div>
+
       <!-- ========== IROS 2026 (multi-image example) ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
@@ -23,7 +38,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model</strong><br>
-          <em class="meta"><strong>Y. Lu</strong>, B. Wang, Z. Wu, Y. Li, X. Lin, C. Mao, X. Xiao — Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
+          <em class="meta"><strong>Y. Lu</strong>, B. Wang, Z. Wu, Y. Li, X. Lin, C. Mao, X. Xiao — Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
           <span>
             Leverages a vision-language-action model to predict navigation planner parameters rather than actions directly.
             | <a href="https://arxiv.org/abs/2603.08862" target="_blank">paper</a> 
@@ -32,16 +47,16 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       </div>
 
           <!-- ========== IROS 2026 (multi-image example) ========== -->
-      <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2027" data-selected="true">
         <div class="pub-media">
           <div class="multi-images">
-            <div class="badge">IROS 2026</div>
+            <div class="badge">ICRA 2027 · Submitted</div>
             <img src="/images/MTC3.gif" alt="Adaptive Dynamics Planning teaser 2">
           </div>
         </div>
         <div class="pub-info">
           <strong>Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality</strong><br>
-          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
+          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2027</em>
           <span>
             Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation.
             | <a href="https://arxiv.org/abs/2603.05993" target="_blank">paper</a> 
@@ -58,8 +73,8 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           </div>
         </div>
         <div class="pub-info">
-          <strong>CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoringn</strong><br>
-          <em class="meta">Z. Wu, <strong>Y. Lu</strong>, X. Xiao, X. Lin — Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
+          <strong>CORAL: COntextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring</strong><br>
+          <em class="meta">Z. Wu, <strong>Y. Lu</strong>, X. Xiao, X. Lin — Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</em>
           <span>
             A framework that decouples high-level semantic reasoning from low-level reactive control.
             | <a href="https://arxiv.org/abs/2603.14786" target="_blank">paper</a> 
@@ -123,7 +138,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ========== RA-L 2025 ========== -->
+      <!-- ========== RSS 2025 ========== -->
       <div class="pub-card" data-topic="benchmarks-datasets" data-year="2025" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
@@ -141,20 +156,20 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <!-- ========== ICRA 2025 (BARN Challenge) ========== -->
-      <div class="pub-card" data-topic="motion-planning" data-year="2025" data-selected="true">
+      <!-- ========== RAM 2026 (BARN Challenge at ICRA 2025) ========== -->
+      <div class="pub-card" data-topic="motion-planning" data-year="2026" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
-            <div class="badge">ICRA 2025</div>
+            <div class="badge">RAM 2026</div>
             <img src="/images/a4.png" alt="BARN challenge teaser">
           </div>
         </div>
         <div class="pub-info">
           <strong>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fourth BARN Challenge at ICRA 2025</strong><br>
-          <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE International Conference on Robotics and Automation (ICRA), 2025 (Competition Track)</em>
+          <em class="meta">X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, K. Yazdipaz, <strong>Y. Lu</strong>, … — IEEE Robotics &amp; Automation Magazine, 33(1), 186–196, 2026</em>
           <span>
             Report and analysis from large-scale constrained-space navigation benchmarking.
-            | <a href="https://cs.gmu.edu/~xiao/papers/barn25_report.pdf" target="_blank">paper</a> | <a href="https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html" target="_blank">website</a>
+            | <a href="https://doi.org/10.1109/MRA.2025.3639795" target="_blank">paper</a> | <a href="https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html" target="_blank">website</a>
           </span>
         </div>
       </div>

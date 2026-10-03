@@ -36,17 +36,17 @@ His research journey has progressed from machine learning and deep learning for 
 
 ## Recent Publications & Projects
 
-### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
+### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (Accepted to IROS 2026)
 *This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
 
 <img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
 
-### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality (IROS 2026)
+### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality (Submitted to ICRA 2027)
 *Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
 
   <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
 
-### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
+### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (Accepted to IROS 2026)
 *a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
 
   <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
@@ -82,7 +82,7 @@ His research journey has progressed from machine learning and deep learning for 
 * **[Feb 2026]** Completed a paper on large language model–based adaptive parameter tuning for robot navigation
 * **[Dec 2025]** Built a custom dynamics-model-based navigation system with full ROS1/ROS2 compatibility, supporting modular design and planner adaptation.
 * **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
-* **[Sep 2025]** Paper "Autonomous Ground Navigation in Highly Constrained Spaces" published in IEEE ICRA 2025 (BARN Challenge Competition Track)
+* **[Sep 2025]** Fourth BARN Challenge at ICRA 2025 report "Autonomous Ground Navigation in Highly Constrained Spaces" (published in IEEE Robotics & Automation Magazine, 2026)
 * **[Sep 2025]** Our paper "Adaptive Dynamics Planning for Robot Navigation" submitted to IEEE ICRA 2026
 * **[Jul 2025]** Our work is supported by Google DeepMind, Clearpath Robotics, Raytheon Technologies, Tangenta, Mason Innovation Exchange (MIX), and Walmart
 * **[May 2025]** Two papers accepted to IEEE IROS 2025: "Decremental Dynamics Planning for Robot Navigation" and "Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning"
