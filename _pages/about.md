@@ -97,7 +97,7 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
   <div class="experience-item">
-    <a class="experience-logo" href="https://www.jhu.edu/" aria-label="Johns Hopkins University"><img src="/images/experience_jhu.jpg" alt="Johns Hopkins University logo" width="160" loading="lazy"></a>
+    <a class="experience-logo" style="flex-basis:176px;" href="https://www.jhu.edu/" aria-label="Johns Hopkins University"><img src="/images/experience_jhu.jpg" alt="Johns Hopkins University logo" width="176" style="width:176px;max-width:100%;height:auto;" loading="lazy"></a>
     <div class="experience-details">
       <strong>Johns Hopkins University</strong><br>
       Research Engineer Intern<br>
@@ -114,7 +114,7 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
   <div class="experience-item">
-    <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="160" loading="lazy"></a>
+    <a class="experience-logo" style="flex-basis:176px;" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="176" style="width:176px;max-width:100%;height:auto;" loading="lazy"></a>
     <div class="experience-details">
       <strong>University of Oxford — Graduate Teaching Assistant (Remote)</strong><br>
       <span class="experience-date">Aug 2023–May 2024</span>
