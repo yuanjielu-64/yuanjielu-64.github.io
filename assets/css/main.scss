@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Compact homepage experience list; inherit the site's existing colors. */
+.experience-item {
+  display: flex;
+  align-items: center;
+  gap: 1.25em;
+  padding: 0.75em 0;
+}
+.experience-logo {
+  flex: 0 0 160px;
+  img { display: block; width: 160px; height: auto; }
+}
+.experience-details { min-width: 0; }
+.experience-date { font-size: 0.9em; }
+@media (max-width: 480px) {
+  .experience-item { flex-wrap: wrap; gap: 0.5em; }
+  .experience-details { flex-basis: 100%; }
+}

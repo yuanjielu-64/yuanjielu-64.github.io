@@ -84,3 +84,41 @@ His research journey has progressed from machine learning and deep learning for 
 * **[Mar 2025]** Our work is supported by National Science Foundation (NSF), Army Research Office (ARO) and Air Force Research Laboratory (AFRL)
 * **[Jan 2025]** Paper ["Multi-Goal Motion Memory"](https://arxiv.org/html/2407.11399v1) accepted to IEEE ICRA 2025
 
+
+## Experiences
+
+<div class="experience-list">
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" aria-label="Microsoft Research Asia"><img src="/images/experience_microsoft.png" alt="Microsoft logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Microsoft Research Asia</strong><br>
+      Research Intern<br>
+      <span class="experience-date">May–August 2026</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.jhu.edu/" aria-label="Johns Hopkins University"><img src="/images/experience_jhu.jpg" alt="Johns Hopkins University logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Johns Hopkins University</strong><br>
+      Research Engineer Intern<br>
+      <span class="experience-date">May–August 2025</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.gmu.edu/" aria-label="George Mason University"><img src="/images/experience_gmu.png" alt="George Mason University logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>George Mason University</strong><br>
+      PhD Candidate in Computer Science<br>
+      <span class="experience-date">August 2021–Present · Expected Spring 2027</span><br>
+      Advisor: <a href="https://cs.gmu.edu/~xiao/">Prof. Xuesu Xiao</a>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.gmu.edu/" aria-label="George Mason University"><img src="/images/experience_gmu.png" alt="George Mason University logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>George Mason University</strong><br>
+      M.S. in Computer Science<br>
+      <span class="experience-date">August 2019–May 2021</span>
+    </div>
+  </div>
+</div>
