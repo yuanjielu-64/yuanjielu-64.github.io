@@ -105,20 +105,20 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
   <div class="experience-item">
-    <a class="experience-logo" href="https://www.gmu.edu/" aria-label="George Mason University"><img src="/images/experience_gmu.png" alt="George Mason University logo" width="160" loading="lazy"></a>
+    <a class="experience-logo" href="https://www.unitree.com/" aria-label="Unitree Robotics"><img src="/images/experience_unitree.svg" alt="Unitree Robotics logo" width="160" loading="lazy"></a>
     <div class="experience-details">
-      <strong>George Mason University</strong><br>
-      PhD Candidate in Computer Science<br>
-      <span class="experience-date">August 2021–Present · Expected Spring 2027</span><br>
-      Advisor: <a href="https://cs.gmu.edu/~xiao/">Prof. Xuesu Xiao</a>
+      <strong>Unitree Robotics × Institute for Digital Innovation (IDIA)</strong><br>
+      Digital Innovation Research Fellow<br>
+      <span class="experience-date">May–August 2024</span><br>
+      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.<br>Advisors: Tong Yang (Unitree Robotics) and Kamaljeet Sanghera (IDIA)</span>
     </div>
   </div>
   <div class="experience-item">
-    <a class="experience-logo" href="https://www.gmu.edu/" aria-label="George Mason University"><img src="/images/experience_gmu.png" alt="George Mason University logo" width="160" loading="lazy"></a>
+    <a class="experience-logo" href="https://vtrc.virginia.gov/" aria-label="Virginia Transportation Research Council"><img src="/images/experience_vdot.png" alt="Virginia Department of Transportation logo" width="160" loading="lazy"></a>
     <div class="experience-details">
-      <strong>George Mason University</strong><br>
-      M.S. in Computer Science<br>
-      <span class="experience-date">August 2019–May 2021</span>
+      <strong>Virginia Transportation Research Council (VTRC)</strong><br>
+      Summer Research Assistant<br>
+      <span class="experience-date">May–August 2020</span>
     </div>
   </div>
 </div>

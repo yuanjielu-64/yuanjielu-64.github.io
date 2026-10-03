@@ -42,19 +42,43 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Compact homepage experience list; inherit the site's existing colors. */
+/* Simple experience timeline; retain the site's existing colors. */
+.experience-list {
+  position: relative;
+  padding-left: 1.5em;
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0.3em;
+    top: 1.5em;
+    bottom: 1.5em;
+    width: 1px;
+    background: var(--global-border-color);
+  }
+}
 .experience-item {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 1.25em;
   padding: 0.75em 0;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -1.45em;
+    top: 1.5em;
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 50%;
+    background: var(--global-text-color);
+  }
 }
 .experience-logo {
   flex: 0 0 160px;
   img { display: block; width: 160px; height: auto; }
 }
 .experience-details { min-width: 0; }
-.experience-date { font-size: 0.9em; }
+.experience-date, .experience-note { font-size: 0.9em; }
 @media (max-width: 480px) {
   .experience-item { flex-wrap: wrap; gap: 0.5em; }
   .experience-details { flex-basis: 100%; }
