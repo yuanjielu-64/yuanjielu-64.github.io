@@ -114,7 +114,7 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
   <div class="experience-item">
-    <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford.svg" alt="University of Oxford logo" width="160" loading="lazy"></a>
+    <a class="experience-logo" href="https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_University_of_Oxford.svg" aria-label="University of Oxford coat of arms — image credits and license" title="Oxford coat of arms by ChevronTango and Wikimedia Commons contributors; CC BY-SA 3.0; unmodified"><img src="/images/experience_oxford_crest.svg" alt="University of Oxford coat of arms" width="120" style="width:120px;height:auto;" loading="lazy"></a>
     <div class="experience-details">
       <strong>University of Oxford — Graduate Teaching Assistant (Remote)</strong><br>
       <span class="experience-date">Aug 2023–May 2024</span>
