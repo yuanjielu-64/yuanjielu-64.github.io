@@ -110,7 +110,7 @@ His research journey has progressed from machine learning and deep learning for 
       <strong>Unitree Robotics × Institute for Digital Innovation (IDIA)</strong><br>
       Digital Innovation Research Fellow<br>
       <span class="experience-date">May–August 2024</span><br>
-      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.<br>Advisors: Tong Yang (Unitree Robotics) and Kamaljeet Sanghera (IDIA)</span>
+      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.</span>
     </div>
   </div>
   <div class="experience-item">
