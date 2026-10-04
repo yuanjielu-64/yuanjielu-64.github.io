@@ -111,6 +111,20 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
+### Research Internship (Summer 2026 @ Microsoft Research Asia)
+*Quadruped navigation demonstrations in an indoor corridor with obstacles.*
+
+<div class="msra-internship-media">
+<video width="260" autoplay muted loop playsinline preload="metadata" poster="/images/msra_aa_cover.png" aria-label="Quadruped robot navigation demonstration, first clip at three times original speed"><source src="/images/msra_aa_3x.mp4" type="video/mp4"><img src="/images/msra_aa_cover.png" alt="Quadruped robot in an indoor corridor"></video>
+<video width="260" autoplay muted loop playsinline preload="metadata" poster="/images/msra_bb_cover.png" aria-label="Quadruped robot navigation demonstration, second clip at three times original speed"><source src="/images/msra_bb_3x.mp4" type="video/mp4"><img src="/images/msra_bb_cover.png" alt="Quadruped robot navigating corridor obstacles"></video>
+</div>
+<style>
+.msra-internship-media { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px; margin: 1em 0; }
+.msra-internship-media video { display: block; width: 260px; max-width: 100%; height: auto; aspect-ratio: 9 / 16; object-fit: contain; }
+</style>
+
+---
+
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
 *Autonomous Navigation for Legged Robots in Complex Environments*
 
