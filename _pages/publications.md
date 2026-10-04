@@ -31,13 +31,14 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
           <div class="multi-images">
-            <img src="/images/cave_nav_static_slideshow.svg" alt="Original underwater cave robot photograph followed by the original navigation route, alternating every five seconds" loading="lazy">
+            <div class="badge">OCEANS 2026</div>
+            <img src="/images/cave_nav_photo_route_sequence.svg" alt="Underwater robot photograph followed by a schematic marker moving along the original yellow navigation route" loading="lazy">
           </div>
         </div>
         <div class="pub-info">
-          <strong><a href="https://arxiv.org/abs/2608.27793">CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments</a></strong><br>
-          <em class="meta">Z. Wu, <b>Y. Lu</b>, Y. Zhang, M. Yu, X. Xiao, J. Shin, X. Lin — Accepted to OCEANS, 2026</em>
-          <p>CAVE-NAV combines RGB imagery, depth maps, and sonar-based vertical clearance with vision-language reasoning to guide 3D navigation through confined underwater caves. High-fidelity simulations demonstrate collision-free traversal across five cave topologies.</p>
+          <strong>CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments</strong><br>
+          <em class="meta">Z. Wu, <strong>Y. Lu</strong>, Y. Zhang, M. Yu, X. Xiao, J. Shin, X. Lin — OCEANS 2026</em>
+          <span>Vision-language-guided 3D navigation through confined underwater caves using visual, depth, and sonar observations. | <a href="https://arxiv.org/html/2608.27793v1" target="_blank">paper</a></span>
         </div>
       </div>
 
