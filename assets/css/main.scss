@@ -46,15 +46,6 @@
 .experience-list {
   position: relative;
   padding-left: 1.5em;
-  &::before {
-    content: "";
-    position: absolute;
-    left: 0.3em;
-    top: 1.5em;
-    bottom: 1.5em;
-    width: 1px;
-    background: var(--global-border-color);
-  }
 }
 .experience-item {
   position: relative;
@@ -62,16 +53,29 @@
   align-items: center;
   gap: 1.25em;
   padding: 0.75em 0;
-  &::before {
+  &::before, &::after {
     content: "";
     position: absolute;
-    left: -1.45em;
-    top: 1.5em;
+    left: -1.2em;
+  }
+  &::before {
+    top: 50%;
     width: 0.5em;
     height: 0.5em;
+    transform: translate(-50%, -50%);
     border-radius: 50%;
     background: var(--global-text-color);
+    z-index: 1;
   }
+  &::after {
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    transform: translateX(-50%);
+    background: var(--global-border-color);
+  }
+  &:first-child::after { top: 50%; }
+  &:last-child::after { bottom: 50%; }
 }
 .experience-logo {
   flex: 0 0 160px;
