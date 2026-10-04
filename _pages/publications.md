@@ -23,7 +23,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-info">
           <strong>Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations (Submitted to ICRA 2027)</strong><br>
           <em class="meta">B. Wang, T. Xu, D. Kosukhin, Y.-H. Yeung, <strong>Y. Lu</strong>, X. Xiao</em>
-          <span>Learns scene-aware humanoid locomotion from immersive VR demonstrations using motion retargeting that accounts for robot–scene clearance. The learned policy enables a Unitree G1 to crawl through low passages and squeeze through narrow gaps.</span>
+          <span>Learning scene-aware humanoid locomotion from immersive VR demonstrations, enabling a Unitree G1 to crawl through low passages and navigate narrow gaps. | <a href="https://arxiv.org/abs/2609.21107" target="_blank">paper</a></span>
         </div>
       </div>
 
@@ -72,9 +72,9 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
         <div class="pub-info">
           <strong>Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality</strong><br>
-          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2027</em>
+          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — Submitted to ICRA 2027</em>
           <span>
-            Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation.
+            Collects whole-body motion in VR and benchmarks humanoid locomotion in cluttered 3D scenes.
             | <a href="https://arxiv.org/abs/2603.05993" target="_blank">paper</a> 
           </span>
         </div>
