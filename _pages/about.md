@@ -44,7 +44,7 @@ His research journey has progressed from machine learning and deep learning for 
 ### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality (Submitted to ICRA 2027)
 *Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
 
-  <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
+  <img src="/images/mtc_scene_aware.gif" alt="Scene-aware humanoid locomotion in simulation" width="330" style="max-width:100%;height:auto;" loading="lazy"> <img src="/images/mtc_robot_demo.gif" alt="Unitree G1 navigation demonstration" width="330" style="max-width:100%;height:auto;" loading="lazy">
 
 ### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (Accepted to IROS 2026)
 *a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
