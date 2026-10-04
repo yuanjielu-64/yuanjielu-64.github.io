@@ -126,10 +126,10 @@ His research journey has progressed from machine learning and deep learning for 
 * **[May 2026]** Started a three-month research internship at Microsoft Research Asia.
 * **[Feb 2026]** Paper ["Adaptive Dynamics Planning for Robot Navigation"](https://arxiv.org/abs/2510.05330) accepted to IEEE ICRA 2026
 * **[Dec 2025]** Built a custom dynamics-model-based navigation system with full ROS1/ROS2 compatibility, supporting modular design and planner adaptation.
-* **[Oct 2025]** Preparing three papers on LLM/VLM-based navigation in collaboration with the University of South Florida and the University of Maryland
 * **[Sep 2025]** Fourth BARN Challenge at ICRA 2025 report ["Autonomous Ground Navigation in Highly Constrained Spaces"](https://doi.org/10.1109/MRA.2025.3639795) (published in IEEE Robotics & Automation Magazine, 2026)
 * **[Jul 2025]** Our work is supported by Google DeepMind, Clearpath Robotics, Raytheon Technologies, Tangenta, Mason Innovation Exchange (MIX), and Walmart
-* **[May 2025]** Two papers accepted to IEEE IROS 2025: ["Decremental Dynamics Planning for Robot Navigation"](https://arxiv.org/abs/2503.20521) and ["Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning"](https://arxiv.org/abs/2503.15724)
+* **[May 2025]** Our paper ["Decremental Dynamics Planning for Robot Navigation"](https://arxiv.org/abs/2503.20521) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+* **[May 2025]** Our paper ["Reward Training Wheels: Adaptive Auxiliary Rewards for Robotics Reinforcement Learning"](https://arxiv.org/abs/2503.15724) accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 * **[May 2025]** Started Research Engineer position at Johns Hopkins University
 * **[Mar 2025]** Our work is supported by National Science Foundation (NSF), Army Research Office (ARO) and Air Force Research Laboratory (AFRL)
 * **[Jan 2025]** Paper ["Multi-Goal Motion Memory"](https://arxiv.org/html/2407.11399v1) accepted to IEEE ICRA 2025
