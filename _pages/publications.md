@@ -253,7 +253,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       <h2>Other Publications</h2>
 
       <div class="pub-card" data-topic="traffic-forecasting" data-year="2026" data-selected="true">
-        <div class="pub-media"><div class="multi-images"><img src="/images/work_zone_traffic_model.png" alt="Work-zone traffic forecasting model architecture" loading="lazy"></div></div>
+        <div class="pub-media"><div class="multi-images"><div class="badge">IET Intelligent Transport Systems 2026</div><img src="/images/work_zone_traffic_model.png" alt="Work-zone traffic forecasting model architecture" loading="lazy"></div></div>
         <div class="pub-info">
           <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
           <em class="meta"><strong>Y. Lu</strong>, S. Zhu, A. Shehu, D. Lattanzi — IET Intelligent Transport Systems, 2026</em>
