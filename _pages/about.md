@@ -9,6 +9,14 @@ redirect_from:
 
 Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, advised by [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) in the [**RobotiXX Lab**](https://robotixx.cs.gmu.edu/). He is also affiliated with the [**Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research focuses on embodied AI and robot learning, with an emphasis on foundation models, world models, and deep reinforcement learning for autonomous navigation and control. He develops methods that integrate LLM/VLM-based reasoning, world models, and deep reinforcement learning for robot planning and control in complex environments. His research includes applications to wheeled and legged navigation, as well as humanoid locomotion. He is seeking industry positions as a Research Scientist or Machine Learning Engineer in embodied AI, robot learning, and foundation models.
 
+## Research Interests
+  * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive learning
+  * World Models for Robot Dynamics: Learned dynamics models, action-conditioned prediction, and dynamics-aware planning
+  * Deep Reinforcement Learning: Policy learning, hierarchical control, and sim-to-real transfer
+  * Neural Motion Planning: Learning-based methods for efficient planning and control in dynamic environments
+
+{% include base_path %}
+
 ## Collaborations
 
 His research journey has progressed from machine learning and deep learning for autonomous systems, through motion planning algorithms in robotics, to real-world robot navigation and foundation model-driven autonomy.
@@ -24,13 +32,51 @@ His research journey has progressed from machine learning and deep learning for 
 | **[Virginia Transportation Research Council](https://vtrc.virginia.gov/about/)** | Graph neural networks for traffic flow forecasting under work zones and lane closures |
 | **[Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**<br>*George Mason University* | Data-driven anomaly forecasting for autonomous systems |
 
-## Research Interests
-  * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive learning
-  * World Models for Robot Dynamics: Learned dynamics models, action-conditioned prediction, and dynamics-aware planning
-  * Deep Reinforcement Learning: Policy learning, hierarchical control, and sim-to-real transfer
-  * Neural Motion Planning: Learning-based methods for efficient planning and control in dynamic environments
+## Experiences
 
-{% include base_path %}
+<div class="experience-list">
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" aria-label="Microsoft Research Asia"><img src="/images/experience_microsoft.png" alt="Microsoft logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Microsoft Research Asia</strong><br>
+      Research Intern<br>
+      <span class="experience-date">May–August 2026</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.jhu.edu/" aria-label="Johns Hopkins University"><img src="/images/experience_jhu_cropped.png" alt="Johns Hopkins University logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Johns Hopkins University</strong><br>
+      Research Engineer Intern<br>
+      <span class="experience-date">May–August 2025</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.unitree.com/" aria-label="Unitree Robotics"><img src="/images/experience_unitree.svg" alt="Unitree Robotics logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Unitree Robotics × Institute for Digital Innovation (IDIA)</strong><br>
+      Digital Innovation Research Fellow<br>
+      <span class="experience-date">May–August 2024</span><br>
+      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>University of Oxford</strong><br>
+      Graduate Teaching Assistant (Remote)<br>
+      <span class="experience-date">Aug 2023–May 2024</span>
+    </div>
+  </div>
+  <div class="experience-item">
+    <a class="experience-logo" href="https://vtrc.virginia.gov/" aria-label="Virginia Transportation Research Council"><img src="/images/experience_vdot.png" alt="Virginia Department of Transportation logo" width="160" loading="lazy"></a>
+    <div class="experience-details">
+      <strong>Virginia Transportation Research Council (VTRC)</strong><br>
+      Summer Research Assistant<br>
+      <span class="experience-date">May–August 2020</span>
+    </div>
+  </div>
+</div>
 
 [📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
 
@@ -90,48 +136,3 @@ His research journey has progressed from machine learning and deep learning for 
 * **[Jan 2025]** Paper ["Multi-Goal Motion Memory"](https://arxiv.org/html/2407.11399v1) accepted to IEEE ICRA 2025
 
 
-## Experiences
-
-<div class="experience-list">
-  <div class="experience-item">
-    <a class="experience-logo" href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" aria-label="Microsoft Research Asia"><img src="/images/experience_microsoft.png" alt="Microsoft logo" width="160" loading="lazy"></a>
-    <div class="experience-details">
-      <strong>Microsoft Research Asia</strong><br>
-      Research Intern<br>
-      <span class="experience-date">May–August 2026</span>
-    </div>
-  </div>
-  <div class="experience-item">
-    <a class="experience-logo" href="https://www.jhu.edu/" aria-label="Johns Hopkins University"><img src="/images/experience_jhu_cropped.png" alt="Johns Hopkins University logo" width="160" loading="lazy"></a>
-    <div class="experience-details">
-      <strong>Johns Hopkins University</strong><br>
-      Research Engineer Intern<br>
-      <span class="experience-date">May–August 2025</span>
-    </div>
-  </div>
-  <div class="experience-item">
-    <a class="experience-logo" href="https://www.unitree.com/" aria-label="Unitree Robotics"><img src="/images/experience_unitree.svg" alt="Unitree Robotics logo" width="160" loading="lazy"></a>
-    <div class="experience-details">
-      <strong>Unitree Robotics × Institute for Digital Innovation (IDIA)</strong><br>
-      Digital Innovation Research Fellow<br>
-      <span class="experience-date">May–August 2024</span><br>
-      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.</span>
-    </div>
-  </div>
-  <div class="experience-item">
-    <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="160" loading="lazy"></a>
-    <div class="experience-details">
-      <strong>University of Oxford</strong><br>
-      Graduate Teaching Assistant (Remote)<br>
-      <span class="experience-date">Aug 2023–May 2024</span>
-    </div>
-  </div>
-  <div class="experience-item">
-    <a class="experience-logo" href="https://vtrc.virginia.gov/" aria-label="Virginia Transportation Research Council"><img src="/images/experience_vdot.png" alt="Virginia Department of Transportation logo" width="160" loading="lazy"></a>
-    <div class="experience-details">
-      <strong>Virginia Transportation Research Council (VTRC)</strong><br>
-      Summer Research Assistant<br>
-      <span class="experience-date">May–August 2020</span>
-    </div>
-  </div>
-</div>
