@@ -103,6 +103,7 @@
 
 /* Align the main navigation pages to the same desktop content width. */
 @media (min-width: 1024px) {
+  html { scrollbar-gutter: stable; }
   .home-main .page,
   .navigation-main .archive { padding-right: 8.4745762712%; }
 }
