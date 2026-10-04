@@ -61,7 +61,7 @@ I design and use multiple simulation platforms for both classical planning and l
 | **Isaac Sim** | <img src="/images/isaacsim.png" width="300"/> | High-fidelity NVIDIA Omniverse simulator for perception, dynamics, and multi-robot coordination. |
 | **Newton** | <img src="/images/newton_navigation.png" width="300" style="max-width: 100%; height: auto;" alt="Quadruped navigation in Newton with rough terrain, obstacles, and planned trajectories"/> | Physics simulation. |
 | **MuJoCo** | <img src="/images/mujoco_navigation.png" width="300" style="max-width: 100%; height: auto;" alt="Quadruped navigation in MuJoCo with rough terrain, obstacles, and planned trajectories"/> | Physics simulation. |
-| **mjlab** | — | Robot learning simulation. |
+| **mjlab** | <video width="300" style="max-width:100%;height:auto;" autoplay muted loop playsinline preload="metadata" poster="/images/mjlab_go2_simulation_cover.png" aria-label="Unitree Go2 locomotion in mjlab simulation"><source src="/images/mjlab_go2_simulation.mp4" type="video/mp4"><img src="/images/mjlab_go2_simulation_cover.png" width="300" alt="Unitree Go2 in mjlab simulation"></video> | Unitree Go2 locomotion simulation using mjlab and MuJoCo Warp. |
 | **Custom Terrains** | <img src="/images/terrian.png" width="300"/> | Procedurally generated terrains for testing locomotion, stability, and adaptive control. |
 | **Self-design Simulation** | <img src="/images/simulation2.png" width="300"/> | self-design simulation using C++ for motion planning or multi-goal motion planning. |
 
