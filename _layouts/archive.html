@@ -12,7 +12,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+{% assign navigation_pages = "/research/|/publications/|/projects/|/cv/|/mentor/|/contact/" | split: "|" %}
+<div id="main"{% if navigation_pages contains page.url %} class="navigation-main"{% endif %} role="main">
   {% include sidebar.html %}
 
   <div class="archive">

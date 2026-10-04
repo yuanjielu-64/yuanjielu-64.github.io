@@ -101,7 +101,8 @@
 
 .experience-list { background-color: var(--global-bg-color); }
 
-/* Give the homepage a little more desktop room without changing other pages. */
+/* Align the main navigation pages to the same desktop content width. */
 @media (min-width: 1024px) {
-  .home-main .page { padding-right: 8.4745762712%; }
+  .home-main .page,
+  .navigation-main .archive { padding-right: 8.4745762712%; }
 }
