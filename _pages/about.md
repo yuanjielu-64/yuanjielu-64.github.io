@@ -41,7 +41,7 @@ His research journey has progressed from machine learning and deep learning for 
 
 <img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
 
-### [Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations](https://arxiv.org/abs/2609.21107)
+### Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations
 *Learns scene-aware humanoid locomotion from immersive VR demonstrations using motion retargeting that accounts for robot–scene clearance. The learned policy enables a Unitree G1 to crawl through low passages and squeeze through narrow gaps.*
 
 <img src="/images/mtc_scene_aware.gif" alt="Scene-aware humanoid locomotion in simulation" width="330" style="max-width:100%;height:auto;" loading="lazy"> <img src="/images/mtc_robot_demo.gif" alt="Unitree G1 navigation demonstration" width="330" style="max-width:100%;height:auto;" loading="lazy">
