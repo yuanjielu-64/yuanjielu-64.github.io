@@ -19,7 +19,7 @@ author_profile: true
 *Robot navigation through extremely dense obstacles and tightly constrained passages.*
 
 <div class="project-media-row">
-<img class="project-visual" src="/images/constrained_navigation_environment.jpg" alt="Cardboard obstacle course with narrow passages and a wheeled robot" width="330" loading="lazy">
+<img class="project-visual" src="/images/constrained_navigation_environment_no_person.png" alt="Cardboard obstacle course with narrow passages and a wheeled robot" width="330" loading="lazy">
 <video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/constrained_navigation_project_cover.jpg" aria-label="Wheeled robot navigating narrow passages between cardboard obstacles"><source src="/images/constrained_navigation_project_2x.mp4" type="video/mp4"><img src="/images/constrained_navigation_project_cover.jpg" alt="Wheeled robot navigating narrow passages between cardboard obstacles"></video>
 </div>
 
