@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="project-media-row">
 <img class="project-visual" src="/images/constrained_navigation_environment.jpg" alt="Cardboard obstacle course with narrow passages and a wheeled robot" width="330" loading="lazy">
-<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/constrained_navigation_project_cover.jpg" aria-label="Wheeled robot navigating narrow passages between cardboard obstacles"><source src="/images/constrained_navigation_project.mp4" type="video/mp4"><img src="/images/constrained_navigation_project_cover.jpg" alt="Wheeled robot navigating narrow passages between cardboard obstacles"></video>
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/constrained_navigation_project_cover.jpg" aria-label="Wheeled robot navigating narrow passages between cardboard obstacles"><source src="/images/constrained_navigation_project_2x.mp4" type="video/mp4"><img src="/images/constrained_navigation_project_cover.jpg" alt="Wheeled robot navigating narrow passages between cardboard obstacles"></video>
 </div>
 
 ---
@@ -40,7 +40,8 @@ author_profile: true
 ---
 
 <style>
-.project-media-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px; margin: 1em 0; }
-.project-media-row .project-visual { display: block; width: 330px; max-width: 100%; aspect-ratio: 16 / 9; object-fit: contain; border-radius: 6px; }
-@media (max-width: 480px) { .project-media-row .project-visual { width: 100%; } }
+.project-media-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 8px; margin: 0.5em 0 0; }
+.project-media-row .project-visual { display: block; width: auto; height: 186px; max-width: 100%; object-fit: contain; border-radius: 6px; }
+.archive hr { margin: 2.25em 0 1.5em; }
+@media (max-width: 480px) { .project-media-row .project-visual { width: 100%; height: auto; } }
 </style>
