@@ -13,6 +13,22 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
   <div id="pub-container">
     <div id="pub-card-container" class="activated">
 
+      <div class="pub-card" data-topic="learning-based-navigation" data-year="2027" data-selected="true">
+        <div class="pub-media">
+          <div class="multi-images">
+            <div class="badge">ICRA 2027 · Submitted</div>
+            <img src="/images/mtc_four_sim_maneuvers_960.gif" alt="Scene-aware humanoid locomotion in simulation" loading="lazy">
+            <img src="/images/mtc_real_crawl_960.gif" alt="Unitree G1 crawling demonstration" loading="lazy">
+          </div>
+        </div>
+        <div class="pub-info">
+          <strong>Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations (Submitted to ICRA 2027)</strong><br>
+          <em class="meta">B. Wang, T. Xu, D. Kosukhin, Y.-H. Yeung, <strong>Y. Lu</strong>, X. Xiao</em>
+          <span>Learns scene-aware humanoid locomotion from immersive VR demonstrations using motion retargeting that accounts for robot–scene clearance. The learned policy enables a Unitree G1 to crawl through low passages and squeeze through narrow gaps.</span>
+        </div>
+      </div>
+
+
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-info">
           <strong>CAVE-NAV</strong><br>
@@ -20,13 +36,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         </div>
       </div>
 
-      <div class="pub-card" data-topic="traffic-forecasting" data-year="2026" data-selected="true">
-        <div class="pub-info">
-          <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
-          <em class="meta"><strong>Y. Lu</strong>, S. Zhu, A. Shehu, D. Lattanzi — IET Intelligent Transport Systems, 2026</em>
-          <span><a href="https://doi.org/10.1049/itr2.70248" target="_blank">paper</a></span>
-        </div>
-      </div>
+
 
       <!-- ========== IROS 2026 (multi-image example) ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
@@ -247,6 +257,18 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       </div>
 
       <!-- ========== BIBM 2021 ========== -->
+
+
+      <h2>Other Publications</h2>
+
+      <div class="pub-card" data-topic="traffic-forecasting" data-year="2026" data-selected="true">
+        <div class="pub-info">
+          <strong>Accounting for Work Zone Disruptions in Traffic Flow Forecasting via Multi-Channel Attention-Based Spatio-Temporal Graph Convolutional Networks</strong><br>
+          <em class="meta"><strong>Y. Lu</strong>, S. Zhu, A. Shehu, D. Lattanzi — IET Intelligent Transport Systems, 2026</em>
+          <span><a href="https://doi.org/10.1049/itr2.70248" target="_blank">paper</a></span>
+        </div>
+      </div>
+
       <div class="pub-card" data-topic="machine-learning" data-year="2021" data-selected="true">
         <div class="pub-media">
           <div class="media-wrapper">
