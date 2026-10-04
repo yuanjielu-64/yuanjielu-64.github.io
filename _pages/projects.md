@@ -10,7 +10,7 @@ author_profile: true
 
 <div class="project-media-row">
 <video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/humanoid_locomotion_project_cover.jpg" aria-label="Humanoid locomotion simulation"><source src="/images/humanoid_locomotion_project.mp4" type="video/mp4"><img src="/images/humanoid_locomotion_project_cover.jpg" alt="Humanoid locomotion simulation"></video>
-<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/humanoid_clutter_project_cover.jpg" aria-label="Moving Through Clutter humanoid locomotion simulation"><source src="/images/humanoid_clutter_project.mp4" type="video/mp4"><img src="/images/humanoid_clutter_project_cover.jpg" alt="Moving Through Clutter humanoid locomotion simulation"></video>
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/humanoid_clutter_project_cover.jpg" aria-label="Moving Through Clutter humanoid locomotion simulation"><source src="/images/humanoid_clutter_project_2x.mp4" type="video/mp4"><img src="/images/humanoid_clutter_project_cover.jpg" alt="Moving Through Clutter humanoid locomotion simulation"></video>
 </div>
 
 ---
@@ -41,7 +41,9 @@ author_profile: true
 
 <style>
 .project-media-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 8px; margin: 0.5em 0 0; }
-.project-media-row .project-visual { display: block; width: auto; height: 186px; max-width: 100%; object-fit: contain; border-radius: 6px; }
+.project-media-row .project-visual { display: block; width: 330px; height: auto; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; object-position: center; border-radius: 6px; }
+.project-media-row video[poster*="humanoid_locomotion"] { object-position: center 75%; }
+.project-media-row img.project-visual { object-position: center 65%; }
 .archive hr { margin: 2.25em 0 1.5em; }
 @media (max-width: 480px) { .project-media-row .project-visual { width: 100%; height: auto; } }
 </style>
