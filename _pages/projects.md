@@ -5,19 +5,23 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Locomotion for Humanoid robots (Current)
-*Locomotion of the humanoid robot G1*
+### Locomotion for Humanoid Robots
+*Humanoid locomotion simulations in open and cluttered environments.*
 
-<img src="/images/human.gif" alt="Unitree G1 humanoid locomotion demonstration" width="330">
+<div class="project-media-row">
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/humanoid_locomotion_project_cover.jpg" aria-label="Humanoid locomotion simulation"><source src="/images/humanoid_locomotion_project.mp4" type="video/mp4"><img src="/images/humanoid_locomotion_project_cover.jpg" alt="Humanoid locomotion simulation"></video>
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/humanoid_clutter_project_cover.jpg" aria-label="Moving Through Clutter humanoid locomotion simulation"><source src="/images/humanoid_clutter_project.mp4" type="video/mp4"><img src="/images/humanoid_clutter_project_cover.jpg" alt="Moving Through Clutter humanoid locomotion simulation"></video>
+</div>
 
-#### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+---
 
-*Collects whole-body motion in VR and benchmarks humanoid locomotion in cluttered 3D scenes.*
+### Navigation in Extremely Cluttered Environments
+*Robot navigation through extremely dense obstacles and tightly constrained passages.*
 
-<img src="/images/MTC3.gif" alt="Moving Through Clutter VR data collection and humanoid locomotion benchmark demonstration" width="330" style="max-width: 100%; height: auto;" loading="lazy">
-
-[paper](https://arxiv.org/abs/2603.05993)
-
+<div class="project-media-row">
+<img class="project-visual" src="/images/constrained_navigation_environment.jpg" alt="Cardboard obstacle course with narrow passages and a wheeled robot" width="330" loading="lazy">
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/constrained_navigation_project_cover.jpg" aria-label="Wheeled robot navigating narrow passages between cardboard obstacles"><source src="/images/constrained_navigation_project.mp4" type="video/mp4"><img src="/images/constrained_navigation_project_cover.jpg" alt="Wheeled robot navigating narrow passages between cardboard obstacles"></video>
+</div>
 
 ---
 
@@ -35,3 +39,8 @@ author_profile: true
 
 ---
 
+<style>
+.project-media-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px; margin: 1em 0; }
+.project-media-row .project-visual { display: block; width: 330px; max-width: 100%; aspect-ratio: 16 / 9; object-fit: contain; border-radius: 6px; }
+@media (max-width: 480px) { .project-media-row .project-visual { width: 100%; } }
+</style>
