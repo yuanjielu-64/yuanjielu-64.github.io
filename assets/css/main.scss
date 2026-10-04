@@ -100,3 +100,8 @@
 }
 
 .experience-list { background-color: var(--global-bg-color); }
+
+/* Give the homepage a little more desktop room without changing other pages. */
+@media (min-width: 1024px) {
+  .home-main .page { padding-right: 8.4745762712%; }
+}
