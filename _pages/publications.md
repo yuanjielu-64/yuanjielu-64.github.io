@@ -21,7 +21,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
           </div>
         </div>
         <div class="pub-info">
-          <strong>Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations (Submitted to ICRA 2027)</strong><br>
+          <strong>Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations</strong><br>
           <em class="meta">B. Wang, T. Xu, D. Kosukhin, Y.-H. Yeung, <strong>Y. Lu</strong>, X. Xiao</em>
           <span>Learning scene-aware humanoid locomotion from immersive VR demonstrations, enabling a Unitree G1 to crawl through low passages and navigate narrow gaps. | <a href="https://arxiv.org/abs/2609.21107" target="_blank">paper</a></span>
         </div>
@@ -49,7 +49,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">IROS 2026</div>
-            <img src="/images/applv3.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/applv3.gif" alt="APPLV adaptive navigation planner parameter demonstration">
           </div>
         </div>
         <div class="pub-info">
@@ -63,29 +63,14 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
       </div>
 
           <!-- ========== IROS 2026 (multi-image example) ========== -->
-      <div class="pub-card" data-topic="learning-based-navigation" data-year="2027" data-selected="true">
-        <div class="pub-media">
-          <div class="multi-images">
-            <div class="badge">ICRA 2027 · Submitted</div>
-            <img src="/images/MTC3.gif" alt="Adaptive Dynamics Planning teaser 2">
-          </div>
-        </div>
-        <div class="pub-info">
-          <strong>Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality</strong><br>
-          <em class="meta"> B. Wang, <strong>Y. Lu</strong>, L. Wang, L Yu, X. Xiao — Submitted to ICRA 2027</em>
-          <span>
-            Collects whole-body motion in VR and benchmarks humanoid locomotion in cluttered 3D scenes.
-            | <a href="https://arxiv.org/abs/2603.05993" target="_blank">paper</a> 
-          </span>
-        </div>
-      </div>
+
 
             <!-- ========== IROS 2026 (multi-image example) ========== -->
       <div class="pub-card" data-topic="learning-based-navigation" data-year="2026" data-selected="true">
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">IROS 2026</div>
-            <img src="/images/CORAL1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/CORAL1.gif" alt="CORAL underwater contextual reasoning and local planning demonstration">
           </div>
         </div>
         <div class="pub-info">
@@ -103,7 +88,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">ICRA 2026</div>
-            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/ICRA2026_1.gif" alt="Adaptive Dynamics Planning robot navigation demonstration">
           </div>
         </div>
         <div class="pub-info">
@@ -123,7 +108,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">IROS 2025</div>
-            <img src="/images/DDP1.gif" alt="Adaptive Dynamics Planning teaser 2">
+            <img src="/images/DDP1.gif" alt="Decremental Dynamics Planning robot navigation demonstration">
           </div>
         </div>
         <div class="pub-info">

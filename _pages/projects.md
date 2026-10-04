@@ -8,7 +8,16 @@ author_profile: true
 ### Locomotion for Humanoid robots (Current)
 *Locomotion of the humanoid robot G1*
 
-<img src="/images/human.gif" width="330">
+<img src="/images/human.gif" alt="Unitree G1 humanoid locomotion demonstration" width="330">
+
+#### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+
+*Collects whole-body motion in VR and benchmarks humanoid locomotion in cluttered 3D scenes.*
+
+<img src="/images/MTC3.gif" alt="Moving Through Clutter VR data collection and humanoid locomotion benchmark demonstration" width="330" style="max-width: 100%; height: auto;" loading="lazy">
+
+[paper](https://arxiv.org/abs/2603.05993)
+
 
 ---
 
