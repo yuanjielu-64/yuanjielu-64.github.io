@@ -17,8 +17,7 @@ googlescholar: https://scholar.google.com/citations?user=BVwGPdQAAAAJ&hl=en
         <div class="pub-media">
           <div class="multi-images">
             <div class="badge">ICRA 2027 · Submitted</div>
-            <img src="/images/mtc_four_sim_maneuvers_960.gif" alt="Scene-aware humanoid locomotion in simulation" loading="lazy">
-            <img src="/images/mtc_real_crawl_960.gif" alt="Unitree G1 crawling demonstration" loading="lazy">
+            <img src="/images/mtc_crawl_real_then_4_sim_maneuvers_960.gif" alt="Unitree G1 crawling followed by four simulated locomotion maneuvers" loading="lazy">
           </div>
         </div>
         <div class="pub-info">
