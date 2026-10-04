@@ -94,3 +94,5 @@
 .experience-logo:has(img[src*="experience_oxford_cropped"]) {
   mix-blend-mode: multiply;
 }
+
+.experience-list { background-color: var(--global-bg-color); }
