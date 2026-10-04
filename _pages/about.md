@@ -64,7 +64,7 @@ His research journey has progressed from machine learning and deep learning for 
     <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="160" loading="lazy"></a>
     <div class="experience-details">
       <strong>University of Oxford</strong><br>
-      Graduate Teaching Assistant (Remote)<br>
+      Visiting Researcher (Remote)<br>
       <span class="experience-date">Aug 2023–May 2024</span>
     </div>
   </div>
