@@ -10,10 +10,10 @@ redirect_from:
 Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, advised by [**Prof. Xuesu Xiao**](https://cs.gmu.edu/~xiao/) in the [**RobotiXX Lab**](https://robotixx.cs.gmu.edu/). He is also affiliated with the [**Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research focuses on embodied AI and robot learning, with an emphasis on foundation models, world models, and deep reinforcement learning for autonomous navigation and control. He develops methods that integrate LLM/VLM-based reasoning, world models, and deep reinforcement learning for robot planning and control in complex environments. His research includes applications to wheeled and legged navigation, as well as humanoid locomotion. He is seeking industry positions as a Research Scientist or Machine Learning Engineer in embodied AI, robot learning, and foundation models.
 
 ## Research Interests
-  * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive learning
+  * Foundation Models for Embodied AI: LLM/VLM-based reasoning, planning, and adaptation for autonomous robots
   * World Models for Embodied Intelligence: Learning predictive representations of the physical world for action-conditioned prediction, planning, and control
-  * Deep Reinforcement Learning: Policy learning, hierarchical control, and sim-to-real transfer
-  * Machine Learning-Augmented Motion Planning: Learning-based methods for efficient planning and control in dynamic environments
+  * Deep Reinforcement Learning for Robot Control: Adaptive and hierarchical control, policy learning, and sim-to-real transfer
+  * Machine Learning-Augmented Motion Planning: Integrating learned models, planning memory, and classical planners for efficient, executable motion
 
 {% include base_path %}
 
