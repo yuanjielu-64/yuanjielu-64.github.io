@@ -41,7 +41,7 @@ His research journey has progressed from machine learning and deep learning for 
 
 <img src="/images/mtc_scene_aware.gif" alt="Scene-aware humanoid locomotion in simulation" width="330" style="max-width:100%;height:auto;" loading="lazy"> <img src="/images/mtc_robot_demo.gif" alt="Unitree G1 navigation demonstration" width="330" style="max-width:100%;height:auto;" loading="lazy">
 
-### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (Accepted to IROS 2026)
+### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
 *This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
 
 <img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
@@ -51,7 +51,7 @@ His research journey has progressed from machine learning and deep learning for 
 
   <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
 
-### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (Accepted to IROS 2026)
+### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
 *a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
 
   <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
