@@ -11,7 +11,7 @@ Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, ad
 
 ## Research Interests
   * Foundation Models for Decision-Making: LLMs and VLMs for reasoning, planning, and adaptive learning
-  * World Models for Robot Dynamics: Learned dynamics models, action-conditioned prediction, and dynamics-aware planning
+  * World Models for Embodied Intelligence: Learning predictive representations of the physical world for action-conditioned prediction, planning, and control
   * Deep Reinforcement Learning: Policy learning, hierarchical control, and sim-to-real transfer
   * Neural Motion Planning: Learning-based methods for efficient planning and control in dynamic environments
 
