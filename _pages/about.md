@@ -115,7 +115,6 @@ His research journey has progressed from machine learning and deep learning for 
 *Autonomous Navigation for Legged Robots in Complex Environments*
 
   <img src="/images/jhu1.gif" width="330"> <img src="/images/jhu4.gif" width="330">
-  <img src="/images/jhu3.gif" width="330"> <img src="/images/jhu5.gif" width="330">
 
 ---
 
