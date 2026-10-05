@@ -63,7 +63,7 @@ His research journey has progressed from machine learning and deep learning for 
   <div class="experience-item">
     <a class="experience-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford"><img src="/images/experience_oxford_cropped.png" alt="University of Oxford logo" width="160" loading="lazy"></a>
     <div class="experience-details">
-      <strong>University of Oxford, Oxford Robotics Institute</strong><br>
+      <strong>University of Oxford</strong><br>
       Remote Researcher<br>
       <span class="experience-date">Dec 2024 - May 2025</span>
     </div>
