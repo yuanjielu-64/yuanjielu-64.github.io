@@ -72,7 +72,7 @@ His research journey has progressed from machine learning and deep learning for 
     <a class="experience-logo" href="https://vtrc.virginia.gov/" aria-label="Virginia Department of Transportation (VDOT)"><img src="/images/experience_vdot.png" alt="Virginia Department of Transportation logo" width="160" loading="lazy"></a>
     <div class="experience-details">
       <strong>Virginia Department of Transportation (VDOT)</strong><br>
-      Summer Research Assistant · VTRC-sponsored project with GMU<br>
+      Summer Research Assistant · VTRC-sponsored project<br>
       <span class="experience-date">May–August 2020</span>
     </div>
   </div>
