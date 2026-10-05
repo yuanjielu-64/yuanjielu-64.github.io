@@ -20,7 +20,7 @@ Education
 
 Research & Work Experience
 ======
-* **Collaborative Researcher**, May 2026 – Present
+* **Collaborative Researcher**, Aug 2026 – Present
   * Microsoft Research Asia
   * Collaborators: [Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/) and [Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/)
 
