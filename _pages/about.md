@@ -89,7 +89,8 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
-### Research Internship (Summer 2026 @ Microsoft Research Asia)
+### Microsoft Research Asia — Quadruped Navigation in Dense Obstacle Environments
+*Summer 2026 Research Internship*
 *Quadruped navigation demonstrations in an indoor corridor with obstacles.*
 
 <div class="msra-internship-media">
