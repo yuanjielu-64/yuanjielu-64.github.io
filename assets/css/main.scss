@@ -107,3 +107,27 @@
   .home-main .page,
   .navigation-main .archive { padding-right: 8.4745762712%; }
 }
+
+/* Consistent section spacing on the homepage and main navigation pages. */
+.home-main .page__content > h2,
+.navigation-main .archive h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+.home-main .page__content > h2 { padding-bottom: 0.35em; }
+.home-main .page__content > h3,
+.navigation-main .archive > h3 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+.home-main .page__content > p,
+.navigation-main .archive > p { margin-bottom: 0.9rem; }
+.home-main .page__content > hr,
+.navigation-main .archive > hr { margin: 1.5rem 0 0.9rem; }
+.home-main .page__content > hr + h2,
+.home-main .page__content > hr + h3,
+.navigation-main .archive > hr + h2,
+.navigation-main .archive > hr + h3 { margin-top: 0; }
+.navigation-main .archive > .page__title + h2,
+.navigation-main .archive > .page__title + h3 { margin-top: 1rem; }
+.navigation-main .archive > .page__title:empty { display: none; }
