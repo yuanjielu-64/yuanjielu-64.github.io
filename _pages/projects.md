@@ -15,6 +15,16 @@ author_profile: true
 
 ---
 
+### Research Internship (Summer 2026 @ Microsoft Research Asia)
+*Quadruped navigation demonstrations in an indoor corridor with obstacles.*
+
+<div class="project-media-row">
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/msra_aa_landscape_cover.png" aria-label="Quadruped robot navigation demonstration, first clip at three times original speed"><source src="/images/msra_aa_3x_landscape.mp4" type="video/mp4"><img src="/images/msra_aa_landscape_cover.png" alt="Quadruped robot in an indoor corridor"></video>
+<video class="project-visual" width="330" autoplay muted loop playsinline preload="metadata" poster="/images/msra_bb_landscape_cover.png" aria-label="Quadruped robot navigation demonstration, second clip at three times original speed"><source src="/images/msra_bb_3x_landscape.mp4" type="video/mp4"><img src="/images/msra_bb_landscape_cover.png" alt="Quadruped robot navigating corridor obstacles"></video>
+</div>
+
+---
+
 ### Navigation in Extremely Cluttered Environments
 *Robot navigation through extremely dense obstacles and tightly constrained passages.*
 
