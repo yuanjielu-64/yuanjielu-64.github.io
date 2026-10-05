@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-### Microsoft Research Asia (Summer 2026) — Quadruped Navigation in Dense Obstacle Environments
+### Quadruped Navigation in Dense Obstacle Environments (Summer 2026 @ Microsoft Research Asia)
 *Quadruped navigation demonstrations in an indoor corridor with obstacles.*
 
 <div class="project-media-row">
