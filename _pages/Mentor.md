@@ -14,7 +14,7 @@ author_profile: true
 
   <!-- ===== Xuesu Xiao ===== -->
   <div class="student-card">
-    <a class="mentor-portrait" href="https://cs.gmu.edu/~xiao/" aria-label="Xuesu Xiao webpage"><img src="/images/xuesu_xiao.jpg" alt="Xuesu Xiao photo"></a>
+    <a class="mentor-portrait" href="https://people.cs.gmu.edu/~xiao/" aria-label="Xuesu Xiao webpage"><img src="/images/xuesu_xiao.jpg" alt="Xuesu Xiao photo"></a>
     <div class="student-info">
       <strong>Xuesu Xiao</strong><br>
       Assistant Professor, George Mason University<br>
