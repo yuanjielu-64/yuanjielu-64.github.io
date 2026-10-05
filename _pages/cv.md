@@ -14,7 +14,11 @@ Education
 * **Ph.D. in Computer Science**, George Mason University, Fairfax, VA, USA (Aug 2021 – Present)
   * Expected Graduation: Spring 2027
   * Advisor: [Prof. Xuesu Xiao](https://cs.gmu.edu/~xiao/)
-  * Research Focus: Deep Learning and Reinforcement Learning for Autonomous Robot Navigation; AI-driven Decision-Making for Motion Planning and Control
+  * Research Focus:
+    * Foundation Models for Embodied AI: LLM/VLM-based reasoning, planning, and adaptation for autonomous robots
+    * World Models for Embodied Intelligence: Learning predictive representations of the physical world for action-conditioned prediction, planning, and control
+    * Deep Reinforcement Learning for Robot Control: Adaptive and hierarchical control, policy learning, and sim-to-real transfer
+    * Machine Learning-Augmented Motion Planning: Integrating learned models, planning memory, and classical planners for efficient, executable motion
 
 * **M.S. in Computer Science**, George Mason University (Aug 2019 – May 2021)
 
