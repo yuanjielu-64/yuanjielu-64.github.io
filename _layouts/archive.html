@@ -16,7 +16,7 @@ layout: default
 <div id="main"{% if navigation_pages contains page.url %} class="navigation-main"{% endif %} role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div class="archive{% if page.url == "/cv/" %} archive--cv{% elsif page.url == "/mentor/" %} archive--mentor{% elsif page.url == "/contact/" %} archive--contact{% endif %}">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}

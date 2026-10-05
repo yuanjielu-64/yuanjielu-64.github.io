@@ -131,3 +131,16 @@
 .navigation-main .archive > .page__title + h2,
 .navigation-main .archive > .page__title + h3 { margin-top: 1rem; }
 .navigation-main .archive > .page__title:empty { display: none; }
+
+/* Remove paragraph top margins that compete with heading spacing. */
+.navigation-main .archive > p { margin-top: 0; }
+/* CV uses level-one section headings and nested lists. */
+.navigation-main .archive--cv > h1:not(.page__title) { margin-bottom: 0.6rem; }
+.navigation-main .archive--cv > ul { margin-top: 0.65rem; margin-bottom: 0.8rem; }
+.navigation-main .archive--cv li { margin-bottom: 0.35em; }
+.navigation-main .archive--cv li > ul { margin-top: 0.35em; }
+.navigation-main .archive--cv li > p { margin-top: 0; margin-bottom: 0.35em; }
+/* Tighten card rows without changing portrait sizes or column spacing. */
+.navigation-main .archive--mentor .student-gallery { margin-top: 0.75rem; row-gap: 20px; }
+/* Contact is a sequence of short paragraphs, rather than headed sections. */
+.navigation-main .archive--contact > p { margin-bottom: 0.65rem; }
