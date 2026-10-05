@@ -39,6 +39,15 @@ author_profile: true
     </div>
   </div>
 
+  <!-- ===== Zhenyu Yang ===== -->
+  <div class="student-card">
+    <a class="mentor-portrait" href="https://ml-summit.org/speaker/776?uid=c1035&amp;lang=en" aria-label="Zhenyu Yang webpage"><img src="/images/zhenyu_yang.jpg" alt="Zhenyu Yang photo"></a>
+    <div class="student-info">
+      <strong>Zhenyu Yang</strong><br>
+      Chief Researcher, OPPO Xiaobu Assistant<br>
+    </div>
+  </div>
+
   <!-- ===== Tinoosh Mohsenin ===== -->
   <div class="student-card">
     <a class="mentor-portrait" href="https://eehpc.ece.jhu.edu/tinoosh-mohsenin/" aria-label="Tinoosh Mohsenin webpage"><img src="/images/tinoosh_mohsenin.png" alt="Tinoosh Mohsenin photo"></a>
@@ -72,15 +81,6 @@ author_profile: true
     <div class="student-info">
       <strong>David Lattanzi</strong><br>
       Professor, George Mason University<br>
-    </div>
-  </div>
-
-  <!-- ===== Zhenyu Yang ===== -->
-  <div class="student-card">
-    <a class="mentor-portrait" href="https://ml-summit.org/speaker/776?uid=c1035&amp;lang=en" aria-label="Zhenyu Yang webpage"><img src="/images/zhenyu_yang.jpg" alt="Zhenyu Yang photo"></a>
-    <div class="student-info">
-      <strong>Zhenyu Yang</strong><br>
-      Chief Researcher, OPPO Xiaobu Assistant<br>
     </div>
   </div>
 
