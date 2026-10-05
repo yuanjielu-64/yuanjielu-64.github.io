@@ -26,6 +26,7 @@ His research journey has progressed from machine learning and deep learning for 
 | **[Dr. Dongqi Han](https://www.microsoft.com/en-us/research/people/dongqihan/)** and **[Dr. Dongsheng Li](https://www.microsoft.com/en-us/research/people/dongsli/)**<br>*Microsoft Research Asia (MSRA)* | Dynamics-aware navigation for quadruped robots |
 | **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | Reliable multimodal reasoning and trustworthy foundation models |
 | **[Prof. Xiaomin Lin](https://xiaominlin.github.io/)**<br>*University of South Florida* | LLM/VLM-driven robot navigation |
+| **[Zhenyu Yang](https://ml-summit.org/speaker/776?uid=c1035&lang=en)**<br>*Chief Researcher, OPPO Xiaobu Assistant* | Natural language processing, large language models, and conversational AI |
 | **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
 | **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
 | **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*U.S. National Science Foundation (NSF), CISE* | Motion planning that integrates learning with classical planners |
