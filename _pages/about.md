@@ -55,10 +55,9 @@ His research journey has progressed from machine learning and deep learning for 
   <div class="experience-item">
     <a class="experience-logo" href="https://www.unitree.com/" aria-label="Unitree Robotics"><img src="/images/experience_unitree.svg" alt="Unitree Robotics logo" width="160" loading="lazy"></a>
     <div class="experience-details">
-      <strong>Unitree Robotics × Institute for Digital Innovation (IDIA)</strong><br>
-      Digital Innovation Research Fellow<br>
-      <span class="experience-date">May–August 2024</span><br>
-      <span class="experience-note">IDIA fellowship in collaboration with Unitree Robotics.</span>
+      <strong>Unitree Robotics × RobotiXX Lab</strong><br>
+      Digital Innovation Summer Experiential Fellow<br>
+      <span class="experience-date">May–August 2024</span>
     </div>
   </div>
   <div class="experience-item">
