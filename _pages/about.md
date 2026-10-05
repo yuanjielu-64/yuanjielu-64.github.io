@@ -89,31 +89,6 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
-### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
-*Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
-
-<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
-
-
----
-
-### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
-*This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
-
-<img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
-
-### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
-*Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
-
-  <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
-
-### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
-*a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
-
-  <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
-
----
-
 ### Research Internship (Summer 2026 @ Microsoft Research Asia)
 *Quadruped navigation demonstrations in an indoor corridor with obstacles.*
 
@@ -128,13 +103,40 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
+### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
+*This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
+
+<img src="/images/applv1.gif" width="330"> <img src="/images/applv2.gif" width="330">
+
+---
+
+### Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+*Generates scenes with controllable clutter levels and captures embodiment-consistent, whole-body human motion through immersive VR navigation*
+
+  <img src="/images/MTC1.gif" width="330"> <img src="/images/MTC2.gif" width="330">
+
+---
+
+### CORAL: Contextual Reasoning And Local Planning in A Hierarchical VLM Framework for Underwater Monitoring (IROS 2026)
+*a framework that decouples high-level semantic reasoning from low-level reactive control for underwater monitoring*
+
+  <img src="/images/CORAL1.gif" width="330"> <img src="/images/CORAL2.gif" width="330">
+
+---
+
+### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
+*Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
+
+<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
+
+---
+
 ### Autonomous Navigation for Legged Robots (Summer 2025 @ JHU)
 *Autonomous Navigation for Legged Robots in Complex Environments*
 
   <img src="/images/jhu1.gif" width="330"> <img src="/images/jhu4.gif" width="330">
 
 ---
-
 
 ## News
 * **[Aug 2026]** Our paper ["CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments"](https://arxiv.org/pdf/2608.27793) accepted to OCEANS 2026
