@@ -13,25 +13,23 @@ I aim to build **intelligent navigation systems** that enable robots to operate 
 
 ## 🔬 Research Themes
 
-* ***Foundation Models for Intelligent Decision-Making***  
-Developing LLM and VLM-based systems for adaptive reasoning and planning. Focusing on prompt engineering, fine-tuning with domain-specific data, and real-time inference optimization for sequential decision-making tasks.
+* ***Foundation Models for Embodied AI***  
+Developing LLM/VLM-based systems that connect perception, reasoning, and action, enabling robots to interpret complex environments and adapt their decisions to changing conditions.
 
-* ***Deep Reinforcement Learning for Adaptive Control***  
-Designing model-free and hierarchical RL algorithms for continuous control problems. Investigating policy learning, reward shaping, and sim-to-real transfer methods for deployment in complex, dynamic environments.
+* ***World Models for Embodied Intelligence***  
+Learning action-conditioned models of physical environments and robot behavior to predict future states, anticipate interaction outcomes, and support decision-making under uncertainty.
 
-* ***Learning-based Motion Planning***  
-Creating neural planning methods that leverage learned representations for efficient path generation. Developing learned heuristics, memory-augmented frameworks, and hybrid approaches combining classical and learning-based techniques.
+* ***Deep Reinforcement Learning for Robot Control***  
+Developing adaptive control policies for mobile and legged robots, with a focus on sample-efficient learning, hierarchical control, and transfer from simulation to the real world.
+
+* ***Machine Learning-Augmented Motion Planning***  
+Combining learned representations, prior experience, and classical planning to generate efficient, dynamically feasible motions in cluttered and challenging environments.
 
 ---
 
 ## 🚀 Future Directions
 
-My future research aims to advance **foundation models and reinforcement learning** for more complex decision-making scenarios.
-
-**Key directions:**
-- Scaling LLM/VLM reasoning to longer horizons and multi-agent systems
-- Sample-efficient RL for high-dimensional continuous control tasks
-- Bridging the gap between learned policies and real-world deployment
+My future research will connect foundation models, predictive world models, and reinforcement learning to enable robots to adapt to unfamiliar environments, reason about the consequences of their actions, and operate reliably under physical constraints.
 
 ---
 
