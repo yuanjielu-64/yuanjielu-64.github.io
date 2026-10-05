@@ -87,6 +87,16 @@ His research journey has progressed from machine learning and deep learning for 
 
 <img src="/images/mtc_four_sim_maneuvers_960.gif" alt="Scene-aware humanoid locomotion in simulation" width="330" style="max-width:100%;height:auto;" loading="lazy"> <img src="/images/mtc_real_crawl_960.gif" alt="Unitree G1 navigation demonstration" width="330" style="max-width:100%;height:auto;" loading="lazy">
 
+---
+
+### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
+*Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
+
+<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
+
+
+---
+
 ### APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model (IROS 2026)
 *This work studies how vision–language models (VLMs) can be leveraged to adaptively adjust classical motion planner parameters based on semantic and contextual understanding of the environment*
 
@@ -104,13 +114,6 @@ His research journey has progressed from machine learning and deep learning for 
 
 ---
 
-### Adaptive Dynamics Planning (ADP) for Robot Navigation (ICRA 2026)
-*Combining Motion Planning with TD3-Based Reinforcement Learning for Real-Time Dynamics Adaptation in Mapless, Constrained Environments*
-
-<img src="/images/ICRA2026_1.gif" width="330"> <img src="/images/ICRA2026_0.gif" width="330">
-
----
-
 ### Research Internship (Summer 2026 @ Microsoft Research Asia)
 *Quadruped navigation demonstrations in an indoor corridor with obstacles.*
 
@@ -119,8 +122,8 @@ His research journey has progressed from machine learning and deep learning for 
 <video width="260" autoplay muted loop playsinline preload="metadata" poster="/images/msra_bb_cover.png" aria-label="Quadruped robot navigation demonstration, second clip at three times original speed"><source src="/images/msra_bb_3x.mp4" type="video/mp4"><img src="/images/msra_bb_cover.png" alt="Quadruped robot navigating corridor obstacles"></video>
 </div>
 <style>
-.msra-internship-media { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px; margin: 1em 0; }
-.msra-internship-media video { display: block; width: 260px; max-width: 100%; height: auto; aspect-ratio: 9 / 16; object-fit: contain; }
+.msra-internship-media { display: flex; flex-wrap: wrap; align-items: flex-start; width: fit-content; max-width: 100%; gap: 12px; margin: 1em 0; }
+.msra-internship-media video { display: block; flex: 0 0 auto; width: 180px; max-width: 100%; height: auto; aspect-ratio: 9 / 16; object-fit: contain; }
 </style>
 
 ---
