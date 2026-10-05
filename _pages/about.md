@@ -27,11 +27,11 @@ His research journey has progressed from machine learning and deep learning for 
 | **[Prof. Chengzhi Mao](https://chengzhi-mao.github.io/)**<br>*Rutgers University* | Reliable multimodal reasoning and trustworthy foundation models |
 | **[Prof. Xiaomin Lin](https://xiaominlin.github.io/)**<br>*University of South Florida* | LLM/VLM-driven robot navigation |
 | **[Zhenyu Yang](https://ml-summit.org/speaker/776?uid=c1035&lang=en)**<br>*Chief Researcher, OPPO Xiaobu Assistant* | Natural language processing, large language models, and conversational AI |
-| **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
+| **[Prof. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
 | **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
-| **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*U.S. National Science Foundation (NSF), CISE* | Motion planning that integrates learning with classical planners |
+| **[Prof. Erion Plaku](https://erionplaku.github.io/)**<br>*U.S. National Science Foundation (NSF), CISE* | Motion planning that integrates learning with classical planners |
 | **[Virginia Transportation Research Council](https://vtrc.virginia.gov/about/)** | Graph neural networks for traffic flow forecasting under work zones and lane closures |
-| **[Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**<br>*George Mason University* | Data-driven anomaly forecasting for autonomous systems |
+| **[Prof. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Prof. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**<br>*George Mason University* | Data-driven anomaly forecasting for autonomous systems |
 
 ## Experiences
 
