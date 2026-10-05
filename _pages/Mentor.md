@@ -71,7 +71,7 @@ author_profile: true
     <a class="mentor-portrait" href="https://erionplaku.github.io/" aria-label="Erion Plaku webpage"><img src="/images/erion_plaku.png" alt="Erion Plaku photo"></a>
     <div class="student-info">
       <strong>Erion Plaku</strong><br>
-      Professor, U.S. National Science Foundation<br>
+      <span style="display:block;font-size:14px;line-height:1.25;">Senior Advisor for Artificial Intelligence (CISE)<br>U.S. National Science Foundation (NSF)</span>
     </div>
   </div>
 

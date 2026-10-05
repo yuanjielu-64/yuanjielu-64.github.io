@@ -28,7 +28,7 @@ His research journey has progressed from machine learning and deep learning for 
 | **[Prof. Xiaomin Lin](https://xiaominlin.github.io/)**<br>*University of South Florida* | LLM/VLM-driven robot navigation |
 | **[Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/)**<br>*Johns Hopkins University* | Quadruped navigation |
 | **[Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/)**<br>*Oxford University* | Robot dynamics and adaptive control |
-| **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*George Mason University* | Motion planning that integrates learning with classical planners |
+| **[Dr. Erion Plaku](https://erionplaku.github.io/)**<br>*U.S. National Science Foundation (NSF), CISE* | Motion planning that integrates learning with classical planners |
 | **[Virginia Transportation Research Council](https://vtrc.virginia.gov/about/)** | Graph neural networks for traffic flow forecasting under work zones and lane closures |
 | **[Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/)** and **[Dr. David Lattanzi](https://volgenau.gmu.edu/profiles/dlattanz)**<br>*George Mason University* | Data-driven anomaly forecasting for autonomous systems |
 
