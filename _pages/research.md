@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## 🌟 What I Do
+## What I Do
 
 I aim to build **intelligent navigation systems** that enable robots to operate autonomously in complex, unstructured environments.
 
 ---
 
-## 🔬 Research Themes
+## Research Themes
 
 * ***Foundation Models for Embodied AI***  
 Developing LLM/VLM-based systems that connect perception, reasoning, and action, enabling robots to interpret complex environments and adapt their decisions to changing conditions.
@@ -27,13 +27,13 @@ Combining learned representations, prior experience, and classical planning to g
 
 ---
 
-## 🚀 Future Directions
+## Future Directions
 
 My future research will connect foundation models, predictive world models, and reinforcement learning to enable robots to adapt to unfamiliar environments, reason about the consequences of their actions, and operate reliably under physical constraints.
 
 ---
 
-## 🤖 Hardware Platforms
+## Hardware Platforms
 
 I work with diverse robot platforms to validate algorithms in both simulation and real-world environments.
 
@@ -48,7 +48,7 @@ I work with diverse robot platforms to validate algorithms in both simulation an
 
 ---
 
-## 🛠️ Simulation Environments
+## Simulation Environments
 
 I design and use multiple simulation platforms for both classical planning and learning-based navigation.
 
