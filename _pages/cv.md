@@ -48,7 +48,7 @@ Research & Work Experience
   * Unitree Robotics × Institute for Digital Innovation (IDIA)
   * IDIA fellowship in collaboration with Unitree Robotics.
 
-* **Visiting Researcher (Remote)**, Aug 2023 – May 2024
+* **Visiting Researcher (Remote)**, Nov 2024 – May 2025
   * University of Oxford
 
 * **Summer Research Assistant**, May 2020 – Aug 2020

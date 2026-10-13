@@ -9,13 +9,15 @@ redirect_from:
 
 Yuanjie Lu is a PhD candidate in Computer Science at George Mason University, advised by [**Prof. Xuesu Xiao**](https://people.cs.gmu.edu/~xiao/) in the [**RobotiXX Lab**](https://robotixx.cs.gmu.edu/). He is also affiliated with the [**Center for Human-AI Innovation in Society**](https://chais.gmu.edu/). His research focuses on embodied AI and robot learning, with an emphasis on foundation models, world models, and deep reinforcement learning for autonomous navigation and control. He develops methods that integrate LLM/VLM-based reasoning, world models, and deep reinforcement learning for robot planning and control in complex environments. His research includes applications to wheeled and legged navigation, as well as humanoid locomotion. He is seeking industry positions as a Research Scientist or Machine Learning Engineer in embodied AI, robot learning, and foundation models.
 
+{% include base_path %}
+
+[📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
+
 ## Research Interests
   * Foundation Models for Embodied AI: LLM/VLM-based reasoning, planning, and adaptation for autonomous robots
   * World Models for Embodied Intelligence: Learning predictive representations of the physical world for action-conditioned prediction, planning, and control
   * Deep Reinforcement Learning for Robot Control: Adaptive and hierarchical control, policy learning, and sim-to-real transfer
   * Machine Learning-Augmented Motion Planning: Integrating learned models, planning memory, and classical planners for efficient, executable motion
-
-{% include base_path %}
 
 ## Collaborations
 
@@ -65,7 +67,7 @@ His research journey has progressed from machine learning and deep learning for 
     <div class="experience-details">
       <strong>University of Oxford</strong><br>
       Remote Researcher<br>
-      <span class="experience-date">Dec 2024 - May 2025</span>
+      <span class="experience-date">Nov 2024 - May 2025</span>
     </div>
   </div>
   <div class="experience-item">
@@ -77,8 +79,6 @@ His research journey has progressed from machine learning and deep learning for 
     </div>
   </div>
 </div>
-
-[📄 **Download Full CV (PDF)**]( {{ base_path }}/files/Yuanjie_Lu.pdf ){: .btn .btn--primary target="_blank"}
 
 ## Recent Publications & Projects
 
